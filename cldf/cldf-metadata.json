@@ -13,6 +13,7 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Collection of Basic Words in Chinese Dialects",
+    "dcat:accessURL": "https://github.com/lexibank/liusinitic",
     "rdf:ID": "liusinitic",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -23,7 +24,7 @@
             "dc:title": "environment",
             "properties": {
                 "glottolog_version": "v4.0-12-ge90a2e37f4",
-                "concepticon_version": "v2.0-30-gcea4c63"
+                "concepticon_version": "v2.1.0-6-ga171367"
             }
         }
     ],
@@ -185,6 +186,10 @@
                     {
                         "datatype": "string",
                         "name": "ChineseName"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
                     }
                 ],
                 "primaryKey": [
