@@ -1,4 +1,4 @@
-﻿Source_ID	ID	Name	ALT_NAME	PINYIN	ChineseName	Latitude	Longitude	Glottolog	Subgroup
+﻿Source_ID	ID	Name	AltName	Pinyin	ChineseName	Latitude	Longitude	Glottocode	DialectGroup
 1	beijing	Beijing	Peking	Běijīng	北京	39.9385466	116.1172766	beij1234	Mandarin
 12	changsha	Changsha		Chángshā	长沙	28.85032	112.943344	chan1326	Xiang
 7	chengdu	Chengdu		Chéngdū	成都	30.605768	103.970947	chen1267	Mandarin

@@ -20,6 +20,12 @@ class HLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Family = attr.ib(default=None)
+    Source_ID = attr.ib(default=None)
+    DialectGroup = attr.ib(default=None)
+    Pinyin = attr.ib(default=None)
+    AltName = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -27,9 +33,6 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = HConcept
     language_class = HLanguage
-    
-    def clean_form(self, item, form):
-        return form.strip().replace(' ', '_')
 
     def cmd_download(self, **kw):
         pass
@@ -55,32 +58,20 @@ class Dataset(BaseDataset):
             concepts['heart [compound]'] = 'Liu-2007-201-158'
             concepts['river_2'] = 'Liu-2007-201-50'
             concepts['river'] = 'Liu-2007-201-49'
-            for language in self.languages:
-                ds.add_language(
-                        ID=language['ID'],
-                        Glottocode=language['Glottolog'],
-                        Name=language['Name'],
-                        Latitude=language['Latitude'],
-                        Longitude=language['Longitude'],
-                        ChineseName=language['ChineseName']
-                        )
-                langs[language['Name']] = language['ID']
-
+            ds.add_languages()
+            langs = {k['Name']: k['ID'] for k in self.languages}
             ds.add_sources(*self.raw.read_bib())
             bads = []
             for idx in tqdm(wl, desc='cldfify'):
                 
-                try:
-                    ds.add_lexemes(
-                       Language_ID=langs[wl[idx, 'doculect']],
-                       Parameter_ID=concepts[wl[idx, 'concept']], 
-                       Value=wl[idx, 'value'],
-                       Form=wl[idx, 'value'],
-                       Segments=wl[idx, 'segments'],
-                       Source=['Liu2007']
-                       )
-                except: 
-                    print(wl[idx, 'concept'])
+                ds.add_lexemes(
+                   Language_ID=langs[wl[idx, 'doculect']],
+                   Parameter_ID=concepts[wl[idx, 'concept']], 
+                   Value=wl[idx, 'value'],
+                   Segments=wl[idx, 'segments'],
+                   Source=['Liu2007']
+                   )
+
 
 
 
