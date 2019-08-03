@@ -23,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e3",
-                "concepticon_version": "v2.1.0-6-ga171367"
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.1.0"
             }
         }
     ],

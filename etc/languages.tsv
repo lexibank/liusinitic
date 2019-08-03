@@ -1,20 +1,20 @@
 ﻿Source_ID	ID	Name	AltName	Pinyin	ChineseName	Latitude	Longitude	Glottocode	DialectGroup
-1	beijing	Beijing	Peking	Běijīng	北京	39.9385466	116.1172766	beij1234	Mandarin
-12	changsha	Changsha		Chángshā	长沙	28.85032	112.943344	chan1326	Xiang
-7	chengdu	Chengdu		Chéngdū	成都	30.605768	103.970947	chen1267	Mandarin
-18	fuzhou	Fuzhou	Foochow	Fúzhōu	福州	26.08904	119.294243	fuzh1239	Min
-17	guangzhou	Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548	guan1279	Yue
-16	guilin	Guilin		Guīlín	桂林	25.266667	110.283333	guil1241	Pinghua
-2	haerbin	Ha_erbin	Harbin, Ha'erbin, Ha’erbin	Hāěrbīn	哈尔滨	45.846595	126.551056	haer1234	Mandarin
-3	jinan	Jinan		Jǐnán	济南	36.690777	116.997299	jina1245	Mandarin
-9	jixi	Jixi		Jìxī	绩溪	30.071111	118.592222	jixi1238	Hui
-13	loudi	Loudi		Lóudî	娄底	27.733333	111.9281883	loud1234	Xiang
-15	meixian	Meixian		Méixiàn	梅县	24.3522958	115.8903375	yuet1238	Hakka
-14	nanchang	Nanchang		Nánchāng	南昌	28.706609	115.857468	nanc1254	Gan
-8	nanjing	Nanjing		Nánjīng	南京	32.0989607	118.4575646	nanj1234	Mandarin
-4	rongcheng	Rongcheng		Róngchéng	荣成	37.130642	122.434269	rong1271	Mandarin
-10	suzhou	Suzhou		Sūzhōu	苏州	31.3280439	120.364116	suzh1234	Wu
-5	taiyuan	Taiyuan		Tàiyuán	太原	37.8632119	112.4024883	taiy1243	Jin
-11	wenzhou	Wenzhou		Wēnzhōu	温州	28.005496	120.701179	ouji1238	Wu
-6	xian	Xi_an	Xi'an, Xi’an	Xī’ān	西安	34.228154	108.960571	xian1253	Mandarin
-19	xiamen	Xiamen		Xiàmén	厦门	24.49421	118.08918	xiam1236	Min
+1	Beijing	Beijing	Peking	Běijīng	北京	39.9385466	116.1172766	beij1234	Mandarin
+12	Changsha	Changsha		Chángshā	长沙	28.85032	112.943344	chan1326	Xiang
+7	Chengdu	Chengdu		Chéngdū	成都	30.605768	103.970947	chen1267	Mandarin
+18	Fuzhou	Fuzhou	Foochow	Fúzhōu	福州	26.08904	119.294243	fuzh1239	Min
+17	Guangzhou	Guangzhou		Guǎngzhōu	广州	23.1253503	112.9476548	guan1279	Yue
+16	Guilin	Guilin		Guīlín	桂林	25.266667	110.283333	guil1241	Pinghua
+2	Haerbin	Ha_erbin	Harbin, Ha'erbin, Ha’erbin	Hāěrbīn	哈尔滨	45.846595	126.551056	haer1234	Mandarin
+3	Jinan	Jinan		Jǐnán	济南	36.690777	116.997299	jina1245	Mandarin
+9	Jixi	Jixi		Jìxī	绩溪	30.071111	118.592222	jixi1238	Hui
+13	Loudi	Loudi		Lóudî	娄底	27.733333	111.9281883	loud1234	Xiang
+15	Meixian	Meixian		Méixiàn	梅县	24.3522958	115.8903375	yuet1238	Hakka
+14	Nanchang	Nanchang		Nánchāng	南昌	28.706609	115.857468	nanc1254	Gan
+8	Nanjing	Nanjing		Nánjīng	南京	32.0989607	118.4575646	nanj1234	Mandarin
+4	Rongcheng	Rongcheng		Róngchéng	荣成	37.130642	122.434269	rong1271	Mandarin
+10	Suzhou	Suzhou		Sūzhōu	苏州	31.3280439	120.364116	suzh1234	Wu
+5	Taiyuan	Taiyuan		Tàiyuán	太原	37.8632119	112.4024883	taiy1243	Jin
+11	Wenzhou	Wenzhou		Wēnzhōu	温州	28.005496	120.701179	ouji1238	Wu
+6	XiAn	Xi_an	Xi'an, Xi’an	Xī’ān	西安	34.228154	108.960571	xian1253	Mandarin
+19	Xiamen	Xiamen		Xiàmén	厦门	24.49421	118.08918	xiam1236	Min

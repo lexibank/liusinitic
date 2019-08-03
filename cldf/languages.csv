@@ -1,20 +1,20 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,Source_ID,DialectGroup,Pinyin,AltName
-beijing,Beijing,beij1234,,,,39.9385466,116.1172766,,北京,,1,Mandarin,Běijīng,Peking
-changsha,Changsha,chan1326,,,,28.85032,112.943344,,长沙,,12,Xiang,Chángshā,
-chengdu,Chengdu,chen1267,,,,30.605768,103.970947,,成都,,7,Mandarin,Chéngdū,
-fuzhou,Fuzhou,fuzh1239,,,,26.08904,119.294243,,福州,,18,Min,Fúzhōu,Foochow
-guangzhou,Guangzhou,guan1279,,,,23.1253503,112.9476548,,广州,,17,Yue,Guǎngzhōu,
-guilin,Guilin,guil1241,,,,25.266667,110.283333,,桂林,,16,Pinghua,Guīlín,
-haerbin,Ha_erbin,haer1234,,,,45.846595,126.551056,,哈尔滨,,2,Mandarin,Hāěrbīn,"Harbin, Ha'erbin, Ha’erbin"
-jinan,Jinan,jina1245,,,,36.690777,116.997299,,济南,,3,Mandarin,Jǐnán,
-jixi,Jixi,jixi1238,,,,30.071111,118.592222,,绩溪,,9,Hui,Jìxī,
-loudi,Loudi,loud1234,,,,27.733333,111.9281883,,娄底,,13,Xiang,Lóudî,
-meixian,Meixian,yuet1238,,,,24.3522958,115.8903375,,梅县,,15,Hakka,Méixiàn,
-nanchang,Nanchang,nanc1254,,,,28.706609,115.857468,,南昌,,14,Gan,Nánchāng,
-nanjing,Nanjing,nanj1234,,,,32.0989607,118.4575646,,南京,,8,Mandarin,Nánjīng,
-rongcheng,Rongcheng,rong1271,,,,37.130642,122.434269,,荣成,,4,Mandarin,Róngchéng,
-suzhou,Suzhou,suzh1234,,,,31.3280439,120.364116,,苏州,,10,Wu,Sūzhōu,
-taiyuan,Taiyuan,taiy1243,,,,37.8632119,112.4024883,,太原,,5,Jin,Tàiyuán,
-wenzhou,Wenzhou,ouji1238,,,,28.005496,120.701179,,温州,,11,Wu,Wēnzhōu,
-xian,Xi_an,xian1253,,,,34.228154,108.960571,,西安,,6,Mandarin,Xī’ān,"Xi'an, Xi’an"
-xiamen,Xiamen,xiam1236,,,,24.49421,118.08918,,厦门,,19,Min,Xiàmén,
+Beijing,Beijing,beij1234,,,,39.9385466,116.1172766,,北京,,1,Mandarin,Běijīng,Peking
+Changsha,Changsha,chan1326,,,,28.85032,112.943344,,长沙,,12,Xiang,Chángshā,
+Chengdu,Chengdu,chen1267,,,,30.605768,103.970947,,成都,,7,Mandarin,Chéngdū,
+Fuzhou,Fuzhou,fuzh1239,,,,26.08904,119.294243,,福州,,18,Min,Fúzhōu,Foochow
+Guangzhou,Guangzhou,guan1279,,,,23.1253503,112.9476548,,广州,,17,Yue,Guǎngzhōu,
+Guilin,Guilin,guil1241,,,,25.266667,110.283333,,桂林,,16,Pinghua,Guīlín,
+Haerbin,Ha_erbin,haer1234,,,,45.846595,126.551056,,哈尔滨,,2,Mandarin,Hāěrbīn,"Harbin, Ha'erbin, Ha’erbin"
+Jinan,Jinan,jina1245,,,,36.690777,116.997299,,济南,,3,Mandarin,Jǐnán,
+Jixi,Jixi,jixi1238,,,,30.071111,118.592222,,绩溪,,9,Hui,Jìxī,
+Loudi,Loudi,loud1234,,,,27.733333,111.9281883,,娄底,,13,Xiang,Lóudî,
+Meixian,Meixian,yuet1238,,,,24.3522958,115.8903375,,梅县,,15,Hakka,Méixiàn,
+Nanchang,Nanchang,nanc1254,,,,28.706609,115.857468,,南昌,,14,Gan,Nánchāng,
+Nanjing,Nanjing,nanj1234,,,,32.0989607,118.4575646,,南京,,8,Mandarin,Nánjīng,
+Rongcheng,Rongcheng,rong1271,,,,37.130642,122.434269,,荣成,,4,Mandarin,Róngchéng,
+Suzhou,Suzhou,suzh1234,,,,31.3280439,120.364116,,苏州,,10,Wu,Sūzhōu,
+Taiyuan,Taiyuan,taiy1243,,,,37.8632119,112.4024883,,太原,,5,Jin,Tàiyuán,
+Wenzhou,Wenzhou,ouji1238,,,,28.005496,120.701179,,温州,,11,Wu,Wēnzhōu,
+XiAn,Xi_an,xian1253,,,,34.228154,108.960571,,西安,,6,Mandarin,Xī’ān,"Xi'an, Xi’an"
+Xiamen,Xiamen,xiam1236,,,,24.49421,118.08918,,厦门,,19,Min,Xiàmén,
