@@ -39,10 +39,9 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
 
-        wl = Wordlist(self.dir.joinpath('raw', 'words.tsv').as_posix())
+        wl = Wordlist(self.dir.joinpath('raw', 'words-new.tsv').as_posix())
         langs = {} # need for checking later
         concepts = {}
-
 
         with self.cldf as ds:
 
@@ -68,7 +67,7 @@ class Dataset(BaseDataset):
                    Language_ID=langs[wl[idx, 'doculect']],
                    Parameter_ID=concepts[wl[idx, 'concept']], 
                    Value=wl[idx, 'value'],
-                   Segments=wl[idx, 'segments'],
+                   Segments=wl[idx, 'tokens'],
                    Source=['Liu2007']
                    )
 

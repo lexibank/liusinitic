@@ -1905,7 +1905,7 @@ ID	DOCULECT	DOCULECT_ID	CONCEPT	CONCEPT_CHINESE	CONCEPTICON_ID	CHARACTERS_IS	VAL
 1549	Chengdu	7	knee	膝	1371	克～膝头儿	kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹	kʰ e ²¹ + ɕ i ⁵⁵/²¹ + tʰ ə˞/ə ²¹	i n t + i n t + i nr t	k_he21 c\i21-55 t_h@r21	108	克 膝 头		～	338 333 144
 1550	Nanjing	8	knee	膝	1371	膝蓋骨	ɕiʔ⁵ kɛ⁴⁴⁻⁴² kuʔ⁵	ɕ i ʔ ⁵ + k ɛ ⁴²/⁴⁴ + k u ʔ ⁵	i n c t + i n t + i n c t	(1) c\i?5 kE44-42 ku?5	108	膝 蓋 骨			333 334 94
 1551	Nanjing	8	knee	膝	1371	波羅蓋兒	po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²	p o ²²/³¹ + l o ²²/¹³ + k ə˞/ə ²²/⁴⁴	i n t + i n t + i nr t	(2) po31-22 lo13-22 k@r44-22	108	波 羅 蓋			337 339 334
-1552	Nanjing	8	knee	膝	1371	褲膝頭兒	kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³	kʰ u ⁴²/⁴⁴ + tɕʰ i ⁰ + tʰ ə ɯ˞/ɯ ¹³	i n t + i n t + i m nr t	(3) k_hu44-42 tc\_hi0 t_h@Mr13	108	褲 膝 頭			340 333 79
+1552	Nanjing	8	knee	膝	1371	褲膝頭兒	kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³	kʰ u ⁴²/⁴⁴ + tɕʰ i ⁰ + tʰ ə ɯ˞/ɯ ¹³	i n t + i n t + i n N t	(3) k_hu44-42 tc\_hi0 t_h@Mr13	108	褲 膝 頭			340 333 79
 1553	Jixi	9	knee	膝	1371	腳膝頭	tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴	tɕ y o ʔ ³²*/³² + ɕ i e ʔ ⁵⁵ + tʰ i ⁴⁴	i m n c t + i m n c t + i n t	tc\yo?32_ c\ie?55 t_hi44	108	腳 膝 頭			277 333 79
 1554	Suzhou	10	knee	膝	1371	腳饅頭	tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹	tɕ i ɑ ʔ ⁴ + m ø ²³/¹³ + d ʏ ²¹/¹³	i m n c t + i n t + i n t	tc\iA?4 mø13-23 dY13-21	108	腳 饅 頭			277 341 79
 1555	Wenzhou	11	knee	膝	1371	腳月+出頭	tɕia³¹⁻³ kʰø⁴¹ dɤu³⁴¹⁻²¹	tɕ i a ³/³¹ + kʰ ø ⁴¹ + d ɤ u ²¹/³⁴¹	i m n t + i n t + i n N t	tc\ia31-3 k_hø41 d7u341-21	108	腳 胐 頭			277 342 79
@@ -2690,7 +2690,7 @@ ID	DOCULECT	DOCULECT_ID	CONCEPT	CONCEPT_CHINESE	CONCEPTICON_ID	CHARACTERS_IS	VAL
 3458	Meixian	15	river_2	?	?	江	koŋ³³	k o ŋ ³³	i n c t	koN33	56	江			653
 3459	Guilin	16	river_2	?	?	江	tɕiɑŋ⁴²	tɕ i ɑ ŋ ⁴²	i m n c t	tc\iAN42	56	江			653
 3460	Guangzhou	17	river_2	?	?	江	kɔŋ⁵³	k ɔ ŋ ⁵³	i n c t	kON53	56	江			653
-3461	Fuzhou	18	river_2	?	?	江	k²ɤn⁵⁵	k ² ɤ n ⁵⁵	i t n c t	k27N55	56	江			653
+3461	Fuzhou	18	river_2	?	?	江	k²ɤn⁵⁵	k ɤ n ⁵⁵	i n c t	k27N55	56	江			653
 3462	Xiamen	19	river_2	?	?	江	kaŋ⁵⁵	k a ŋ ⁵⁵	i n c t	kaN55	56	江			653
 3230	Beijing	1	root	根	670	根兒	kər⁵⁵	k ə˞/ə ⁵⁵	i nr t	k@r55	51	根			93
 3231	Ha_erbin	2	root	根	670	根	kən⁴⁴	k ə n ⁴⁴	i n c t	k@n44	51	根			93
