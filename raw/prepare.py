@@ -19,6 +19,7 @@ turn = {
         'ŋ/?': 'ŋ',
         }
 
+
 T = {}
 ignore = []
 for idx, tks, stk in wl.iter_rows('segments', 'structure'):
@@ -33,7 +34,7 @@ for idx, tks, stk in wl.iter_rows('segments', 'structure'):
         for token, structure in zip(m, s):
             if structure in 'MN':
                 newt[-1] += token
-            elif structure == 'c' and token in 'iɯ':
+            elif structure == 'c' and token in 'iɯu':
                 newt[-1] += token
             elif token == '∼':
                 pass
