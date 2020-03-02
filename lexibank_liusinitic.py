@@ -68,13 +68,3 @@ class Dataset(BaseDataset):
                     Segments=wl[idx,"segments"],
                     Source=['Liu2007']
                 )
-        #     bads = []
-        #     for idx in tqdm(wl, desc='cldfify'):
-        #
-        #         ds.add_lexemes(
-        #            Language_ID=langs[wl[idx, 'doculect']],
-        #            Parameter_ID=concepts[wl[idx, 'concept']],
-        #            Value=wl[idx, 'value'],
-        #            Segments=wl[idx, 'tokens'],
-        #            Source=['Liu2007']
-        #            )
