@@ -1,20 +1,20 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,Source_ID,DialectGroup,Pinyin,AltName
-Beijing,Beijing,beij1234,,,,39.9385466,116.1172766,Sino-Tibetan,北京,Sinitic,1,Mandarin,Běijīng,Peking
-Changsha,Changsha,chan1326,,,,28.85032,112.943344,Sino-Tibetan,长沙,Sinitic,12,Xiang,Chángshā,
-Chengdu,Chengdu,chen1267,,,,30.605768,103.970947,Sino-Tibetan,成都,Sinitic,7,Mandarin,Chéngdū,
-Fuzhou,Fuzhou,fuzh1239,,,,26.08904,119.294243,Sino-Tibetan,福州,Sinitic,18,Min,Fúzhōu,Foochow
-Guangzhou,Guangzhou,guan1279,,,,23.1253503,112.9476548,Sino-Tibetan,广州,Sinitic,17,Yue,Guǎngzhōu,
-Guilin,Guilin,guil1241,,,,25.266667,110.283333,Sino-Tibetan,桂林,Sinitic,16,Pinghua,Guīlín,
-Haerbin,Ha_erbin,haer1234,,,,45.846595,126.551056,Sino-Tibetan,哈尔滨,Sinitic,2,Mandarin,Hāěrbīn,"Harbin, Ha'erbin, Ha’erbin"
-Jinan,Jinan,jina1245,,,,36.690777,116.997299,Sino-Tibetan,济南,Sinitic,3,Mandarin,Jǐnán,
-Jixi,Jixi,jixi1238,,,,30.071111,118.592222,Sino-Tibetan,绩溪,Sinitic,9,Hui,Jìxī,
-Loudi,Loudi,loud1234,,,,27.733333,111.9281883,Sino-Tibetan,娄底,Sinitic,13,Xiang,Lóudî,
-Meixian,Meixian,yuet1238,,,,24.3522958,115.8903375,Sino-Tibetan,梅县,Sinitic,15,Hakka,Méixiàn,
-Nanchang,Nanchang,nanc1254,,,,28.706609,115.857468,Sino-Tibetan,南昌,Sinitic,14,Gan,Nánchāng,
-Nanjing,Nanjing,nanj1234,,,,32.0989607,118.4575646,Sino-Tibetan,南京,Sinitic,8,Mandarin,Nánjīng,
-Rongcheng,Rongcheng,rong1271,,,,37.130642,122.434269,Sino-Tibetan,荣成,Sinitic,4,Mandarin,Róngchéng,
-Suzhou,Suzhou,suzh1234,,,,31.3280439,120.364116,Sino-Tibetan,苏州,Sinitic,10,Wu,Sūzhōu,
-Taiyuan,Taiyuan,taiy1243,,,,37.8632119,112.4024883,Sino-Tibetan,太原,Sinitic,5,Jin,Tàiyuán,
-Wenzhou,Wenzhou,ouji1238,,,,28.005496,120.701179,Sino-Tibetan,温州,Sinitic,11,Wu,Wēnzhōu,
-XiAn,Xi_an,xian1253,,,,34.228154,108.960571,Sino-Tibetan,西安,Sinitic,6,Mandarin,Xī’ān,"Xi'an, Xi’an"
-Xiamen,Xiamen,xiam1236,,,,24.49421,118.08918,Sino-Tibetan,厦门,Sinitic,19,Min,Xiàmén,
+Beijing,Beijing,beij1234,Beijing Mandarin,,,39.9385466,116.1172766,Sino-Tibetan,北京,Sinitic,1,Mandarin,Běijīng,Peking
+Changsha,Changsha,chan1326,Changsha,,,28.85032,112.943344,Sino-Tibetan,长沙,Sinitic,12,Xiang,Chángshā,
+Chengdu,Chengdu,chen1267,Chengdu Mandarin,,,30.605768,103.970947,Sino-Tibetan,成都,Sinitic,7,Mandarin,Chéngdū,
+Fuzhou,Fuzhou,fuzh1239,Fuzhou,,Eurasia,26.08904,119.294243,Sino-Tibetan,福州,Sinitic,18,Min,Fúzhōu,Foochow
+Guangzhou,Guangzhou,guan1279,Guangzhou,,,23.1253503,112.9476548,Sino-Tibetan,广州,Sinitic,17,Yue,Guǎngzhōu,
+Guilin,Guilin,guil1241,Guilin Pinghua,,,25.266667,110.283333,Sino-Tibetan,桂林,Sinitic,16,Pinghua,Guīlín,
+Haerbin,Ha_erbin,haer1234,Ha'erbin Mandarin,,,45.846595,126.551056,Sino-Tibetan,哈尔滨,Sinitic,2,Mandarin,Hāěrbīn,"Harbin, Ha'erbin, Ha’erbin"
+Jinan,Jinan,jina1245,Jinan Mandarin,,,36.690777,116.997299,Sino-Tibetan,济南,Sinitic,3,Mandarin,Jǐnán,
+Jixi,Jixi,jixi1238,Jixi,,Eurasia,30.071111,118.592222,Sino-Tibetan,绩溪,Sinitic,9,Hui,Jìxī,
+Loudi,Loudi,loud1234,Loudi,,,27.733333,111.9281883,Sino-Tibetan,娄底,Sinitic,13,Xiang,Lóudî,
+Meixian,Meixian,yuet1238,Meixian,,Eurasia,24.3522958,115.8903375,Sino-Tibetan,梅县,Sinitic,15,Hakka,Méixiàn,
+Nanchang,Nanchang,nanc1254,Nanchang,,,28.706609,115.857468,Sino-Tibetan,南昌,Sinitic,14,Gan,Nánchāng,
+Nanjing,Nanjing,nanj1234,Nanjing Mandarin,,,32.0989607,118.4575646,Sino-Tibetan,南京,Sinitic,8,Mandarin,Nánjīng,
+Rongcheng,Rongcheng,rong1271,Rongcheng Mandarin,,,37.130642,122.434269,Sino-Tibetan,荣成,Sinitic,4,Mandarin,Róngchéng,
+Suzhou,Suzhou,suzh1234,Suzhou,,,31.3280439,120.364116,Sino-Tibetan,苏州,Sinitic,10,Wu,Sūzhōu,
+Taiyuan,Taiyuan,taiy1243,Taiyuan,,,37.8632119,112.4024883,Sino-Tibetan,太原,Sinitic,5,Jin,Tàiyuán,
+Wenzhou,Wenzhou,ouji1238,Wenzhou,,Eurasia,28.005496,120.701179,Sino-Tibetan,温州,Sinitic,11,Wu,Wēnzhōu,
+XiAn,Xi_an,xian1253,Xi'an Mandarin,,,34.228154,108.960571,Sino-Tibetan,西安,Sinitic,6,Mandarin,Xī’ān,"Xi'an, Xi’an"
+Xiamen,Xiamen,xiam1236,Xiamen,,Eurasia,24.49421,118.08918,Sino-Tibetan,厦门,Sinitic,19,Min,Xiàmén,
