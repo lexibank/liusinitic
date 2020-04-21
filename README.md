@@ -1,4 +1,4 @@
-# Collection of Basic Words in Chinese Dialects
+# CLDF dataset derived from Liú et al.'s "Collection of Basic Words in Chinese Dialects" from 2007
 
 Cite the source dataset as
 
@@ -25,5 +25,16 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.12
 - **Invalid lexemes:** 0
 - **Tokens:** 23,326
-- **Segments:** 303 (0 BIPA errors, 0 CTLS sound class errors, 303 CLTS modified)
+- **Segments:** 303 (0 BIPA errors, 0 CTLS sound class errors, 302 CLTS modified)
 - **Inventory size (avg):** 56.16
+
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Liú Lìlǐ | | data collector | DataCollector, Editor
+Wáng Hóngzhōng | | data collector | DataCollector, Editor
+Bǎi Yíng | | data collector | DataCollector, Editor
+Johann-Mattis List | @LinguList | maintainer | Author
+
+
