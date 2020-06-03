@@ -17,19 +17,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/liusinitic",
-            "dc:created": "67426e7"
+            "dc:created": "b808a88"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1-7-g35d84acf81"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-53-g324a045"
+            "dc:created": "v2.3.0-107-g79157a1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -120,11 +120,7 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
+                        "name": "Prosody"
                     }
                 ],
                 "foreignKeys": [

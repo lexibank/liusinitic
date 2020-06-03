@@ -6,10 +6,14 @@ from clldutils.misc import slug
 from pathlib import Path
 from pylexibank.forms import FormSpec
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Concept, Language
+from pylexibank import Concept, Language, Lexeme
 from pylexibank.util import progressbar
 
 from lingpy import *
+
+@attr.s
+class CustomLexeme(Lexeme):
+    Prosody = attr.ib(default='')
 
 @attr.s
 class CustomConcept(Concept):
@@ -33,6 +37,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
+    lexeme_class = CustomLexeme
 
     def cmd_makecldf(self, args):
         # add source
@@ -56,15 +61,44 @@ class Dataset(BaseDataset):
         concepts['heart [compound]'] = 'Liu-2007-201-158'
         concepts['river_2'] = 'Liu-2007-201-50'
         concepts['river'] = 'Liu-2007-201-49'
+
+        convert = {
+                'y': 'y/ɥ',
+                'i': 'i/j',
+                'u': 'u/w',
+                }
          # add forms
         for idx in progressbar(wl, desc="cldfify the data"):
             cogid = idx
             if wl[idx, "concept"]:
+                # transform the medial vowels
+                segments, strucs = [], []
+                for morpheme, structure in zip(
+                        basictypes.lists(wl[idx, 'segments']).n,
+                        basictypes.lists(wl[idx, 'structure']).n):
+                    tmp, struc = [], []
+                    for s, m in zip(structure, morpheme):
+                        if s == 'm':
+                            tmp += [convert.get(m, m)]
+                            struc += [s]
+                        elif m == '∼':
+                            pass
+                        elif s == 'N':
+                            tmp[-1] += m
+                        else:
+                            tmp += [m]
+                            struc += [s]
+                    segments += [' '.join(tmp)]
+                    strucs += [' '.join(struc)]
+                segments = ' + '.join(segments).split()
+                strucs = ' + '.join(strucs)
+
                 args.writer.add_form_with_segments(
                     Language_ID=languages[wl[idx, "doculect"]],
                     Parameter_ID=concepts[wl[idx, "concept"]],
                     Value=wl[idx, "value"],
                     Form=wl[idx,"value"],
-                    Segments=wl[idx,"segments"],
+                    Segments=segments,
+                    Prosody=strucs,
                     Source=['Liu2007']
                 )
