@@ -1,0 +1,49 @@
+{
+    "title": "CLDF dataset derived from Li\u00fa et al.'s \"Collection of Basic Words in Chinese Dialects\" from 2007",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Li\u00fa L\u00ecl\u01d0",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Li\u00fa L\u00ecl\u01d0",
+            "type": "Editor"
+        },
+        {
+            "name": "W\u00e1ng H\u00f3ngzh\u014dng",
+            "type": "DataCollector"
+        },
+        {
+            "name": "W\u00e1ng H\u00f3ngzh\u014dng",
+            "type": "Editor"
+        },
+        {
+            "name": "B\u01cei Y\u00edng",
+            "type": "DataCollector"
+        },
+        {
+            "name": "B\u01cei Y\u00edng",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>L\u00edu, L.; W\u00e1ng, H.; B\u01cei, Y. (2007): Xi\u00e0nd\u00e0i H\u00e0ny\u01d4 f\u0101ngy\u00e1n h\u00e9x\u012bnc\u00ed, t\u00e8zh\u0113ng c\u00edj\u00ed \u73b0\u4ee3\u6c49\u8bed\u65b9\u8a00\u6838\u5fc3\u8bcd\u00b7\u7279\u5f81\u8bcd\u96c6 [Collection of basic vocabulary words and characteristic dialect words in modern Chinese dialects]. N\u00e1nj\u012bng: F\u00e8nghu\u00e1ng.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
