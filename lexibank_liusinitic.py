@@ -10,6 +10,26 @@ from pylexibank import Concept, Language, Lexeme, Cognate
 from pylexibank.util import progressbar
 
 from lingpy import *
+from collections import defaultdict
+
+def check_entry(wordlist, index, errors=defaultdict(list)):
+    prosody = basictypes.lists(wordlist[index, 'structure'])
+    morphemes = basictypes.strings(wordlist[index, 'morphemes'])
+    tokens = basictypes.lists(wordlist[index, 'tokens'])
+    cogids = basictypes.ints(wordlist[index, 'cogids'])
+    
+    if len(prosody.n) != len(tokens.n):
+        errors[index] += ["prostring"]
+    if len(morphemes) != len(tokens.n):
+        errors[index] += ["morphemes"]
+    if len(cogids) != len(tokens.n):
+        errors[index] += ["cogids"]
+    for i, (p, t) in enumerate(zip(prosody.n, tokens.n)):
+        if len(p) != len(t):
+            errors[index] += ["prostring-{0}".format(i)]
+    return errors
+        
+
 
 @attr.s
 class CustomLexeme(Lexeme):
@@ -79,7 +99,10 @@ class Dataset(BaseDataset):
         concepts['river'] = 'Liu-2007-201-49'
         
         # add forms
+        errors = defaultdict(list)
         for idx in progressbar(wl, desc="cldfify the data"):
+            # check for mismatch in prosody 
+            check_entry(wl, idx, errors)
             lexeme = args.writer.add_form_with_segments(
                 Language_ID=languages[wl[idx, "doculect"]],
                 Parameter_ID=concepts[wl[idx, "concept"]],
@@ -96,3 +119,10 @@ class Dataset(BaseDataset):
                         Cognateset_ID=cogid,
                         Segment_Slice=gloss_index+1,
                         )
+        if errors:
+            with open(self.dir.joinpath('errors.md'), 'w') as f:
+                f.write('# ERRORS found\n')
+                for idx, problems in sorted(errors.items()):
+                    for error in problems:
+                        args.log.warning("{0} {1}".format(idx, error))
+                        f.write('* {0} {1}\n'.format(idx, error))
