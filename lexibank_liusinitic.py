@@ -23,10 +23,11 @@ def check_entry(wordlist, index, errors=defaultdict(list)):
     if len(morphemes) != len(tokens.n):
         errors[index] += ["morphemes"]
     if len(cogids) != len(tokens.n):
-        errors[index] += ["cogids"]
+        errors[index] += ["cogids-{0}".format(str(wordlist[index, 'cogids']))]
     for i, (p, t) in enumerate(zip(prosody.n, tokens.n)):
         if len(p) != len(t):
-            errors[index] += ["prostring-{0}".format(i)]
+            errors[index] += ["prostring-{1}-{2}-{0}".format(i, wordlist[index,
+                'doculect'], wordlist[index, 'concept'])]
     return errors
         
 
@@ -125,4 +126,4 @@ class Dataset(BaseDataset):
                 for idx, problems in sorted(errors.items()):
                     for error in problems:
                         args.log.warning("{0} {1}".format(idx, error))
-                        f.write('* {0} {1}\n'.format(idx, error))
+                        f.write('* {0} {1}\n'.format(error, idx))
