@@ -200,7 +200,7 @@ ID	AUTOID	CHARACTERS	CHARACTERS_IS	CLASSES	COGIDS	CONCEPT	CONCEPTICON_ID	CONCEPT
 199	677	人	人	LIN2	38	person	683	人	Nanchang	14	0	lɨn⁴⁵	12	303	person/人	12.L.C 12.I.V 12.N.c 12.2.T	81	AXLT	l1n45	l ɨ n ⁴⁵	5 7 4 8	582	i n c t	i n c t	l ɨ n ⁴⁵	lɨn⁴⁵	1.6 3.0 1.1 1.0			
 200	677	人	人	NIN1	38	person	683	人	Meixian	15	0	ŋin¹¹	11	303	person/人	11.N.C 11.I.V 11.N.c 11.1.T	81	AXLT	Nin11	ŋ i n ¹¹	4 7 4 8	582	i n c t	i n c t	ŋ i n ¹¹	ŋin¹¹	1.6 3.0 1.1 1.0			
 201	677	人	人	LIN1	38	person	683	人	Guilin	16	0	liŋ²²	6	303	person/人	6.L.C 6.I.V 6.N.c 6.1.T	81	AXLT	liN22	l i ŋ ²²	5 7 4 8	582	i n c t	i n c t	l i ŋ ²²	liŋ²²	1.6 3.0 1.1 1.0			
-202	677	人	人	JEN3	38	person	683	人	Guangzhou	17	0	jɐn²¹	5	303	person/人	5.J.C 5.E.V 5.N.c 5.3.T	81	AXLT	i6n21	i ɐ n ²¹	6 7 4 8	582	m n c t	m n c t	j ɐ n ²¹	iɐn²¹	1.6 3.0 1.1 1.0			
+202	677	人	人	JEN3	38	person	683	人	Guangzhou	17	0	jɐn²¹	5	303	person/人	5.J.C 5.E.V 5.N.c 5.3.T	81	AXLT	i6n21	i ɐ n ²¹	6 7 4 8	582	i n c t	m n c t	j ɐ n ²¹	iɐn²¹	1.6 3.0 1.1 1.0			
 203	677	人	人	NUN3	38	person	683	人	Fuzhou	18	0	nøyŋ⁵³	4	303	person/人	4.N.C 4.U.V 4.N.c 4.3.T	81	AXLT	n2yN53	n ø y ŋ ⁵³	4 7 4 8	582	i n c t	i n c t	n øy ŋ ⁵³	nøyŋ⁵³	1.6 3.0 1.1 1.0			
 204	677	人	人	LAN2	38	person	683	人	Xiamen	19	0	laŋ²⁴	19	303	person/人	19.L.C 19.A.V 19.N.c 19.2.T	81	AXLT	laN24	l a ŋ ²⁴	5 7 4 8	582	i n c t	i n c t	l a ŋ ²⁴	laŋ²⁴	1.6 3.0 1.1 1.0			
 205	963	仍	仍	SEN5	60	throw	1456	扔	Beijing	1	0	ʐəŋ⁵⁵	1	465	throw/仍	1.S.C 1.E.V 1.N.c 1.5.T	81	AXLT	z`@N55	ʐ ə ŋ ⁵⁵	3 7 4 8	836	i n c t	i n c t	ʐ ə ŋ ⁵⁵	ʐəŋ⁵⁵	1.6 3.0 1.1 1.0			
@@ -288,7 +288,7 @@ ID	AUTOID	CHARACTERS	CHARACTERS_IS	CLASSES	COGIDS	CONCEPT	CONCEPTICON_ID	CONCEPT
 287	658	鼻 孔	鼻孔	PI1_KEN2	77 78	nose	1221	鼻子	Guilin	16	0	pi²²+kʰɤn²³	6	290	nose/鼻 hole/孔	6.P.C 6.I.V 6.1.T 6._._ 6.K.C 6.E.V 6.N.c 6.2.T	33	AXT_AXLT	pi22 k_h7N23-33	p i ²² + kʰ ɤ n ³³/²³	1 7 8 9 1 7 4 8	566	i n t + i n c t	i n t + i n c t	p i ²² + kʰ ɤ n ²³	pi²² kʰɤn²³⁻³³	1.6 3.0 1.0 0.0 1.6 3.0 1.1 1.0			
 288	658	鼻 歌	鼻歌	PE1_KU5	77 81	nose	1221	鼻子	Guangzhou	17	0	pei²²+kɔ⁵⁵	5	290	nose/鼻 _:SUF/歌	5.P.C 5.E.V 5.1.T 5._._ 5.K.C 5.U.V 5.5.T	33	AXT_AXT	pei22 kO55	p e i ²² + k ɔ ⁵⁵	1 7 8 9 1 7 8	569	i n t + i n t	i n t + i n t	p ei ²² + k ɔ ⁵⁵	pei²² kɔ⁵⁵	1.6 3.0 1.0 0.0 1.6 3.0 1.0			
 289	658	鼻	鼻	PE6	77	nose	1221	鼻子	Fuzhou	18	0	pʰɛi²¹²	4	290	nose/鼻	4.P.C 4.E.V 4.6.T	33	AXT	p_hEi212	pʰ ɛ i ²¹²	1 7 8	565	i n t	i n t	pʰ ɛi ²¹²	pʰɛi²¹²	1.6 3.0 1.0			
-290	658	鼻 仔	鼻仔	PJE1_JA3	77 797	nose	1221	鼻子	Xiamen	19	0	pʰjæ²²+jã⁵³	19	290	nose/鼻 _:SUF/仔	19.P.C 19.J.C 19.E.V 19.1.T 19._._ 19.J.C 19.A.V 19.3.T	33	ACXT_AXT	(1) p_hi~22-21 ia~53	pʰ i æ ²¹/²² + i ã ∼ ⁵³	1 6 7 8 9 6 7 8	570	i m n t + m n t	i m n t + m n t	pʰ j æ ²² + j/Ø ã/a ⁵³	pʰiæ²²⁻²¹ iã⁵³	1.6 1.2 3.0 1.0 0.0 1.6 3.0 1.0			
+290	658	鼻 仔	鼻仔	PJE1_JA3	77 797	nose	1221	鼻子	Xiamen	19	0	pʰjæ²²+jã⁵³	19	290	nose/鼻 _:SUF/仔	19.P.C 19.J.C 19.E.V 19.1.T 19._._ 19.J.C 19.A.V 19.3.T	33	ACXT_AXT	(1) p_hi~22-21 ia~53	pʰ i æ ²¹/²² + i ã ∼ ⁵³	1 6 7 8 9 6 7 8	570	i m n t + i n t	i m n t + m n t	pʰ j æ ²² + j/Ø ã/a ⁵³	pʰiæ²²⁻²¹ iã⁵³	1.6 1.2 3.0 1.0 0.0 1.6 3.0 1.0			
 291	658	鼻	鼻	PJE1	77	nose	1221	鼻子	Xiamen	19	0	pʰjæ²²	19	290	nose/鼻	19.P.C 19.J.C 19.E.V 19.1.T	33	ACXT	(2) p_hi~22	pʰ i æ ²²	1 6 7 8	565	i m n t	i m n t	pʰ j æ ²²	pʰiæ²²	1.6 1.2 3.0 1.0			
 292	466	冰	冰	PIN5	83	ice	617	冰	Beijing	1	0	piŋ⁵⁵	1	236	ice/冰	1.P.C 1.I.V 1.N.c 1.5.T	33	AXLT	piN55	p i ŋ ⁵⁵	1 7 4 8	400	i n c t	i n c t	p i ŋ ⁵⁵	piŋ⁵⁵	1.6 3.0 1.1 1.0			
 293	466	冰	冰	PIN5	83	ice	617	冰	Ha_erbin	2	0	piŋ⁴⁴	7	236	ice/冰	7.P.C 7.I.V 7.N.c 7.5.T	33	AXLT	piN44	p i ŋ ⁴⁴	1 7 4 8	400	i n c t	i n c t	p i ŋ ⁴⁴	piŋ⁴⁴	1.6 3.0 1.1 1.0			
