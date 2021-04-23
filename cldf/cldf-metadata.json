@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/liusinitic",
-            "dc:created": "f17712a"
+            "dc:created": "ddef995"
         },
         {
             "rdf:type": "prov:Entity",
@@ -293,7 +293,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 5911,
+            "dc:extent": 5909,
             "tableSchema": {
                 "columns": [
                     {
