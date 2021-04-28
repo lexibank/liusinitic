@@ -1,2 +1,2 @@
-Sagart2011	((Fuzhou,Xiamen)Min,((Guangzhou,Guilin),((Suzhou,Wenzhou)Wu,(Nanchang,(Meixian,((Changsha,Loudi)Xiang,((((((Beijing,Haerbin),(Jinan,Rongcheng)),XiAn),Chengdu,Nanjing)Mandarin,Jixi),Taiyuan))))))); 
-Binary	((Fuzhou,Xiamen)Min,((Guangzhou,Guilin),((Suzhou,Wenzhou)Wu,(Nanchang,(Meixian,((Changsha,Loudi)Xiang,((((((Beijing,Haerbin),(Jinan,Rongcheng)),XiAn),(Chengdu,Nanjing))Mandarin,Jixi),Taiyuan)))))));
+Sagart2011	((Fuzhou,Xiamen)Min,(((Guangzhou,Guilin),Meixian),((Suzhou,Wenzhou)Wu,(Nanchang,((Changsha,Loudi)Xiang,((((((Beijing,Haerbin),(Jinan,Rongcheng)),XiAn),Chengdu,Nanjing)Mandarin,Jixi),Taiyuan)))))); 
+Binary	((Fuzhou,Xiamen)Min,(((Guangzhou,Guilin),Meixian),((Suzhou,Wenzhou)Wu,(Nanchang,((Changsha,Loudi)Xiang,((((((Beijing,Haerbin),(Jinan,Rongcheng)),XiAn),(Chengdu,Nanjing))Mandarin,Jixi),Taiyuan))))));
