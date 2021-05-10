@@ -72,9 +72,10 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         print('updating ...')
         self.raw_dir.download(
-            "https://lingulist.de/edictor/triples/get_data.py?file=liusinitic&remote_dbase=liusinitic.sqlite3",
+            "https://lingulist.de/edictor/triples/get_data.py?file=liusinitic&remote_dbase=liusinitic.sqlite3&columns=DOCULECT|SUBGROUP|CONCEPT|VALUE|IPA|TOKENS|COGIDS|MORPHEMES|STRUCTURE|NOTE|CHARACTERS|CHARACTER_IS",
             "liusinitic.tsv"
         )
+
 
     def cmd_makecldf(self, args):
         # add source

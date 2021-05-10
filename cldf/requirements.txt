@@ -24,12 +24,12 @@ pluggy==0.13.1
 purl==1.5
 py==1.10.0
 pybtex==0.24.0
-pycldf==1.18.1
+-e git+https://github.com/cldf/pycldf.git@7b5a76a792e7f8958aa966494edb6dd396701f3c#egg=pycldf
 pyclts==3.0.2
 pyconcepticon==2.7.0
 pycountry==20.7.3
 pyglottolog==3.3.0
-pylexibank==3.0.0
+-e git+https://github.com/lexibank/pylexibank.git@2b00541ece090ffd4264c2e498bf85153014c93c#egg=pylexibank
 pytest==6.2.2
 regex==2021.3.17
 requests==2.25.1

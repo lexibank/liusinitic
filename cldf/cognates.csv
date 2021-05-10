@@ -390,14 +390,14 @@ Nanjing-Liu-2007-201-3-1-2,Nanjing-Liu-2007-201-3-1,piʔ⁵ tsɿ⁰,19,false,exp
 Jixi-Liu-2007-201-3-1-1,Jixi-Liu-2007-201-3-1,pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³,77,false,expert,,,,,1
 Jixi-Liu-2007-201-3-1-2,Jixi-Liu-2007-201-3-1,pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³,78,false,expert,,,,,2
 Suzhou-Liu-2007-201-3-1-1,Suzhou-Liu-2007-201-3-1,bəʔ²³* dʏ¹³⁻³¹,77,false,expert,,,,,1
-Suzhou-Liu-2007-201-3-1-2,Suzhou-Liu-2007-201-3-1,bəʔ²³* dʏ¹³⁻³¹,79,false,expert,,,,,2
+Suzhou-Liu-2007-201-3-1-2,Suzhou-Liu-2007-201-3-1,bəʔ²³* dʏ¹³⁻³¹,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-3-1-1,Wenzhou-Liu-2007-201-3-1,bei²¹⁻³¹ dɤu³⁴¹⁻²¹,77,false,expert,,,,,1
-Wenzhou-Liu-2007-201-3-1-2,Wenzhou-Liu-2007-201-3-1,bei²¹⁻³¹ dɤu³⁴¹⁻²¹,79,false,expert,,,,,2
+Wenzhou-Liu-2007-201-3-1-2,Wenzhou-Liu-2007-201-3-1,bei²¹⁻³¹ dɤu³⁴¹⁻²¹,319,false,expert,,,,,2
 Changsha-Liu-2007-201-3-1-1,Changsha-Liu-2007-201-3-1,pi²⁴,77,false,expert,,,,,1
 Changsha-Liu-2007-201-3-2-1,Changsha-Liu-2007-201-3-2,pi²⁴ tsɿ⁰,77,false,expert,,,,,1
 Changsha-Liu-2007-201-3-2-2,Changsha-Liu-2007-201-3-2,pi²⁴ tsɿ⁰,19,false,expert,,,,,2
 Loudi-Liu-2007-201-3-1-1,Loudi-Liu-2007-201-3-1,pʰi¹¹ diɤ¹³⁻³³,77,false,expert,,,,,1
-Loudi-Liu-2007-201-3-1-2,Loudi-Liu-2007-201-3-1,pʰi¹¹ diɤ¹³⁻³³,79,false,expert,,,,,2
+Loudi-Liu-2007-201-3-1-2,Loudi-Liu-2007-201-3-1,pʰi¹¹ diɤ¹³⁻³³,319,false,expert,,,,,2
 Nanchang-Liu-2007-201-3-1-1,Nanchang-Liu-2007-201-3-1,pʰit²¹* tsɿ⁰,77,false,expert,,,,,1
 Nanchang-Liu-2007-201-3-1-2,Nanchang-Liu-2007-201-3-1,pʰit²¹* tsɿ⁰,19,false,expert,,,,,2
 Meixian-Liu-2007-201-3-1-1,Meixian-Liu-2007-201-3-1,pʰi⁵³ kuŋ³³,77,false,expert,,,,,1
@@ -619,7 +619,7 @@ Jixi-Liu-2007-201-102-1-1,Jixi-Liu-2007-201-102-1,y⁴⁴⁻³⁵ kɵ²¹³,113,
 Jixi-Liu-2007-201-102-1-2,Jixi-Liu-2007-201-102-1,y⁴⁴⁻³⁵ kɵ²¹³,114,false,expert,,,,,2
 Suzhou-Liu-2007-201-102-1-1,Suzhou-Liu-2007-201-102-1,tɕiɑ⁵² sɿ⁵²⁻²³,118,false,expert,,,,,1
 Suzhou-Liu-2007-201-102-1-2,Suzhou-Liu-2007-201-102-1,tɕiɑ⁵² sɿ⁵²⁻²³,119,false,expert,,,,,2
-Wenzhou-Liu-2007-201-102-1-1,Wenzhou-Liu-2007-201-102-1,dʑia²¹⁻³³ zɿ²⁴⁻²²,772,false,expert,,,,,1
+Wenzhou-Liu-2007-201-102-1-1,Wenzhou-Liu-2007-201-102-1,dʑia²¹⁻³³ zɿ²⁴⁻²²,339,false,expert,,,,,1
 Wenzhou-Liu-2007-201-102-1-2,Wenzhou-Liu-2007-201-102-1,dʑia²¹⁻³³ zɿ²⁴⁻²²,121,false,expert,,,,,2
 Changsha-Liu-2007-201-102-1-1,Changsha-Liu-2007-201-102-1,y¹³ ko⁰,113,false,expert,,,,,1
 Changsha-Liu-2007-201-102-1-2,Changsha-Liu-2007-201-102-1,y¹³ ko⁰,114,false,expert,,,,,2
@@ -866,38 +866,38 @@ Fuzhou-Liu-2007-201-110-1-1,Fuzhou-Liu-2007-201-110-1,tsieu³²,141,false,expert
 Xiamen-Liu-2007-201-110-1-1,Xiamen-Liu-2007-201-110-1,tsio⁵³,141,false,expert,,,,,1
 Beijing-Liu-2007-201-111-1-1,Beijing-Liu-2007-201-111-1,ʂɤ³⁵,143,false,expert,,,,,1
 Haerbin-Liu-2007-201-111-1-1,Haerbin-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,143,false,expert,,,,,1
-Haerbin-Liu-2007-201-111-1-2,Haerbin-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,79,false,expert,,,,,2
+Haerbin-Liu-2007-201-111-1-2,Haerbin-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,319,false,expert,,,,,2
 Jinan-Liu-2007-201-111-1-1,Jinan-Liu-2007-201-111-1,ʂɤ⁵³⁻⁴⁵ tʰou⁰,143,false,expert,,,,,1
-Jinan-Liu-2007-201-111-1-2,Jinan-Liu-2007-201-111-1,ʂɤ⁵³⁻⁴⁵ tʰou⁰,79,false,expert,,,,,2
+Jinan-Liu-2007-201-111-1-2,Jinan-Liu-2007-201-111-1,ʂɤ⁵³⁻⁴⁵ tʰou⁰,319,false,expert,,,,,2
 Rongcheng-Liu-2007-201-111-1-1,Rongcheng-Liu-2007-201-111-1,ʃɛ³⁵ tʰə⁰,143,false,expert,,,,,1
-Rongcheng-Liu-2007-201-111-1-2,Rongcheng-Liu-2007-201-111-1,ʃɛ³⁵ tʰə⁰,79,false,expert,,,,,2
+Rongcheng-Liu-2007-201-111-1-2,Rongcheng-Liu-2007-201-111-1,ʃɛ³⁵ tʰə⁰,319,false,expert,,,,,2
 Taiyuan-Liu-2007-201-111-1-1,Taiyuan-Liu-2007-201-111-1,ʂəʔ⁵⁴,143,false,expert,,,,,1
 Taiyuan-Liu-2007-201-111-2-1,Taiyuan-Liu-2007-201-111-2,ʂəʔ⁵⁴ tʰəur²¹,143,false,expert,,,,,1
-Taiyuan-Liu-2007-201-111-2-2,Taiyuan-Liu-2007-201-111-2,ʂəʔ⁵⁴ tʰəur²¹,79,false,expert,,,,,2
+Taiyuan-Liu-2007-201-111-2-2,Taiyuan-Liu-2007-201-111-2,ʂəʔ⁵⁴ tʰəur²¹,319,false,expert,,,,,2
 XiAn-Liu-2007-201-111-1-1,XiAn-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,143,false,expert,,,,,1
-XiAn-Liu-2007-201-111-1-2,XiAn-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,79,false,expert,,,,,2
+XiAn-Liu-2007-201-111-1-2,XiAn-Liu-2007-201-111-1,ʂɤ²⁴ tʰou⁰,319,false,expert,,,,,2
 Chengdu-Liu-2007-201-111-1-1,Chengdu-Liu-2007-201-111-1,se²¹⁻⁵⁵ tʰər²¹⁻⁵⁵,143,false,expert,,,,,1
-Chengdu-Liu-2007-201-111-1-2,Chengdu-Liu-2007-201-111-1,se²¹⁻⁵⁵ tʰər²¹⁻⁵⁵,79,false,expert,,,,,2
+Chengdu-Liu-2007-201-111-1-2,Chengdu-Liu-2007-201-111-1,se²¹⁻⁵⁵ tʰər²¹⁻⁵⁵,319,false,expert,,,,,2
 Nanjing-Liu-2007-201-111-1-1,Nanjing-Liu-2007-201-111-1,seʔ⁵ tʰəɯ¹³,143,false,expert,,,,,1
-Nanjing-Liu-2007-201-111-1-2,Nanjing-Liu-2007-201-111-1,seʔ⁵ tʰəɯ¹³,79,false,expert,,,,,2
+Nanjing-Liu-2007-201-111-1-2,Nanjing-Liu-2007-201-111-1,seʔ⁵ tʰəɯ¹³,319,false,expert,,,,,2
 Jixi-Liu-2007-201-111-1-1,Jixi-Liu-2007-201-111-1,kʰi²¹³⁻³¹ tɕʰyaʔ³²*,145,false,expert,,,,,1
 Jixi-Liu-2007-201-111-1-2,Jixi-Liu-2007-201-111-1,kʰi²¹³⁻³¹ tɕʰyaʔ³²*,143,false,expert,,,,,2
 Suzhou-Liu-2007-201-111-1-1,Suzhou-Liu-2007-201-111-1,zəʔ²³* dʏ¹³⁻³¹,143,false,expert,,,,,1
-Suzhou-Liu-2007-201-111-1-2,Suzhou-Liu-2007-201-111-1,zəʔ²³* dʏ¹³⁻³¹,79,false,expert,,,,,2
+Suzhou-Liu-2007-201-111-1-2,Suzhou-Liu-2007-201-111-1,zəʔ²³* dʏ¹³⁻³¹,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-111-1-1,Wenzhou-Liu-2007-201-111-1,kʰau²⁴²⁻⁴⁵ ji²¹,145,false,expert,,,,,1
 Wenzhou-Liu-2007-201-111-1-2,Wenzhou-Liu-2007-201-111-1,kʰau²⁴²⁻⁴⁵ ji²¹,143,false,expert,,,,,2
 Changsha-Liu-2007-201-111-1-1,Changsha-Liu-2007-201-111-1,sə²⁴ təu⁰,143,false,expert,,,,,1
-Changsha-Liu-2007-201-111-1-2,Changsha-Liu-2007-201-111-1,sə²⁴ təu⁰,79,false,expert,,,,,2
+Changsha-Liu-2007-201-111-1-2,Changsha-Liu-2007-201-111-1,sə²⁴ təu⁰,319,false,expert,,,,,2
 Changsha-Liu-2007-201-111-2-1,Changsha-Liu-2007-201-111-2,sə²⁴ tsɿ⁰,143,false,expert,,,,,1
 Changsha-Liu-2007-201-111-2-2,Changsha-Liu-2007-201-111-2,sə²⁴ tsɿ⁰,19,false,expert,,,,,2
 Loudi-Liu-2007-201-111-1-1,Loudi-Liu-2007-201-111-1,ɕie³⁵ tsɿ⁰,143,false,expert,,,,,1
 Loudi-Liu-2007-201-111-1-2,Loudi-Liu-2007-201-111-1,ɕie³⁵ tsɿ⁰,19,false,expert,,,,,2
 Nanchang-Liu-2007-201-111-1-1,Nanchang-Liu-2007-201-111-1,sət²¹* tʰɛu⁰,143,false,expert,,,,,1
-Nanchang-Liu-2007-201-111-1-2,Nanchang-Liu-2007-201-111-1,sət²¹* tʰɛu⁰,79,false,expert,,,,,2
+Nanchang-Liu-2007-201-111-1-2,Nanchang-Liu-2007-201-111-1,sət²¹* tʰɛu⁰,319,false,expert,,,,,2
 Meixian-Liu-2007-201-111-1-1,Meixian-Liu-2007-201-111-1,sat⁵ ma¹¹,143,false,expert,,,,,1
 Meixian-Liu-2007-201-111-1-2,Meixian-Liu-2007-201-111-1,sat⁵ ma¹¹,146,false,expert,,,,,2
 Guilin-Liu-2007-201-111-1-1,Guilin-Liu-2007-201-111-1,ɕie²² tai²²,143,false,expert,,,,,1
-Guilin-Liu-2007-201-111-1-2,Guilin-Liu-2007-201-111-1,ɕie²² tai²²,79,false,expert,,,,,2
+Guilin-Liu-2007-201-111-1-2,Guilin-Liu-2007-201-111-1,ɕie²² tai²²,319,false,expert,,,,,2
 Guangzhou-Liu-2007-201-111-1-1,Guangzhou-Liu-2007-201-111-1,sit²,143,false,expert,,,,,1
 Fuzhou-Liu-2007-201-111-1-1,Fuzhou-Liu-2007-201-111-1,tsʰuoi²¹²⁻⁵⁵ sioʔ⁵,147,false,expert,,,,,1
 Fuzhou-Liu-2007-201-111-1-2,Fuzhou-Liu-2007-201-111-1,tsʰuoi²¹²⁻⁵⁵ sioʔ⁵,143,false,expert,,,,,2
@@ -1065,46 +1065,46 @@ Fuzhou-Liu-2007-201-116-1-2,Fuzhou-Liu-2007-201-116-1,sieʔ²⁴*⁻⁵³* noʔ�
 Xiamen-Liu-2007-201-116-1-1,Xiamen-Liu-2007-201-116-1,sim⁵³⁻⁵⁵ miæʔ⁵,166,false,expert,,,,,1
 Xiamen-Liu-2007-201-116-1-2,Xiamen-Liu-2007-201-116-1,sim⁵³⁻⁵⁵ miæʔ⁵,179,false,expert,,,,,2
 Beijing-Liu-2007-201-117-1-1,Beijing-Liu-2007-201-117-1,ʂʅ³⁵ tʰou⁰,180,false,expert,,,,,1
-Beijing-Liu-2007-201-117-1-2,Beijing-Liu-2007-201-117-1,ʂʅ³⁵ tʰou⁰,79,false,expert,,,,,2
+Beijing-Liu-2007-201-117-1-2,Beijing-Liu-2007-201-117-1,ʂʅ³⁵ tʰou⁰,319,false,expert,,,,,2
 Haerbin-Liu-2007-201-117-1-1,Haerbin-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,180,false,expert,,,,,1
-Haerbin-Liu-2007-201-117-1-2,Haerbin-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,79,false,expert,,,,,2
+Haerbin-Liu-2007-201-117-1-2,Haerbin-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,319,false,expert,,,,,2
 Jinan-Liu-2007-201-117-1-1,Jinan-Liu-2007-201-117-1,ʂi⁵³⁻⁴⁵ tʰou⁰,180,false,expert,,,,,1
-Jinan-Liu-2007-201-117-1-2,Jinan-Liu-2007-201-117-1,ʂi⁵³⁻⁴⁵ tʰou⁰,79,false,expert,,,,,2
+Jinan-Liu-2007-201-117-1-2,Jinan-Liu-2007-201-117-1,ʂi⁵³⁻⁴⁵ tʰou⁰,319,false,expert,,,,,2
 Rongcheng-Liu-2007-201-117-1-1,Rongcheng-Liu-2007-201-117-1,ʂɿ³⁵ tʰou⁰,180,false,expert,,,,,1
-Rongcheng-Liu-2007-201-117-1-2,Rongcheng-Liu-2007-201-117-1,ʂɿ³⁵ tʰou⁰,79,false,expert,,,,,2
+Rongcheng-Liu-2007-201-117-1-2,Rongcheng-Liu-2007-201-117-1,ʂɿ³⁵ tʰou⁰,319,false,expert,,,,,2
 Taiyuan-Liu-2007-201-117-1-1,Taiyuan-Liu-2007-201-117-1,səʔ⁵⁴ tʰəu²¹,180,false,expert,,,,,1
-Taiyuan-Liu-2007-201-117-1-2,Taiyuan-Liu-2007-201-117-1,səʔ⁵⁴ tʰəu²¹,79,false,expert,,,,,2
+Taiyuan-Liu-2007-201-117-1-2,Taiyuan-Liu-2007-201-117-1,səʔ⁵⁴ tʰəu²¹,319,false,expert,,,,,2
 XiAn-Liu-2007-201-117-1-1,XiAn-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,180,false,expert,,,,,1
-XiAn-Liu-2007-201-117-1-2,XiAn-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,79,false,expert,,,,,2
+XiAn-Liu-2007-201-117-1-2,XiAn-Liu-2007-201-117-1,ʂʅ²⁴ tʰou⁰,319,false,expert,,,,,2
 Chengdu-Liu-2007-201-117-1-1,Chengdu-Liu-2007-201-117-1,siɿ²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,180,false,expert,,,,,1
-Chengdu-Liu-2007-201-117-1-2,Chengdu-Liu-2007-201-117-1,siɿ²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,79,false,expert,,,,,2
+Chengdu-Liu-2007-201-117-1-2,Chengdu-Liu-2007-201-117-1,siɿ²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,319,false,expert,,,,,2
 Nanjing-Liu-2007-201-117-1-1,Nanjing-Liu-2007-201-117-1,ʂʅʔ⁵ tʰəɯ¹³,180,false,expert,,,,,1
-Nanjing-Liu-2007-201-117-1-2,Nanjing-Liu-2007-201-117-1,ʂʅʔ⁵ tʰəɯ¹³,79,false,expert,,,,,2
+Nanjing-Liu-2007-201-117-1-2,Nanjing-Liu-2007-201-117-1,ʂʅʔ⁵ tʰəɯ¹³,319,false,expert,,,,,2
 Jixi-Liu-2007-201-117-1-1,Jixi-Liu-2007-201-117-1,ɕieʔ³²* tʰi⁴⁴,180,false,expert,,,,,1
-Jixi-Liu-2007-201-117-1-2,Jixi-Liu-2007-201-117-1,ɕieʔ³²* tʰi⁴⁴,79,false,expert,,,,,2
+Jixi-Liu-2007-201-117-1-2,Jixi-Liu-2007-201-117-1,ɕieʔ³²* tʰi⁴⁴,319,false,expert,,,,,2
 Suzhou-Liu-2007-201-117-1-1,Suzhou-Liu-2007-201-117-1,zɑʔ²³* dʏ¹³⁻³¹,180,false,expert,,,,,1
-Suzhou-Liu-2007-201-117-1-2,Suzhou-Liu-2007-201-117-1,zɑʔ²³* dʏ¹³⁻³¹,79,false,expert,,,,,2
+Suzhou-Liu-2007-201-117-1-2,Suzhou-Liu-2007-201-117-1,zɑʔ²³* dʏ¹³⁻³¹,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-117-1-1,Wenzhou-Liu-2007-201-117-1,zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰,180,false,expert,,,,,1
-Wenzhou-Liu-2007-201-117-1-2,Wenzhou-Liu-2007-201-117-1,zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰,79,false,expert,,,,,2
+Wenzhou-Liu-2007-201-117-1-2,Wenzhou-Liu-2007-201-117-1,zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-117-1-3,Wenzhou-Liu-2007-201-117-1,zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰,19,false,expert,,,,,3
 Wenzhou-Liu-2007-201-117-1-4,Wenzhou-Liu-2007-201-117-1,zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰,828,false,expert,,,,,4
 Changsha-Liu-2007-201-117-1-1,Changsha-Liu-2007-201-117-1,sɿ²⁴ təu⁰,180,false,expert,,,,,1
-Changsha-Liu-2007-201-117-1-2,Changsha-Liu-2007-201-117-1,sɿ²⁴ təu⁰,79,false,expert,,,,,2
+Changsha-Liu-2007-201-117-1-2,Changsha-Liu-2007-201-117-1,sɿ²⁴ təu⁰,319,false,expert,,,,,2
 Loudi-Liu-2007-201-117-1-1,Loudi-Liu-2007-201-117-1,ɕiɔ³⁵ diɤ¹³ kua⁰,180,false,expert,,,,,1
-Loudi-Liu-2007-201-117-1-2,Loudi-Liu-2007-201-117-1,ɕiɔ³⁵ diɤ¹³ kua⁰,79,false,expert,,,,,2
+Loudi-Liu-2007-201-117-1-2,Loudi-Liu-2007-201-117-1,ɕiɔ³⁵ diɤ¹³ kua⁰,319,false,expert,,,,,2
 Loudi-Liu-2007-201-117-1-3,Loudi-Liu-2007-201-117-1,ɕiɔ³⁵ diɤ¹³ kua⁰,687,false,expert,,,,,3
 Nanchang-Liu-2007-201-117-1-1,Nanchang-Liu-2007-201-117-1,saʔ² tʰɛu⁰,180,false,expert,,,,,1
-Nanchang-Liu-2007-201-117-1-2,Nanchang-Liu-2007-201-117-1,saʔ² tʰɛu⁰,79,false,expert,,,,,2
+Nanchang-Liu-2007-201-117-1-2,Nanchang-Liu-2007-201-117-1,saʔ² tʰɛu⁰,319,false,expert,,,,,2
 Meixian-Liu-2007-201-117-1-1,Meixian-Liu-2007-201-117-1,sak⁵ tʰeu¹¹,180,false,expert,,,,,1
-Meixian-Liu-2007-201-117-1-2,Meixian-Liu-2007-201-117-1,sak⁵ tʰeu¹¹,79,false,expert,,,,,2
+Meixian-Liu-2007-201-117-1-2,Meixian-Liu-2007-201-117-1,sak⁵ tʰeu¹¹,319,false,expert,,,,,2
 Guilin-Liu-2007-201-117-1-1,Guilin-Liu-2007-201-117-1,sei²² tai²²,180,false,expert,,,,,1
-Guilin-Liu-2007-201-117-1-2,Guilin-Liu-2007-201-117-1,sei²² tai²²,79,false,expert,,,,,2
+Guilin-Liu-2007-201-117-1-2,Guilin-Liu-2007-201-117-1,sei²² tai²²,319,false,expert,,,,,2
 Guangzhou-Liu-2007-201-117-1-1,Guangzhou-Liu-2007-201-117-1,sɛk² tʰɐu²¹,180,false,expert,,,,,1
-Guangzhou-Liu-2007-201-117-1-2,Guangzhou-Liu-2007-201-117-1,sɛk² tʰɐu²¹,79,false,expert,,,,,2
+Guangzhou-Liu-2007-201-117-1-2,Guangzhou-Liu-2007-201-117-1,sɛk² tʰɐu²¹,319,false,expert,,,,,2
 Fuzhou-Liu-2007-201-117-1-1,Fuzhou-Liu-2007-201-117-1,suoʔ⁵⁻³³ lau⁵³,180,false,expert,,,,,1
-Fuzhou-Liu-2007-201-117-1-2,Fuzhou-Liu-2007-201-117-1,suoʔ⁵⁻³³ lau⁵³,79,false,expert,,,,,2
+Fuzhou-Liu-2007-201-117-1-2,Fuzhou-Liu-2007-201-117-1,suoʔ⁵⁻³³ lau⁵³,319,false,expert,,,,,2
 Xiamen-Liu-2007-201-117-1-1,Xiamen-Liu-2007-201-117-1,tsioʔ⁵⁻²¹* tʰau²⁴,180,false,expert,,,,,1
-Xiamen-Liu-2007-201-117-1-2,Xiamen-Liu-2007-201-117-1,tsioʔ⁵⁻²¹* tʰau²⁴,79,false,expert,,,,,2
+Xiamen-Liu-2007-201-117-1-2,Xiamen-Liu-2007-201-117-1,tsioʔ⁵⁻²¹* tʰau²⁴,319,false,expert,,,,,2
 Beijing-Liu-2007-201-118-1-1,Beijing-Liu-2007-201-118-1,ʂou²¹³,182,false,expert,,,,,1
 Haerbin-Liu-2007-201-118-1-1,Haerbin-Liu-2007-201-118-1,ʂou²¹³,182,false,expert,,,,,1
 Jinan-Liu-2007-201-118-1-1,Jinan-Liu-2007-201-118-1,ʂou⁴⁵,182,false,expert,,,,,1
@@ -1532,21 +1532,21 @@ Xiamen-Liu-2007-201-132-1-1,Xiamen-Liu-2007-201-132-1,in⁵⁵,238,false,expert,
 Beijing-Liu-2007-201-133-1-1,Beijing-Liu-2007-201-133-1,tʰai⁵¹⁻⁵³ iɑŋ³⁵,239,false,expert,,,,,1
 Beijing-Liu-2007-201-133-1-2,Beijing-Liu-2007-201-133-1,tʰai⁵¹⁻⁵³ iɑŋ³⁵,240,false,expert,,,,,2
 Haerbin-Liu-2007-201-133-1-1,Haerbin-Liu-2007-201-133-1,ʐʅ⁵³ tʰou⁰,241,false,expert,,,,,1
-Haerbin-Liu-2007-201-133-1-2,Haerbin-Liu-2007-201-133-1,ʐʅ⁵³ tʰou⁰,79,false,expert,,,,,2
+Haerbin-Liu-2007-201-133-1-2,Haerbin-Liu-2007-201-133-1,ʐʅ⁵³ tʰou⁰,319,false,expert,,,,,2
 Haerbin-Liu-2007-201-133-2-1,Haerbin-Liu-2007-201-133-2,tʰai⁵³ iaŋ⁰,239,false,expert,,,,,1
 Haerbin-Liu-2007-201-133-2-2,Haerbin-Liu-2007-201-133-2,tʰai⁵³ iaŋ⁰,240,false,expert,,,,,2
 Jinan-Liu-2007-201-133-1-1,Jinan-Liu-2007-201-133-1,tʰə³¹ iɑŋ⁵³,239,false,expert,,,,,1
 Jinan-Liu-2007-201-133-1-2,Jinan-Liu-2007-201-133-1,tʰə³¹ iɑŋ⁵³,240,false,expert,,,,,2
 Rongcheng-Liu-2007-201-133-1-1,Rongcheng-Liu-2007-201-133-1,i²¹³⁻³⁵ tʰou⁰,241,false,expert,,,,,1
-Rongcheng-Liu-2007-201-133-1-2,Rongcheng-Liu-2007-201-133-1,i²¹³⁻³⁵ tʰou⁰,79,false,expert,,,,,2
+Rongcheng-Liu-2007-201-133-1-2,Rongcheng-Liu-2007-201-133-1,i²¹³⁻³⁵ tʰou⁰,319,false,expert,,,,,2
 Taiyuan-Liu-2007-201-133-1-1,Taiyuan-Liu-2007-201-133-1,tʰai⁴⁵ ɪɒ̃⁰,239,false,expert,,,,,1
 Taiyuan-Liu-2007-201-133-1-2,Taiyuan-Liu-2007-201-133-1,tʰai⁴⁵ ɪɒ̃⁰,240,false,expert,,,,,2
 XiAn-Liu-2007-201-133-1-1,XiAn-Liu-2007-201-133-1,tʰɛ⁴⁴ iɑŋ⁰,239,false,expert,,,,,1
 XiAn-Liu-2007-201-133-1-2,XiAn-Liu-2007-201-133-1,tʰɛ⁴⁴ iɑŋ⁰,240,false,expert,,,,,2
 XiAn-Liu-2007-201-133-2-1,XiAn-Liu-2007-201-133-2,ər²¹ tʰou⁰,241,false,expert,,,,,1
-XiAn-Liu-2007-201-133-2-2,XiAn-Liu-2007-201-133-2,ər²¹ tʰou⁰,79,false,expert,,,,,2
+XiAn-Liu-2007-201-133-2-2,XiAn-Liu-2007-201-133-2,ər²¹ tʰou⁰,319,false,expert,,,,,2
 XiAn-Liu-2007-201-133-3-1,XiAn-Liu-2007-201-133-3,ər²¹ tʰou⁰ iɛ⁴⁴,241,false,expert,,,,,1
-XiAn-Liu-2007-201-133-3-2,XiAn-Liu-2007-201-133-3,ər²¹ tʰou⁰ iɛ⁴⁴,79,false,expert,,,,,2
+XiAn-Liu-2007-201-133-3-2,XiAn-Liu-2007-201-133-3,ər²¹ tʰou⁰ iɛ⁴⁴,319,false,expert,,,,,2
 XiAn-Liu-2007-201-133-3-3,XiAn-Liu-2007-201-133-3,ər²¹ tʰou⁰ iɛ⁴⁴,242,false,expert,,,,,3
 Chengdu-Liu-2007-201-133-1-1,Chengdu-Liu-2007-201-133-1,tʰai²¹³ iaŋ²¹,239,false,expert,,,,,1
 Chengdu-Liu-2007-201-133-1-2,Chengdu-Liu-2007-201-133-1,tʰai²¹³ iaŋ²¹,240,false,expert,,,,,2
@@ -1563,18 +1563,18 @@ Changsha-Liu-2007-201-133-1-2,Changsha-Liu-2007-201-133-1,tʰai⁵⁵ ian¹³,24
 Loudi-Liu-2007-201-133-1-1,Loudi-Liu-2007-201-133-1,tʰa³⁵ iɔŋ¹³⁻³³,239,false,expert,,,,,1
 Loudi-Liu-2007-201-133-1-2,Loudi-Liu-2007-201-133-1,tʰa³⁵ iɔŋ¹³⁻³³,240,false,expert,,,,,2
 Loudi-Liu-2007-201-133-2-1,Loudi-Liu-2007-201-133-2,ni³⁵ diɤ¹³⁻³³ kʰu⁴⁴⁻³³,241,false,expert,,,,,1
-Loudi-Liu-2007-201-133-2-2,Loudi-Liu-2007-201-133-2,ni³⁵ diɤ¹³⁻³³ kʰu⁴⁴⁻³³,79,false,expert,,,,,2
+Loudi-Liu-2007-201-133-2-2,Loudi-Liu-2007-201-133-2,ni³⁵ diɤ¹³⁻³³ kʰu⁴⁴⁻³³,319,false,expert,,,,,2
 Loudi-Liu-2007-201-133-2-3,Loudi-Liu-2007-201-133-2,ni³⁵ diɤ¹³⁻³³ kʰu⁴⁴⁻³³,243,false,expert,,,,,3
 Nanchang-Liu-2007-201-133-1-1,Nanchang-Liu-2007-201-133-1,tʰai²¹³ iɔŋ⁴⁵,239,false,expert,,,,,1
 Nanchang-Liu-2007-201-133-1-2,Nanchang-Liu-2007-201-133-1,tʰai²¹³ iɔŋ⁴⁵,240,false,expert,,,,,2
 Meixian-Liu-2007-201-133-1-1,Meixian-Liu-2007-201-133-1,ŋit¹ tʰeu¹¹,241,false,expert,,,,,1
-Meixian-Liu-2007-201-133-1-2,Meixian-Liu-2007-201-133-1,ŋit¹ tʰeu¹¹,79,false,expert,,,,,2
+Meixian-Liu-2007-201-133-1-2,Meixian-Liu-2007-201-133-1,ŋit¹ tʰeu¹¹,319,false,expert,,,,,2
 Guilin-Liu-2007-201-133-1-1,Guilin-Liu-2007-201-133-1,lie⁵⁵ tai²²,241,false,expert,,,,,1
-Guilin-Liu-2007-201-133-1-2,Guilin-Liu-2007-201-133-1,lie⁵⁵ tai²²,79,false,expert,,,,,2
+Guilin-Liu-2007-201-133-1-2,Guilin-Liu-2007-201-133-1,lie⁵⁵ tai²²,319,false,expert,,,,,2
 Guangzhou-Liu-2007-201-133-1-1,Guangzhou-Liu-2007-201-133-1,tʰai³³ iœŋ²¹,239,false,expert,,,,,1
 Guangzhou-Liu-2007-201-133-1-2,Guangzhou-Liu-2007-201-133-1,tʰai³³ iœŋ²¹,240,false,expert,,,,,2
 Fuzhou-Liu-2007-201-133-1-1,Fuzhou-Liu-2007-201-133-1,niʔ⁵ tʰau⁵³,241,false,expert,,,,,1
-Fuzhou-Liu-2007-201-133-1-2,Fuzhou-Liu-2007-201-133-1,niʔ⁵ tʰau⁵³,79,false,expert,,,,,2
+Fuzhou-Liu-2007-201-133-1-2,Fuzhou-Liu-2007-201-133-1,niʔ⁵ tʰau⁵³,319,false,expert,,,,,2
 Xiamen-Liu-2007-201-133-1-1,Xiamen-Liu-2007-201-133-1,lit⁵,241,false,expert,,,,,1
 Beijing-Liu-2007-201-134-1-1,Beijing-Liu-2007-201-134-1,tʰɑŋ²¹³,244,false,expert,,,,,1
 Haerbin-Liu-2007-201-134-1-1,Haerbin-Liu-2007-201-134-1,tʰaŋ²¹³,244,false,expert,,,,,1
@@ -2152,12 +2152,12 @@ Beijing-Liu-2007-201-153-1-1,Beijing-Liu-2007-201-153-1,tɕʰi⁵⁵,333,false,e
 Haerbin-Liu-2007-201-153-1-1,Haerbin-Liu-2007-201-153-1,ɕi²¹³⁻²¹ kai⁵³,333,false,expert,,,,,1
 Haerbin-Liu-2007-201-153-1-2,Haerbin-Liu-2007-201-153-1,ɕi²¹³⁻²¹ kai⁵³,334,false,expert,,,,,2
 Haerbin-Liu-2007-201-153-2-1,Haerbin-Liu-2007-201-153-2,pɤ²¹³⁻²¹ ləŋ⁰ kar⁵³,337,false,expert,,,,,1
-Haerbin-Liu-2007-201-153-2-2,Haerbin-Liu-2007-201-153-2,pɤ²¹³⁻²¹ ləŋ⁰ kar⁵³,86,false,expert,,,,,2
-Haerbin-Liu-2007-201-153-2-3,Haerbin-Liu-2007-201-153-2,pɤ²¹³⁻²¹ ləŋ⁰ kar⁵³,336,false,expert,,,,,3
+Haerbin-Liu-2007-201-153-2-2,Haerbin-Liu-2007-201-153-2,pɤ²¹³⁻²¹ ləŋ⁰ kar⁵³,340,false,expert,,,,,2
+Haerbin-Liu-2007-201-153-2-3,Haerbin-Liu-2007-201-153-2,pɤ²¹³⁻²¹ ləŋ⁰ kar⁵³,334,false,expert,,,,,3
 Jinan-Liu-2007-201-153-1-1,Jinan-Liu-2007-201-153-1,tɕʰi²¹⁴⁻²³ kar²¹,333,false,expert,,,,,1
 Jinan-Liu-2007-201-153-1-2,Jinan-Liu-2007-201-153-1,tɕʰi²¹⁴⁻²³ kar²¹,336,false,expert,,,,,2
 Rongcheng-Liu-2007-201-153-1-1,Rongcheng-Liu-2007-201-153-1,pɔ⁵² lə⁰ kai³³⁴,337,false,expert,,,,,1
-Rongcheng-Liu-2007-201-153-1-2,Rongcheng-Liu-2007-201-153-1,pɔ⁵² lə⁰ kai³³⁴,86,false,expert,,,,,2
+Rongcheng-Liu-2007-201-153-1-2,Rongcheng-Liu-2007-201-153-1,pɔ⁵² lə⁰ kai³³⁴,340,false,expert,,,,,2
 Rongcheng-Liu-2007-201-153-1-3,Rongcheng-Liu-2007-201-153-1,pɔ⁵² lə⁰ kai³³⁴,334,false,expert,,,,,3
 Taiyuan-Liu-2007-201-153-1-1,Taiyuan-Liu-2007-201-153-1,ɕiəʔ²,333,false,expert,,,,,1
 Taiyuan-Liu-2007-201-153-2-1,Taiyuan-Liu-2007-201-153-2,ɕiəʔ² kai⁴⁵,333,false,expert,,,,,1
@@ -2168,50 +2168,50 @@ XiAn-Liu-2007-201-153-2-2,XiAn-Liu-2007-201-153-2,kʰɯ²¹ tɕʰi²¹ kɛ⁴⁴
 XiAn-Liu-2007-201-153-2-3,XiAn-Liu-2007-201-153-2,kʰɯ²¹ tɕʰi²¹ kɛ⁴⁴,334,false,expert,,,,,3
 Chengdu-Liu-2007-201-153-1-1,Chengdu-Liu-2007-201-153-1,kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹,338,false,expert,,,,,1
 Chengdu-Liu-2007-201-153-1-2,Chengdu-Liu-2007-201-153-1,kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹,333,false,expert,,,,,2
-Chengdu-Liu-2007-201-153-1-3,Chengdu-Liu-2007-201-153-1,kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹,79,false,expert,,,,,3
+Chengdu-Liu-2007-201-153-1-3,Chengdu-Liu-2007-201-153-1,kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹,319,false,expert,,,,,3
 Nanjing-Liu-2007-201-153-1-1,Nanjing-Liu-2007-201-153-1,ɕiʔ⁵ kɛ⁴⁴⁻⁴² kuʔ⁵,333,false,expert,,,,,1
 Nanjing-Liu-2007-201-153-1-2,Nanjing-Liu-2007-201-153-1,ɕiʔ⁵ kɛ⁴⁴⁻⁴² kuʔ⁵,334,false,expert,,,,,2
 Nanjing-Liu-2007-201-153-1-3,Nanjing-Liu-2007-201-153-1,ɕiʔ⁵ kɛ⁴⁴⁻⁴² kuʔ⁵,94,false,expert,,,,,3
 Nanjing-Liu-2007-201-153-2-1,Nanjing-Liu-2007-201-153-2,po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²,337,false,expert,,,,,1
-Nanjing-Liu-2007-201-153-2-2,Nanjing-Liu-2007-201-153-2,po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²,339,false,expert,,,,,2
+Nanjing-Liu-2007-201-153-2-2,Nanjing-Liu-2007-201-153-2,po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²,340,false,expert,,,,,2
 Nanjing-Liu-2007-201-153-2-3,Nanjing-Liu-2007-201-153-2,po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²,334,false,expert,,,,,3
-Nanjing-Liu-2007-201-153-3-1,Nanjing-Liu-2007-201-153-3,kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³,340,false,expert,,,,,1
+Nanjing-Liu-2007-201-153-3-1,Nanjing-Liu-2007-201-153-3,kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³,338,false,expert,,,,,1
 Nanjing-Liu-2007-201-153-3-2,Nanjing-Liu-2007-201-153-3,kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³,333,false,expert,,,,,2
-Nanjing-Liu-2007-201-153-3-3,Nanjing-Liu-2007-201-153-3,kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³,79,false,expert,,,,,3
+Nanjing-Liu-2007-201-153-3-3,Nanjing-Liu-2007-201-153-3,kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³,319,false,expert,,,,,3
 Jixi-Liu-2007-201-153-1-1,Jixi-Liu-2007-201-153-1,tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴,277,false,expert,,,,,1
 Jixi-Liu-2007-201-153-1-2,Jixi-Liu-2007-201-153-1,tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴,333,false,expert,,,,,2
-Jixi-Liu-2007-201-153-1-3,Jixi-Liu-2007-201-153-1,tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴,79,false,expert,,,,,3
+Jixi-Liu-2007-201-153-1-3,Jixi-Liu-2007-201-153-1,tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴,319,false,expert,,,,,3
 Suzhou-Liu-2007-201-153-1-1,Suzhou-Liu-2007-201-153-1,tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹,277,false,expert,,,,,1
 Suzhou-Liu-2007-201-153-1-2,Suzhou-Liu-2007-201-153-1,tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹,341,false,expert,,,,,2
-Suzhou-Liu-2007-201-153-1-3,Suzhou-Liu-2007-201-153-1,tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹,79,false,expert,,,,,3
+Suzhou-Liu-2007-201-153-1-3,Suzhou-Liu-2007-201-153-1,tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹,319,false,expert,,,,,3
 Wenzhou-Liu-2007-201-153-1-1,Wenzhou-Liu-2007-201-153-1,tɕia³¹⁻³ kʰø⁴¹ dɤu³⁴¹⁻²¹,277,false,expert,,,,,1
 Wenzhou-Liu-2007-201-153-1-2,Wenzhou-Liu-2007-201-153-1,tɕia³¹⁻³ kʰø⁴¹ dɤu³⁴¹⁻²¹,342,false,expert,,,,,2
-Wenzhou-Liu-2007-201-153-1-3,Wenzhou-Liu-2007-201-153-1,tɕia³¹⁻³ kʰø⁴¹ dɤu³⁴¹⁻²¹,79,false,expert,,,,,3
+Wenzhou-Liu-2007-201-153-1-3,Wenzhou-Liu-2007-201-153-1,tɕia³¹⁻³ kʰø⁴¹ dɤu³⁴¹⁻²¹,319,false,expert,,,,,3
 Changsha-Liu-2007-201-153-1-1,Changsha-Liu-2007-201-153-1,ɕi²⁴,333,false,expert,,,,,1
 Changsha-Liu-2007-201-153-2-1,Changsha-Liu-2007-201-153-2,ɕi²⁴ kai⁵⁵,333,false,expert,,,,,1
 Changsha-Liu-2007-201-153-2-2,Changsha-Liu-2007-201-153-2,ɕi²⁴ kai⁵⁵,334,false,expert,,,,,2
 Changsha-Liu-2007-201-153-3-1,Changsha-Liu-2007-201-153-3,ɕi²⁴ təu¹³ ku⁰,333,false,expert,,,,,1
-Changsha-Liu-2007-201-153-3-2,Changsha-Liu-2007-201-153-3,ɕi²⁴ təu¹³ ku⁰,79,false,expert,,,,,2
+Changsha-Liu-2007-201-153-3-2,Changsha-Liu-2007-201-153-3,ɕi²⁴ təu¹³ ku⁰,319,false,expert,,,,,2
 Changsha-Liu-2007-201-153-3-3,Changsha-Liu-2007-201-153-3,ɕi²⁴ təu¹³ ku⁰,94,false,expert,,,,,3
 Changsha-Liu-2007-201-153-4-1,Changsha-Liu-2007-201-153-4,kə²⁴ ɕi²⁴ ku⁰,343,false,expert,,,,,1
 Changsha-Liu-2007-201-153-4-2,Changsha-Liu-2007-201-153-4,kə²⁴ ɕi²⁴ ku⁰,333,false,expert,,,,,2
 Changsha-Liu-2007-201-153-4-3,Changsha-Liu-2007-201-153-4,kə²⁴ ɕi²⁴ ku⁰,94,false,expert,,,,,3
 Loudi-Liu-2007-201-153-1-1,Loudi-Liu-2007-201-153-1,tɕʰi¹³ diɤ¹³⁻³³ ku⁰,333,false,expert,,,,,1
-Loudi-Liu-2007-201-153-1-2,Loudi-Liu-2007-201-153-1,tɕʰi¹³ diɤ¹³⁻³³ ku⁰,79,false,expert,,,,,2
+Loudi-Liu-2007-201-153-1-2,Loudi-Liu-2007-201-153-1,tɕʰi¹³ diɤ¹³⁻³³ ku⁰,319,false,expert,,,,,2
 Loudi-Liu-2007-201-153-1-3,Loudi-Liu-2007-201-153-1,tɕʰi¹³ diɤ¹³⁻³³ ku⁰,94,false,expert,,,,,3
 Nanchang-Liu-2007-201-153-1-1,Nanchang-Liu-2007-201-153-1,tɕʰit⁵ kai⁴²,333,false,expert,,,,,1
 Nanchang-Liu-2007-201-153-1-2,Nanchang-Liu-2007-201-153-1,tɕʰit⁵ kai⁴²,334,false,expert,,,,,2
 Meixian-Liu-2007-201-153-1-1,Meixian-Liu-2007-201-153-1,tsʰit¹ tʰeu¹¹,333,false,expert,,,,,1
-Meixian-Liu-2007-201-153-1-2,Meixian-Liu-2007-201-153-1,tsʰit¹ tʰeu¹¹,79,false,expert,,,,,2
+Meixian-Liu-2007-201-153-1-2,Meixian-Liu-2007-201-153-1,tsʰit¹ tʰeu¹¹,319,false,expert,,,,,2
 Guilin-Liu-2007-201-153-1-1,Guilin-Liu-2007-201-153-1,ɕy⁵⁵ tai²²,333,false,expert,,,,,1
-Guilin-Liu-2007-201-153-1-2,Guilin-Liu-2007-201-153-1,ɕy⁵⁵ tai²²,79,false,expert,,,,,2
+Guilin-Liu-2007-201-153-1-2,Guilin-Liu-2007-201-153-1,ɕy⁵⁵ tai²²,319,false,expert,,,,,2
 Guangzhou-Liu-2007-201-153-1-1,Guangzhou-Liu-2007-201-153-1,sɐt⁵ tʰɐu²¹,333,false,expert,,,,,1
-Guangzhou-Liu-2007-201-153-1-2,Guangzhou-Liu-2007-201-153-1,sɐt⁵ tʰɐu²¹,79,false,expert,,,,,2
+Guangzhou-Liu-2007-201-153-1-2,Guangzhou-Liu-2007-201-153-1,sɐt⁵ tʰɐu²¹,319,false,expert,,,,,2
 Fuzhou-Liu-2007-201-153-1-1,Fuzhou-Liu-2007-201-153-1,kʰa⁵⁵⁻²¹ βuʔ²⁴*⁻²¹* tʰau⁵³,279,false,expert,,,,,1
 Fuzhou-Liu-2007-201-153-1-2,Fuzhou-Liu-2007-201-153-1,kʰa⁵⁵⁻²¹ βuʔ²⁴*⁻²¹* tʰau⁵³,344,false,expert,,,,,2
-Fuzhou-Liu-2007-201-153-1-3,Fuzhou-Liu-2007-201-153-1,kʰa⁵⁵⁻²¹ βuʔ²⁴*⁻²¹* tʰau⁵³,79,false,expert,,,,,3
+Fuzhou-Liu-2007-201-153-1-3,Fuzhou-Liu-2007-201-153-1,kʰa⁵⁵⁻²¹ βuʔ²⁴*⁻²¹* tʰau⁵³,319,false,expert,,,,,3
 Xiamen-Liu-2007-201-153-1-1,Xiamen-Liu-2007-201-153-1,kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵,277,false,expert,,,,,1
-Xiamen-Liu-2007-201-153-1-2,Xiamen-Liu-2007-201-153-1,kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵,79,false,expert,,,,,2
+Xiamen-Liu-2007-201-153-1-2,Xiamen-Liu-2007-201-153-1,kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵,319,false,expert,,,,,2
 Xiamen-Liu-2007-201-153-1-3,Xiamen-Liu-2007-201-153-1,kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵,345,false,expert,,,,,3
 Beijing-Liu-2007-201-154-1-1,Beijing-Liu-2007-201-154-1,ɕi²¹³,346,false,expert,,,,,1
 Haerbin-Liu-2007-201-154-1-1,Haerbin-Liu-2007-201-154-1,ɕi²¹³,346,false,expert,,,,,1
@@ -4536,43 +4536,43 @@ Fuzhou-Liu-2007-201-41-2-2,Fuzhou-Liu-2007-201-41-2,kʰɛiŋ³²⁻³⁵ ŋiaŋ�
 Xiamen-Liu-2007-201-41-1-1,Xiamen-Liu-2007-201-41-1,kau⁵³,630,false,expert,,,,,1
 Beijing-Liu-2007-201-42-1-1,Beijing-Liu-2007-201-42-1,ku²¹⁴,94,false,expert,,,,,1
 Haerbin-Liu-2007-201-42-1-1,Haerbin-Liu-2007-201-42-1,ku²¹³⁻²¹ tʰou⁰,94,false,expert,,,,,1
-Haerbin-Liu-2007-201-42-1-2,Haerbin-Liu-2007-201-42-1,ku²¹³⁻²¹ tʰou⁰,79,false,expert,,,,,2
+Haerbin-Liu-2007-201-42-1-2,Haerbin-Liu-2007-201-42-1,ku²¹³⁻²¹ tʰou⁰,319,false,expert,,,,,2
 Jinan-Liu-2007-201-42-1-1,Jinan-Liu-2007-201-42-1,ku²¹⁴⁻²¹ tʰou⁰,94,false,expert,,,,,1
-Jinan-Liu-2007-201-42-1-2,Jinan-Liu-2007-201-42-1,ku²¹⁴⁻²¹ tʰou⁰,79,false,expert,,,,,2
+Jinan-Liu-2007-201-42-1-2,Jinan-Liu-2007-201-42-1,ku²¹⁴⁻²¹ tʰou⁰,319,false,expert,,,,,2
 Rongcheng-Liu-2007-201-42-1-1,Rongcheng-Liu-2007-201-42-1,ku²¹⁴⁻³⁵ tʰə⁰,94,false,expert,,,,,1
-Rongcheng-Liu-2007-201-42-1-2,Rongcheng-Liu-2007-201-42-1,ku²¹⁴⁻³⁵ tʰə⁰,79,false,expert,,,,,2
+Rongcheng-Liu-2007-201-42-1-2,Rongcheng-Liu-2007-201-42-1,ku²¹⁴⁻³⁵ tʰə⁰,319,false,expert,,,,,2
 Taiyuan-Liu-2007-201-42-1-1,Taiyuan-Liu-2007-201-42-1,kuəʔ² təu⁰,94,false,expert,,,,,1
-Taiyuan-Liu-2007-201-42-1-2,Taiyuan-Liu-2007-201-42-1,kuəʔ² təu⁰,79,false,expert,,,,,2
+Taiyuan-Liu-2007-201-42-1-2,Taiyuan-Liu-2007-201-42-1,kuəʔ² təu⁰,319,false,expert,,,,,2
 XiAn-Liu-2007-201-42-1-1,XiAn-Liu-2007-201-42-1,ku²¹ tʰou⁰,94,false,expert,,,,,1
 XiAn-Liu-2007-201-42-1-2,XiAn-Liu-2007-201-42-1,ku²¹ tʰou⁰,79,false,expert,,,,,2
 XiAn-Liu-2007-201-42-2-1,XiAn-Liu-2007-201-42-2,ku²¹ tou⁰,94,false,expert,,,,,1
 XiAn-Liu-2007-201-42-2-2,XiAn-Liu-2007-201-42-2,ku²¹ tou⁰,633,false,expert,,,,,2
 Chengdu-Liu-2007-201-42-1-1,Chengdu-Liu-2007-201-42-1,ku²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,94,false,expert,,,,,1
-Chengdu-Liu-2007-201-42-1-2,Chengdu-Liu-2007-201-42-1,ku²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,79,false,expert,,,,,2
+Chengdu-Liu-2007-201-42-1-2,Chengdu-Liu-2007-201-42-1,ku²¹⁻⁵⁵ tʰəu²¹⁻⁵⁵,319,false,expert,,,,,2
 Nanjing-Liu-2007-201-42-1-1,Nanjing-Liu-2007-201-42-1,kuʔ⁵ tʰəɯ¹³,94,false,expert,,,,,1
-Nanjing-Liu-2007-201-42-1-2,Nanjing-Liu-2007-201-42-1,kuʔ⁵ tʰəɯ¹³,79,false,expert,,,,,2
+Nanjing-Liu-2007-201-42-1-2,Nanjing-Liu-2007-201-42-1,kuʔ⁵ tʰəɯ¹³,319,false,expert,,,,,2
 Jixi-Liu-2007-201-42-1-1,Jixi-Liu-2007-201-42-1,kuɤʔ³²*,94,false,expert,,,,,1
 Suzhou-Liu-2007-201-42-1-1,Suzhou-Liu-2007-201-42-1,kuəʔ⁴ dʏ¹³⁻²³,94,false,expert,,,,,1
-Suzhou-Liu-2007-201-42-1-2,Suzhou-Liu-2007-201-42-1,kuəʔ⁴ dʏ¹³⁻²³,79,false,expert,,,,,2
+Suzhou-Liu-2007-201-42-1-2,Suzhou-Liu-2007-201-42-1,kuəʔ⁴ dʏ¹³⁻²³,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-42-1-1,Wenzhou-Liu-2007-201-42-1,ky⁴² dɤu³⁴¹⁻²¹,94,false,expert,,,,,1
-Wenzhou-Liu-2007-201-42-1-2,Wenzhou-Liu-2007-201-42-1,ky⁴² dɤu³⁴¹⁻²¹,79,false,expert,,,,,2
+Wenzhou-Liu-2007-201-42-1-2,Wenzhou-Liu-2007-201-42-1,ky⁴² dɤu³⁴¹⁻²¹,319,false,expert,,,,,2
 Wenzhou-Liu-2007-201-42-2-1,Wenzhou-Liu-2007-201-42-2,ky⁴¹,94,false,expert,,,,,1
 Changsha-Liu-2007-201-42-1-1,Changsha-Liu-2007-201-42-1,ku²⁴ təu⁰,94,false,expert,,,,,1
-Changsha-Liu-2007-201-42-1-2,Changsha-Liu-2007-201-42-1,ku²⁴ təu⁰,79,false,expert,,,,,2
+Changsha-Liu-2007-201-42-1-2,Changsha-Liu-2007-201-42-1,ku²⁴ təu⁰,319,false,expert,,,,,2
 Loudi-Liu-2007-201-42-1-1,Loudi-Liu-2007-201-42-1,ku¹³ diɤ¹³⁻³³,94,false,expert,,,,,1
-Loudi-Liu-2007-201-42-1-2,Loudi-Liu-2007-201-42-1,ku¹³ diɤ¹³⁻³³,79,false,expert,,,,,2
+Loudi-Liu-2007-201-42-1-2,Loudi-Liu-2007-201-42-1,ku¹³ diɤ¹³⁻³³,319,false,expert,,,,,2
 Nanchang-Liu-2007-201-42-1-1,Nanchang-Liu-2007-201-42-1,kuʔ⁵ tʰəu⁰,94,false,expert,,,,,1
-Nanchang-Liu-2007-201-42-1-2,Nanchang-Liu-2007-201-42-1,kuʔ⁵ tʰəu⁰,79,false,expert,,,,,2
+Nanchang-Liu-2007-201-42-1-2,Nanchang-Liu-2007-201-42-1,kuʔ⁵ tʰəu⁰,319,false,expert,,,,,2
 Meixian-Liu-2007-201-42-1-1,Meixian-Liu-2007-201-42-1,kut¹ tʰeu¹¹,94,false,expert,,,,,1
-Meixian-Liu-2007-201-42-1-2,Meixian-Liu-2007-201-42-1,kut¹ tʰeu¹¹,79,false,expert,,,,,2
+Meixian-Liu-2007-201-42-1-2,Meixian-Liu-2007-201-42-1,kut¹ tʰeu¹¹,319,false,expert,,,,,2
 Guilin-Liu-2007-201-42-1-1,Guilin-Liu-2007-201-42-1,ku⁵⁵ tai²²,94,false,expert,,,,,1
-Guilin-Liu-2007-201-42-1-2,Guilin-Liu-2007-201-42-1,ku⁵⁵ tai²²,79,false,expert,,,,,2
+Guilin-Liu-2007-201-42-1-2,Guilin-Liu-2007-201-42-1,ku⁵⁵ tai²²,319,false,expert,,,,,2
 Guangzhou-Liu-2007-201-42-1-1,Guangzhou-Liu-2007-201-42-1,kuɐt⁵,94,false,expert,,,,,1
 Fuzhou-Liu-2007-201-42-1-1,Fuzhou-Liu-2007-201-42-1,kɔuʔ²¹*,94,false,expert,,,,,1
 Fuzhou-Liu-2007-201-42-2-1,Fuzhou-Liu-2007-201-42-2,kɔuʔ²⁴*⁻²¹* kɔuʔ²⁴*,94,false,expert,,,,,1
 Fuzhou-Liu-2007-201-42-2-2,Fuzhou-Liu-2007-201-42-2,kɔuʔ²⁴*⁻²¹* kɔuʔ²⁴*,800,false,expert,,,,,2
 Xiamen-Liu-2007-201-42-1-1,Xiamen-Liu-2007-201-42-1,kut³²*⁻⁵ tʰau²⁴,94,false,expert,,,,,1
-Xiamen-Liu-2007-201-42-1-2,Xiamen-Liu-2007-201-42-1,kut³²*⁻⁵ tʰau²⁴,79,false,expert,,,,,2
+Xiamen-Liu-2007-201-42-1-2,Xiamen-Liu-2007-201-42-1,kut³²*⁻⁵ tʰau²⁴,319,false,expert,,,,,2
 Beijing-Liu-2007-201-43-1-1,Beijing-Liu-2007-201-43-1,kuən⁵¹,634,false,expert,,,,,1
 Haerbin-Liu-2007-201-43-1-1,Haerbin-Liu-2007-201-43-1,kuən⁵³ tsɿ⁰,634,false,expert,,,,,1
 Haerbin-Liu-2007-201-43-1-2,Haerbin-Liu-2007-201-43-1,kuən⁵³ tsɿ⁰,19,false,expert,,,,,2
@@ -5828,7 +5828,7 @@ Guangzhou-Liu-2007-201-88-1-1,Guangzhou-Liu-2007-201-88-1,nin²¹,741,false,expe
 Fuzhou-Liu-2007-201-88-1-1,Fuzhou-Liu-2007-201-88-1,tsai³²,744,false,expert,,,,,1
 Fuzhou-Liu-2007-201-88-2-1,Fuzhou-Liu-2007-201-88-2,huoi²¹²,743,false,expert,,,,,1
 Xiamen-Liu-2007-201-88-1-1,Xiamen-Liu-2007-201-88-1,he²²⁻²¹ tʰau²⁴,743,false,expert,,,,,1
-Xiamen-Liu-2007-201-88-1-2,Xiamen-Liu-2007-201-88-1,he²²⁻²¹ tʰau²⁴,79,false,expert,,,,,2
+Xiamen-Liu-2007-201-88-1-2,Xiamen-Liu-2007-201-88-1,he²²⁻²¹ tʰau²⁴,319,false,expert,,,,,2
 Beijing-Liu-2007-201-89-1-1,Beijing-Liu-2007-201-89-1,niɑur²¹³,745,false,expert,,,,,1
 Haerbin-Liu-2007-201-89-1-1,Haerbin-Liu-2007-201-89-1,niaur²¹³,745,false,expert,,,,,1
 Haerbin-Liu-2007-201-89-2-1,Haerbin-Liu-2007-201-89-2,tɕʰiaur²¹³,746,false,expert,,,,,1

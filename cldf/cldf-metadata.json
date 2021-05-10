@@ -11,13 +11,13 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Li\u00fa et al.'s \"Collection of Basic Words in Chinese Dialects\" from 2007",
-    "dcat:accessURL": "https://github.com/lexibank/liusinitic",
+    "dcat:accessURL": "https://github.com/lexibank/liusinitic/",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/liusinitic",
-            "dc:created": "ac987af"
+            "rdf:about": "https://github.com/lexibank/liusinitic/",
+            "dc:created": "5677c24"
         },
         {
             "rdf:type": "prov:Entity",
@@ -41,7 +41,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.2"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
