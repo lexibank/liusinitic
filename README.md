@@ -1,16 +1,8 @@
 # CLDF dataset derived from Liú et al.'s "Collection of Basic Words in Chinese Dialects" from 2007
 
-[![CLDF validation](https://github.com/lexibank/liusinitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/liusinitic/actions?query=workflow%3ACLDF-validation)
+Cite the source dataset as
 
-## How to cite
-
-If you use these data please cite
-- the original source
-  > Líu, L.; Wáng, H.; Bǎi, Y. (2007): Xiàndài Hànyǔ fāngyán héxīncí, tèzhēng cíjí 现代汉语方言核心词·特征词集 [Collection of basic vocabulary words and characteristic dialect words in modern Chinese dialects]. Nánjīng: Fènghuáng.
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
-
-## Description
-
+> Líu, L.; Wáng, H.; Bǎi, Y. (2007): Xiàndài Hànyǔ fāngyán héxīncí, tèzhēng cíjí 现代汉语方言核心词·特征词集 [Collection of basic vocabulary words and characteristic dialect words in modern Chinese dialects]. Nánjīng: Fènghuáng.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -35,7 +27,7 @@ Conceptlists in Concepticon:
 - **Cognacy:** 5,909 cognates in 834 cognate sets (385 singletons)
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
-- **Tokens:** 21,895
+- **Tokens:** 21,894
 - **Segments:** 145 (0 BIPA errors, 0 CTLS sound class errors, 145 CLTS modified)
 - **Inventory size (avg):** 50.32
 
@@ -49,10 +41,3 @@ Bǎi Yíng | | data collector | DataCollector, Editor, Author
 Johann-Mattis List | @LinguList | maintainer | Other
 
 
-
-
-## CLDF Datasets
-
-The following CLDF datasets are available in [cldf](cldf):
-
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

@@ -14,6 +14,7 @@ def check_entry(wordlist, index, errors=defaultdict(list)):
 
     if len(prosody.n) != len(tokens.n):
         errors[index] += ["prostring"]
+        print(prosody, tokens)
     if len(morphemes) != len(tokens.n):
         errors[index] += ["morphemes"]
     if len(cogids) != len(tokens.n):
