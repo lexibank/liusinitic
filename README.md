@@ -1,10 +1,18 @@
 # CLDF dataset derived from Liú et al.'s "Collection of Basic Words in Chinese Dialects" from 2007
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/liusinitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/liusinitic/actions?query=workflow%3ACLDF-validation)
 
-> Líu, L.; Wáng, H.; Bǎi, Y. (2007): Xiàndài Hànyǔ fāngyán héxīncí, tèzhēng cíjí 现代汉语方言核心词·特征词集 [Collection of basic vocabulary words and characteristic dialect words in modern Chinese dialects]. Nánjīng: Fènghuáng.
+## How to cite
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+If you use these data please cite
+- the original source
+  > Líu, L.; Wáng, H.; Bǎi, Y. (2007): Xiàndài Hànyǔ fāngyán héxīncí, tèzhēng cíjí 现代汉语方言核心词·特征词集 [Collection of basic vocabulary words and characteristic dialect words in modern Chinese dialects]. Nánjīng: Fènghuáng.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -12,6 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/liusinitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/liusinitic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -34,9 +43,16 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Liú Lìlǐ | | data collector | DataCollector, Editor
-Wáng Hóngzhōng | | data collector | DataCollector, Editor
-Bǎi Yíng | | data collector | DataCollector, Editor
-Johann-Mattis List | @LinguList | maintainer | Author
+Liú Lìlǐ | | data collector | DataCollector, Editor, Author
+Wáng Hóngzhōng | | data collector | DataCollector, Editor, Author
+Bǎi Yíng | | data collector | DataCollector, Editor, Author
+Johann-Mattis List | @LinguList | maintainer | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
