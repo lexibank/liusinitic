@@ -65,6 +65,7 @@ class Dataset(pylexibank.Dataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     cognate_class = CustomCognate
+    cross_concept_cognates = True
 
     def cmd_download(self, args):
         print("updating ...")
@@ -122,3 +123,9 @@ class Dataset(pylexibank.Dataset):
                     for error in problems:
                         args.log.warning("{0} {1}".format(idx, error))
                         f.write("* {0} {1}\n".format(error, idx))
+
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]

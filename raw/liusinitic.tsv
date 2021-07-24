@@ -277,7 +277,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 276	Xi_an		nose	pi²⁴ tsɿ⁰	pi²⁴+tsɿ⁰	p i ²⁴ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 277	Chengdu		nose	pi²¹⁻⁵⁵ tsɿ⁵³	pi²¹+tsɿ⁵³	p i ²¹ + ts ɿ ⁵³	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 278	Nanjing		nose	piʔ⁵ tsɿ⁰	piʔ⁵+tsɿ⁰	p i ʔ ⁵ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n c t + i n t		鼻 子	
-279	Jixi		nose	pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³	pʰɿ³⁵+kʰɑ̃²¹³	pʰ ɿ ³⁵ + kʰ u/w ɑ̃ ²¹³	77 78	nose/鼻 hole/孔	i n t + i n t		鼻 孔	
+279	Jixi		nose	pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³	pʰɿ³⁵+kʰɑ̃²¹³	pʰ ɿ ³⁵ + kʰ u/w ɑ̃ ²¹³	77 78	nose/鼻 hole/孔	i n t + i m n t		鼻 孔	
 280	Suzhou		nose	bəʔ²³* dʏ¹³⁻³¹	bəʔ²³+dʏ¹³	b ə ʔ ²³ + d ʏ ¹³	77 319	nose/鼻 head:SUF/頭	i n c t + i n t		鼻 頭	
 281	Wenzhou		nose	bei²¹⁻³¹ dɤu³⁴¹⁻²¹	bei²¹+dɤu³⁴¹	b ei ²¹ + d ɤu ³⁴¹	77 319	nose/鼻 head:SUF/頭	i n t + i n t		鼻 頭	
 282	Changsha		nose	pi²⁴	pi²⁴	p i ²⁴	77	nose/鼻	i n t	!variation	鼻	
@@ -827,7 +827,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 826	Guangzhou		tree	sy²²	sy²²	s y ²²	134	tree/树	i n t		树	
 827	Fuzhou		tree	tsʰieu²¹²	tsʰjeu²¹²	tsʰ j eu ²¹²	134	tree/树	i m n t		树	
 828	Xiamen		tree	tsʰiu²²	tsʰju²²	tsʰ j u ²²	134	tree/树	i m n t		树	
-829	Beijing	Mandarin	bark	ʂu⁵¹⁻⁵³ pʰiər³⁵	ʂu⁵¹+pʰjə³⁵	ʂ u ⁵¹ + pʰ j ə ³⁵	134 16	_tree/树 skin/皮	i n t + i m n t		树 皮	
+829	Beijing	Mandarin	bark	ʂu⁵¹⁻⁵³ pʰiər³⁵	ʂu⁵¹+pʰjə³⁵	ʂ u ⁵¹ + pʰ i ³⁵	134 16	_tree/树 skin/皮	i n t + i n t	METO META 	树 皮	
 830	Ha_erbin		bark	ʂu⁵³ pʰi²⁴	ʂu⁵³+pʰi²⁴	ʂ u ⁵³ + pʰ i ²⁴	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
 831	Jinan		bark	ʂu³¹ pʰi⁵³	ʂu³¹+pʰi⁵³	ʂ u ³¹ + pʰ i ⁵³	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
 832	Rongcheng		bark	ʃy³³⁴⁻³ pʰi³⁵	ʃy³³⁴+pʰi³⁵	ʃ y ³³⁴ + pʰ i ³⁵	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
