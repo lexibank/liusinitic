@@ -1,5 +1,7 @@
 # CLDF dataset derived from Liú et al.'s "Collection of Basic Words in Chinese Dialects" from 2007
 
+[![CLDF validation](https://github.com/lexibank/liusinitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/liusinitic/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -18,6 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/liusinitic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/liusinitic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -40,10 +43,10 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Liú Lìlǐ | | data collector | DataCollector, Editor
-Wáng Hóngzhōng | | data collector | DataCollector, Editor
-Bǎi Yíng | | data collector | DataCollector, Editor
-Johann-Mattis List | @LinguList | maintainer | Author
+Liú Lìlǐ | | data collector | DataCollector, Editor, Author
+Wáng Hóngzhōng | | data collector | DataCollector, Editor, Author
+Bǎi Yíng | | data collector | DataCollector, Editor, Author
+Johann-Mattis List | @LinguList | maintainer | Other
 
 
 

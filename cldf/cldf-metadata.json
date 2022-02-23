@@ -7,7 +7,7 @@
         "http://concepticon.clld.org/contributions/Liu-2007-201"
     ],
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Li\u00fa et al.'s \"Collection of Basic Words in Chinese Dialects\" from 2007",
@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/liusinitic",
             "rdf:type": "prov:Entity",
-            "dc:created": "d56e4fe",
+            "dc:created": "a5f58d9",
             "dc:title": "Repository"
         },
         {
@@ -193,11 +193,6 @@
                     {
                         "datatype": "string",
                         "name": "Glottolog_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
                     },
                     {
                         "datatype": "string",
