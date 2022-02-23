@@ -82,7 +82,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         # read in data
         ds = self.raw_dir / "liusinitic.tsv"
-        wl = Wordlist(ds.as_posix())
+        wl = Wordlist(str(ds))
         # add languages
         languages = args.writer.add_languages(lookup_factory="Name")
         # add concepts
