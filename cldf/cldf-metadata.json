@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/liusinitic",
             "rdf:type": "prov:Entity",
-            "dc:created": "a5f58d9",
+            "dc:created": "v1.0-3-g7cc3b3e",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.6.0",
             "dc:title": "Concepticon"
         },
         {
@@ -136,7 +136,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Morphemes"
+                        "name": "Morpheme_Glosses"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chinese_Characters"
                     }
                 ],
                 "foreignKeys": [
