@@ -1,33 +1,28 @@
 appdirs==1.4.4
 bs4==0.0.1
-Cartopy==0.19.0.post1
 certifi==2021.10.8
-cffi==1.15.0
-cldfbench==1.10.0
--e git+https://github.com/cldf/cldfcatalog@b351a391db96901d490ee02d25ecf2a3edeaa7c5#egg=cldfcatalog
--e git+https://github.com/cldf/cldfviz@147da9d562bd799d6e98ee43c8154b9c50d280c8#egg=cldfviz
+cldfbench==1.9.0
+cldfcatalog==1.4.0
+cldfviz==0.7.0
 cldfzenodo==0.2.0
 clldutils==3.11.1
 cltoolkit==0.1.1
-colorama==0.4.4
 colorlog==6.6.0
--e git+https://github.com/cldf/csvw.git@45584ad63ff3002a9b3a8073607c1847c5cbac58#egg=csvw
+csvw==1.11.0
 cycler==0.11.0
 gitdb==4.0.9
 greenlet==1.1.2
 html5lib==1.1
 idna==3.3
-igraph==0.9.8
+igraph==0.9.9
 iniconfig==1.1.1
 isodate==0.6.1
-Jinja2==3.0.3
-jmespath==1.0.0
+Jinja2==3.1.1
 joblib==1.1.0
-kiwisolver==1.3.2
--e git+https://github.com/lingpy/lingpy.git@c782a847d36e65227fe314565be218551a28bfa2#egg=lingpy
-lxml==4.7.1
+kiwisolver==1.4.2
+lingpy==2.6.9
 Markdown==3.3.6
-MarkupSafe==2.0.1
+MarkupSafe==2.1.1
 matplotlib==3.5.1
 nameparser==1.0.6
 networkx==2.6.3
@@ -40,22 +35,21 @@ purl==1.6
 py==1.11.0
 pybtex==0.24.0
 pycldf==1.25.1
--e git+https://github.com/cldf-clts/pyclts@c7420d9c59122210422ae249f00a37284cda98c8#egg=pyclts
--e git+https://lingulist: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@github.com/concepticon/pyconcepticon@c8e57af0c2f4a6eebd0a00054119744c435332f1#egg=pyconcepticon
+pyclts==3.1.1
+pyconcepticon==2.8.0
 pycountry==20.7.3
--e git+https://github.com/clld/pyglottolog.git@13af3b6f070bad186768c589c7b335edc43b7a7f#egg=pyglottolog
--e git+https://github.com/lexibank/pylexibank.git@f39b3298a1c93d9e9d1a1d559b391047f0ce63d5#egg=pylexibank
+pyglottolog==3.7.0
+pylexibank==3.3.0
+-e git+https://github.com/lingpy/pynorare.git@d0a684010126a821e9e79754cfc3e0bccf8d4449#egg=pynorare
 pyparsing==3.0.6
-PyQt5==5.15.6
 pytest==6.2.5
 python-dateutil==2.8.2
-python-igraph==0.9.8
+python-igraph==0.9.9
 regex==2021.11.10
 requests==2.26.0
 rfc3986==1.5.0
-scipy==1.7.3
+scipy==1.8.0
 segments==2.2.0
-Shapely==1.8.2
 six==1.16.0
 smmap==5.0.0
 soupsieve==2.3.1
@@ -63,7 +57,7 @@ SQLAlchemy==1.4.28
 tabulate==0.8.9
 termcolor==1.1.0
 texttable==1.6.4
-threadpoolctl==3.0.0
+threadpoolctl==3.1.0
 tqdm==4.62.3
 typing_extensions==4.0.1
 uritemplate==4.1.1

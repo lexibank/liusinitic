@@ -1,6 +1,7 @@
 from collections import defaultdict
 from pathlib import Path
 
+from clldutils.misc import slug
 import attr
 import lingpy
 import pylexibank
@@ -88,25 +89,26 @@ class Dataset(pylexibank.Dataset):
         # add concepts
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1]+"_"+slug(concept.english)
             args.writer.add_concept(
-                ID=concept.id,
+                ID=idx,
                 Name=concept.english,
                 Chinese_Gloss=concept.attributes["chinese"],
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept.english] = concept.id
+            concepts[concept.english] = idx
         # add the concepts which appear in the word list but do not appear in the concepticon list.
         args.writer.add_concept(
-                ID="Liu-2007-201-202",
-                Name="hear [compound]",
+                ID="202_heartcompound",
+                Name="heart [compound]",
                 Chinese_Gloss="心臟",
                 Concepticon_ID="1223",
                 Concepticon_Gloss="HEART"
                 )
-        concepts["heart [compound]"] = "Liu-2007-201-202"
-        concepts["river_2"] = "Liu-2007-201-50"
-        concepts["river"] = "Liu-2007-201-49"
+        concepts["heart [compound]"] = "202_heartcompound"
+        concepts["river_2"] = "50_river"
+        concepts["river"] = "49_river"
 
         # add forms
         errors = defaultdict(list)
