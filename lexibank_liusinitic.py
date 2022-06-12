@@ -97,7 +97,14 @@ class Dataset(pylexibank.Dataset):
             )
             concepts[concept.english] = concept.id
         # add the concepts which appear in the word list but do not appear in the concepticon list.
-        concepts["heart [compound]"] = "Liu-2007-201-158"
+        args.writer.add_concept(
+                ID="Liu-2007-201-202",
+                Name="hear [compound]",
+                Chinese_Gloss="心臟",
+                Concepticon_ID="1223",
+                Concepticon_Gloss="HEART"
+                )
+        concepts["heart [compound]"] = "Liu-2007-201-202"
         concepts["river_2"] = "Liu-2007-201-50"
         concepts["river"] = "Liu-2007-201-49"
 
