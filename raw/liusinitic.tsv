@@ -2,15 +2,15 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1	Beijing	Mandarin	vomit	tʰu⁵¹	tʰu⁵¹	tʰ u ⁵¹	1	spit/吐	i n t		吐	
 2	Ha_erbin	Mandarin	vomit	tʰu⁵³	tʰu⁵³	tʰ u ⁵³	1	spit/吐	i n t		吐	
 3	Jinan	Mandarin	vomit	tʰu³¹	tʰu³¹	tʰ u ³¹	1	spit/吐	i n t		吐	
-4	Rongcheng	Mandarin	vomit	ou²¹³⁻³⁵ tʰu²¹⁴	ou²¹³+tʰu²¹⁴	ou ²¹³ + tʰ u ²¹⁴	2 1	nausea/嘔 spit/吐	n t + i n t		嘔 吐	
+4	Rongcheng	Mandarin	vomit	ou²¹³⁻³⁵ tʰu²¹⁴	ou²¹³+tʰu²¹⁴	ou ²¹³ + tʰ u ²¹⁴	2 1	nausea/嘔 spit/吐	n t + i n t	copulative synonyme	嘔 吐	
 5	Taiyuan	Jin	vomit	tʰu⁵³ lə⁰	tʰu⁵³+lə⁰	tʰ u ⁵³ + l ə ⁰	2 5	nausea/嘔 _:PERFECTIVE/了	i n t + i n t		嘔 嘞	
-6	Xi_an	Mandarin	vomit	ŋou²¹ tʰu⁵³	ŋou²¹+tʰu⁵³	ŋ ou ²¹ + tʰ u ⁵³	2 1	nausea/嘔 spit/吐	i n t + i n t		嘔 吐	
+6	Xi_an	Mandarin	vomit	ŋou²¹ tʰu⁵³	ŋou²¹+tʰu⁵³	ŋ ou ²¹ + tʰ u ⁵³	2 1	nausea/嘔 spit/吐	i n t + i n t	copulative synonyme	嘔 吐	
 7	Chengdu	Mandarin	vomit	fa²¹⁻⁵⁵ tʰu⁵³ lo²¹	fa²¹+tʰu⁵³+lo²¹	f a ²¹ + tʰ u ⁵³ + l o ²¹	4 1 5	_send.out/發 spit/吐 _:PERFECTIVE/了	i n t + i n t + i n t		發 吐 了	
 8	Chengdu	Mandarin	vomit	tʰu⁵³⁻⁵⁵ lo²¹	tʰu⁵³+lo²¹	tʰ u ⁵³ + l o ²¹	1 5	spit/吐 _:PERFECTIVE/了	i n t + i n t		吐 了	
 9	Chengdu	Mandarin	vomit	ŋəu⁵³⁻⁴⁵ lo²¹	ŋəu⁵³+lo²¹	ŋ əu ⁵³ + l o ²¹	2 5	nausea/嘔 _:PERFECTIVE/了	i n t + i n t		嘔 了	
 10	Nanjing	Mandarin	vomit	tʰu⁴⁴	tʰu⁴⁴	tʰ u ⁴⁴	1	spit/吐	i n t		吐	
-11	Nanjing	Mandarin	vomit	əɯ¹¹⁻²² tʰu⁴⁴⁻²²	əɯ¹¹+tʰu⁴⁴	əɯ ¹¹ + tʰ u ⁴⁴	2 1	nausea/嘔 spit/吐	n t + i n t		嘔 吐	
-12	Jixi	Hui	vomit	fɔ⁵⁵⁻⁴⁵ ŋoʔ³²*	fɔ⁵⁵+ŋoʔ³²	f ɔ ⁵⁵ + ŋ o ʔ ³²	6 7	faint/㽹 nausea/惡	i n t + i n c t		㽹 惡	
+11	Nanjing	Mandarin	vomit	əɯ¹¹⁻²² tʰu⁴⁴⁻²²	əɯ¹¹+tʰu⁴⁴	əɯ ¹¹ + tʰ u ⁴⁴	2 1	nausea/嘔 spit/吐	n t + i n t	copulative synonyme	嘔 吐	
+12	Jixi	Hui	vomit	fɔ⁵⁵⁻⁴⁵ ŋoʔ³²*	fɔ⁵⁵+ŋoʔ³²	f ɔ ⁵⁵ + ŋ o ʔ ³²	6 7	faint/㽹 nausea/惡	i n t + i n c t	copulative sum. of v1 and v2 	㽹 惡	
 13	Suzhou	Wu	vomit	ʏ⁵²	ʏ⁵²	ʏ ⁵²	2	nausea/嘔	n t		嘔	
 14	Wenzhou	Wu	vomit	tʰøy⁵¹	tʰøy⁵¹	tʰ øy ⁵¹	1	spit/吐	i n t		吐	
 15	Changsha	Xiang	vomit	tʰu⁵⁵	tʰu⁵⁵	tʰ u ⁵⁵	1	spit/吐	i n t		吐	
@@ -20,7 +20,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 19	Nanchang	Gan	vomit	tʰu²¹³	tʰu²¹³	tʰ u ²¹³	1	spit/吐	i n t		吐	
 20	Meixian	Hakka	vomit	pʰon³³	pʰon³³	pʰ o n ³³	10	turn/翻	i n c t		翻	
 21	Guilin	Pinghua	vomit	tʰu²⁵	tʰu²⁵	tʰ u ²⁵	1	spit/吐	i n t		吐	
-22	Guangzhou	Yue	vomit	ŋɐu³⁵ tʰou³³	ŋɐu³⁵+tʰou³³	ŋ ɐu ³⁵ + tʰ ou ³³	2 1	nausea/嘔 spit/吐	i n t + i n t		嘔 吐	
+22	Guangzhou	Yue	vomit	ŋɐu³⁵ tʰou³³	ŋɐu³⁵+tʰou³³	ŋ ɐu ³⁵ + tʰ ou ³³	2 1	nausea/嘔 spit/吐	i n t + i n t	copulative synonyme	嘔 吐	
 23	Fuzhou	Min	vomit	tʰou²¹²	tʰou²¹²	tʰ ou ²¹²	1	spit/吐	i n t		吐	
 24	Xiamen	Min	vomit	tʰo²¹	tʰo²¹	tʰ o ²¹	1	spit/吐	i n t		吐	
 25	Beijing		fear	pʰᴀ⁵¹	pʰa̠⁵¹	pʰ a̠ ⁵¹	11	fear/怕	i n t		怕	
@@ -66,9 +66,9 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 65	Fuzhou		skin	pʰuoi⁵³⁻⁵⁵ u⁵⁵	pʰwoi⁵³+u⁵⁵	pʰ w oi ⁵³ + u ⁵⁵	16 17	skin/皮 _skin/膚	i m n t + n t		皮 膚	
 66	Fuzhou		skin	pʰuoi⁵³	pʰwoi⁵³	pʰ w oi ⁵³	16	skin/皮	i m n t		皮	
 67	Xiamen		skin	pʰe²¹	pʰe²¹	pʰ e ²¹	16	skin/皮	i n t		皮	
-68	Beijing		float	pʰiɑu⁵⁵ fu³⁵	pʰjɑu⁵⁵+fu³⁵	pʰ j ɑu ⁵⁵ + f u ³⁵	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
-69	Ha_erbin		float	pʰiau⁴⁴ fu²⁴	pʰjau⁴⁴+fu²⁴	pʰ j au ⁴⁴ + f u ²⁴	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
-70	Jinan		float	pʰiɔ²¹⁴ fu⁵³	pʰjɔ²¹⁴+fu⁵³	pʰ j ɔ ²¹⁴ + f u ⁵³	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
+68	Beijing		float	pʰiɑu⁵⁵ fu³⁵	pʰjɑu⁵⁵+fu³⁵	pʰ j ɑu ⁵⁵ + f u ³⁵	20 21	float/漂 float/浮	i m n t + i n t	copulative synonyme	漂 浮	
+69	Ha_erbin		float	pʰiau⁴⁴ fu²⁴	pʰjau⁴⁴+fu²⁴	pʰ j au ⁴⁴ + f u ²⁴	20 21	float/漂 float/浮	i m n t + i n t	copulative  synonyme	漂 浮	
+70	Jinan		float	pʰiɔ²¹⁴ fu⁵³	pʰjɔ²¹⁴+fu⁵³	pʰ j ɔ ²¹⁴ + f u ⁵³	20 21	float/漂 float/浮	i m n t + i n t	copulative  synonyme	漂 浮	
 71	Rongcheng		float	pʰiau⁵² fu³⁵	pʰjau⁵²+fu³⁵	pʰ j au ⁵² + f u ³⁵	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
 72	Taiyuan		float	pʰiɑu²¹	pʰjɑu²¹	pʰ j ɑu ²¹	20	float/漂	i m n t		漂	
 73	Xi_an		float	pʰiau²¹	pʰjau²¹	pʰ j au ²¹	20	float/漂	i m n t		漂	
@@ -82,16 +82,16 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 81	Suzhou		float	tʰən⁵²	tʰən⁵²	tʰ ə n ⁵²	22	float/氽	i n c t		氽	
 82	Wenzhou		float	və³⁴¹	və³⁴¹	v ə ³⁴¹	21	float/浮	i n t		浮	
 83	Wenzhou		float	taŋ⁵¹	taŋ⁵¹	t a ŋ ⁵¹	22	float/氽	i n c t		氽	
-84	Changsha		float	pʰiau³³ fu⁰	pʰjau³³+fu⁰	pʰ j au ³³ + f u ⁰	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
+84	Changsha		float	pʰiau³³ fu⁰	pʰjau³³+fu⁰	pʰ j au ³³ + f u ⁰	20 21	float/漂 float/浮	i m n t + i n t	copulative  synonyme	漂 浮	
 85	Loudi		float	bɤ¹³	bɤ¹³	b ɤ ¹³	20	float/漂	i n t		漂	
 86	Nanchang		float	pʰiɛu⁴²	pʰjɛu⁴²	pʰ j ɛu ⁴²	20	float/漂	i m n t		漂	
 87	Nanchang		float	fəu⁴⁵	fəu⁴⁵	f əu ⁴⁵	21	float/浮	i n t		浮	
 88	Nanchang		float	pʰiɛu⁴² fɛu⁴⁵	pʰjɛu⁴²+fɛu⁴⁵	pʰ j ɛu ⁴² + f ɛu ⁴⁵	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
 89	Meixian		float	feu¹¹	feu¹¹	f eu ¹¹	21	float/浮	i n t		浮	
 90	Guilin		float	fu²² tɑu²³⁻³³	fu²²+tɑu²³	f u ²² + t ɑu ²³	21 23	float/浮 _fall.down/倒	i n t + i n t		浮 倒	
-91	Guangzhou		float	pʰiu⁵³ fɐu²¹	pʰju⁵³+fɐu²¹	pʰ j u ⁵³ + f ɐu ²¹	20 21	float/漂 float/浮	i m n t + i n t		漂 浮	
-92	Fuzhou		float	pʰieu⁵⁵ lɛ³²	pʰjeu⁵⁵+lɛ³²	pʰ j eu ⁵⁵ + l ɛ ³²	20 24	float/漂 _float/𡅏	i m n t + i n t		漂 𡅏	
-93	Fuzhou		float	pʰu⁵³ lɛ³²	pʰu⁵³+lɛ³²	pʰ u ⁵³ + l ɛ ³²	21 24	float/浮 _float/𡅏	i n t + i n t		浮 𡅏	
+91	Guangzhou		float	pʰiu⁵³ fɐu²¹	pʰju⁵³+fɐu²¹	pʰ j u ⁵³ + f ɐu ²¹	20 21	float/漂 float/浮	i m n t + i n t	copulative  synonyme	漂 浮	
+92	Fuzhou		float	pʰieu⁵⁵ lɛ³²	pʰjeu⁵⁵+lɛ³²	pʰ j eu ⁵⁵ + l ɛ ³²	20 24	float/漂 _float/𡅏	i m n t + i n t	漂在	漂 𡅏	
+93	Fuzhou		float	pʰu⁵³ lɛ³²	pʰu⁵³+lɛ³²	pʰ u ⁵³ + l ɛ ³²	21 24	float/浮 _float/𡅏	i n t + i n t	浮在	浮 𡅏	
 94	Xiamen		float	pʰu²⁴	pʰu²⁴	pʰ u ²⁴	21	float/浮	i n t		浮	
 95	Beijing		smooth	pʰiŋ³⁵	pʰiŋ³⁵	pʰ i ŋ ³⁵	25	even/平	i n c t		平	
 96	Ha_erbin		smooth	pʰiŋ²⁴	pʰiŋ²⁴	pʰ i ŋ ²⁴	25	even/平	i n c t		平	
@@ -114,15 +114,15 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 113	Xiamen		smooth	piæ²⁴	pjæ²⁴	p j æ ²⁴	25	even/平	i m n t		平	
 114	Beijing		wife	tɕʰi⁵⁵ tsɿ⁰	tɕʰi⁵⁵+tsɿ⁰	tɕʰ i ⁵⁵ + ts ɿ ⁰	26 19	wife/妻 _-child:SUF/子	i n t + i n t		妻 子	
 115	Ha_erbin		wife	lau²¹³⁻²¹ pʰɤ⁰	lau²¹³+pʰɤ⁰	l au ²¹³ + pʰ ɤ ⁰	27 28	old/老 woman/婆	i n t + i n t		老 婆	
-116	Ha_erbin		wife	ɕi²¹³⁻²¹ fur⁰	ɕi²¹³+fu⁰	ɕ i ²¹³ + f u ⁰	29 30	wife/媳 wife/婦	i n t + i n t		媳 婦	
+116	Ha_erbin		wife	ɕi²¹³⁻²¹ fur⁰	ɕi²¹³+fu⁰	ɕ i ²¹³ + f u ⁰	29 30	wife/媳 wife/婦	i n t + i n t	original meaning was 新婦	媳 婦	
 117	Ha_erbin		wife	lau²¹³⁻²¹ niaŋ²⁴ mər⁰	lau²¹³+njaŋ²⁴+mə⁰	l au ²¹³ + n j a ŋ ²⁴ + m ə ⁰	27 31 195	old/老 female/娘 :PL/們	i n t + i m n c t + i n t		老 娘 們	
 118	Jinan		wife	tɕʰi²¹³⁻²¹ tsɿ⁰	tɕʰi²¹³+tsɿ⁰	tɕʰ i ²¹³ + ts ɿ ⁰	26 19	wife/妻 _-child:SUF/子	i n t + i n t		妻 子	
 119	Rongcheng		wife	lau²¹³ pʰə⁰	lau²¹³+pʰə⁰	l au ²¹³ + pʰ ə ⁰	27 28	old/老 woman/婆	i n t + i n t		老 婆	
-120	Taiyuan		wife	lau⁵³ pʰɤ²¹	lau⁵³+pʰɤ²¹	l au ⁵³ + pʰ ɤ ²¹	27 28	old/老 woman/婆	i n t + i n t		老 婆	
+120	Taiyuan		wife	lau⁵³ pʰɤ²¹	lau⁵³+pʰɤ²¹	l au ⁵³ + pʰ ɤ ²¹	27 28	old/老 woman/婆	i n t + i n t	multisyllabic word	老 婆	
 121	Xi_an		wife	ɕi²¹ fur⁰	ɕi²¹+fu⁰	ɕ i ²¹ + f u ⁰	29 30	wife/媳 wife/婦	i n t + i n t		媳 婦	
 122	Xi_an		wife	pʰo²⁴ niɑŋ⁰	pʰo²⁴+njɑŋ⁰	pʰ o ²⁴ + n j ɑ ŋ ⁰	28 31	woman/婆 female/娘	i n t + i m n c t		婆 娘	
-123	Xi_an		wife	uɑ⁴⁴ tʰɑ²⁴ mɑ²¹	wɑ⁴⁴+tʰɑ²⁴+mɑ²¹	w ɑ ⁴⁴ + tʰ ɑ ²⁴ + m ɑ ²¹	33 34 50	child/娃 _wife _wife	m n t + i n t + i n t		娃 大 妈	
-124	Xi_an		wife	u²¹ ni⁰ ʐẽ²⁴	u²¹+ni⁰+ʐẽ²⁴	u ²¹ + n i ⁰ + ʐ ẽ ²⁴	36 52 38	_wife inside/里 _person/人	n t + i n t + i n t		屋 裡 人	
+123	Xi_an		wife	uɑ⁴⁴ tʰɑ²⁴ mɑ²¹	wɑ⁴⁴+tʰɑ²⁴+mɑ²¹	w ɑ ⁴⁴ + tʰ ɑ ²⁴ + m ɑ ²¹	33 34 50	child/娃 _big/大 _mother/媽	m n t + i n t + i n t		娃 大 妈	
+124	Xi_an		wife	u²¹ ni⁰ ʐẽ²⁴	u²¹+ni⁰+ʐẽ²⁴	u ²¹ + n i ⁰ + ʐ ẽ ²⁴	36 52 38	_house/屋 inside/里 _person/人	n t + i n t + i n t		屋 裡 人	
 125	Chengdu		wife	lau⁵³⁻⁴⁵ pʰo²¹	lau⁵³+pʰo²¹	l au ⁵³ + pʰ o ²¹	27 28	old/老 woman/婆	i n t + i n t		老 婆	
 126	Chengdu		wife	lau⁵³⁻⁴⁵ ȵiər²¹	lau⁵³+ɲjə²¹	l au ⁵³ + ɲ j ə ²¹	27 31	old/老 female/娘	i n t + i m n t		老 娘	
 127	Chengdu		wife	ȵy⁵³⁻⁴⁵ li⁵⁵	ɲy⁵³+li⁵⁵	ɲ y ⁵³ + l i ⁵⁵	39 40	female/女 _:GEN/的	i n t + i n t		女 的	
@@ -130,7 +130,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 129	Jixi		wife	nɤ²¹³⁻³² y³¹⁻²¹	nɤ²¹³+y³¹	n ɤ ²¹³ + y ³¹	27 41	old/老 woman/妪	i n t + n t		老 妪	
 130	Jixi		wife	ȵy²¹³ iɑ̃⁴⁴	ɲy²¹³+jɑ̃⁴⁴	ɲ y ²¹³ + j ɑ̃ ⁴⁴	39 38	female/女 _person/人	i n t + i n t		女 人	
 131	Suzhou		wife	kɑ⁴⁴ tsʯ⁵²⁻⁴⁴ bu¹³⁻²¹	kɑ⁴⁴+tsʯ⁵²+bu¹³	k ɑ ⁴⁴ + ts ʯ ⁵² + b u ¹³	42 43 28	family/家 lord/主 woman/婆	i n t + i n t + i n t		家 主 婆	
-132	Wenzhou		wife	lə²⁴⁻⁴² y⁴⁴⁻²¹	lə²⁴+y⁴⁴	l ə ²⁴ + y ⁴⁴	27 44	old/老 wife	i n t + n t		老 安	
+132	Wenzhou		wife	lə²⁴⁻⁴² y⁴⁴⁻²¹	lə²⁴+y⁴⁴	l ə ²⁴ + y ⁴⁴	27 44	old/老 wife/安	i n t + n t	multisyllabic word	老 安	
 133	Changsha		wife	tɕʰi³³ tsɿ⁰	tɕʰi³³+tsɿ⁰	tɕʰ i ³³ + ts ɿ ⁰	26 19	wife/妻 _-child:SUF/子	i n t + i n t		妻 子	
 134	Changsha		wife	tan¹³ kʰə⁰	tan¹³+kʰə⁰	t a n ¹³ + kʰ ə ⁰	45 46	relative:N/堂 guest/客	i n c t + i n t		堂 客	
 135	Changsha		wife	lei¹¹ tan³³ tɕia³³	lei¹¹+tan³³+tɕja³³	l ei ¹¹ + t a n ³³ + tɕ j a ³³	47 48 42	inside/內 act/當 family/家	i n t + i n c t + i m n t		內 當 家	
@@ -147,24 +147,24 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 146	Fuzhou		wife	tsʰuo²¹²⁻⁵³ lie³²	tsʰwo²¹²+lje³²	tsʰ w o ²¹² + l j e ³²	51 52	place:V/厝 inside/里	i m n t + i m n t		厝 里	
 147	Xiamen		wife	bɔ⁵³	bɔ⁵³	b ɔ ⁵³	53	wife/某	i n t		某	
 148	Beijing	Mandarin	all	tɕʰyɛn³⁵ pu⁵¹	tɕʰɥɛn³⁵+pu⁵¹	tɕʰ ɥ ɛ n ³⁵ + p u ⁵¹	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-149	Ha_erbin	Mandarin	all	tɕʰyan²⁴ pu⁵³	tɕʰɥan²⁴+pu⁵³	tɕʰ ɥ a n ²⁴ + p u ⁵³	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-150	Jinan	Mandarin	all	tɕʰyæ̃⁵³ pu³¹	tɕʰɥæ̃⁵³+pu³¹	tɕʰ ɥ æ̃ ⁵³ + p u ³¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
-151	Rongcheng	Mandarin	all	tsʰiɐn³⁵ pur³³⁴	tsʰjɐn³⁵+pu³³⁴	tsʰ j ɐ n ³⁵ + p u ³³⁴	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-152	Taiyuan	Jin	all	tɕʰye²¹ pu⁴⁵	tɕʰɥe²¹+pu⁴⁵	tɕʰ ɥ e ²¹ + p u ⁴⁵	54 55	complete/全 part/部	i m n t + i n t		全 部	
-153	Xi_an	Mandarin	all	tsʰuæ̃²⁴ pu⁴⁴	tsʰwæ̃²⁴+pu⁴⁴	tsʰ w æ̃ ²⁴ + p u ⁴⁴	54 55	complete/全 part/部	i m n t + i n t		全 部	
-154	Chengdu	Mandarin	all	tɕʰyan²¹⁻⁵⁵ pu²¹³⁻²¹	tɕʰɥan²¹+pu²¹³	tɕʰ ɥ a n ²¹ + p u ²¹³	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-155	Nanjing	Mandarin	all	tɕʰyen¹³ pu⁴⁴	tɕʰɥen¹³+pu⁴⁴	tɕʰ ɥ e n ¹³ + p u ⁴⁴	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-156	Jixi	Hui	all	tɕʰyẽ⁴⁴⁻³⁵ pʰu³¹	tɕʰɥẽ⁴⁴+pʰu³¹	tɕʰ ɥ ẽ ⁴⁴ + pʰ u ³¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
-157	Suzhou	Wu	all	ziɪ¹³ bu²³¹⁻²¹	zjɪ¹³+bu²³¹	z j ɪ ¹³ + b u ²³¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
-158	Wenzhou	Wu	all	jy³⁴¹⁻²⁴ bu²⁴⁻²²	jy³⁴¹+bu²⁴	j y ³⁴¹ + b u ²⁴	54 55	complete/全 part/部	i n t + i n t		全 部	
+149	Ha_erbin	Mandarin	all	tɕʰyan²⁴ pu⁵³	tɕʰɥan²⁴+pu⁵³	tɕʰ ɥ a n ²⁴ + p u ⁵³	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+150	Jinan	Mandarin	all	tɕʰyæ̃⁵³ pu³¹	tɕʰɥæ̃⁵³+pu³¹	tɕʰ ɥ æ̃ ⁵³ + p u ³¹	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+151	Rongcheng	Mandarin	all	tsʰiɐn³⁵ pur³³⁴	tsʰjɐn³⁵+pu³³⁴	tsʰ j ɐ n ³⁵ + p u ³³⁴	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+152	Taiyuan	Jin	all	tɕʰye²¹ pu⁴⁵	tɕʰɥe²¹+pu⁴⁵	tɕʰ ɥ e ²¹ + p u ⁴⁵	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+153	Xi_an	Mandarin	all	tsʰuæ̃²⁴ pu⁴⁴	tsʰwæ̃²⁴+pu⁴⁴	tsʰ w æ̃ ²⁴ + p u ⁴⁴	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+154	Chengdu	Mandarin	all	tɕʰyan²¹⁻⁵⁵ pu²¹³⁻²¹	tɕʰɥan²¹+pu²¹³	tɕʰ ɥ a n ²¹ + p u ²¹³	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+155	Nanjing	Mandarin	all	tɕʰyen¹³ pu⁴⁴	tɕʰɥen¹³+pu⁴⁴	tɕʰ ɥ e n ¹³ + p u ⁴⁴	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+156	Jixi	Hui	all	tɕʰyẽ⁴⁴⁻³⁵ pʰu³¹	tɕʰɥẽ⁴⁴+pʰu³¹	tɕʰ ɥ ẽ ⁴⁴ + pʰ u ³¹	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+157	Suzhou	Wu	all	ziɪ¹³ bu²³¹⁻²¹	zjɪ¹³+bu²³¹	z j ɪ ¹³ + b u ²³¹	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+158	Wenzhou	Wu	all	jy³⁴¹⁻²⁴ bu²⁴⁻²²	jy³⁴¹+bu²⁴	j y ³⁴¹ + b u ²⁴	54 55	complete/全 part/部	i n t + i n t	copula-compound	全 部	
 159	Changsha	Xiang	all	tɕʰyẽ¹³ pu¹¹	tɕʰɥẽ¹³+pu¹¹	tɕʰ ɥ ẽ ¹³ + p u ¹¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
 160	Loudi	Xiang	all	dzuĩ¹³ bu¹¹	dzwĩ¹³+bu¹¹	dz w ĩ ¹³ + b u ¹¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
-161	Nanchang	Gan	all	tɕʰyon²⁴ pu⁰	tɕʰɥon²⁴+pu⁰	tɕʰ ɥ o n ²⁴ + p u ⁰	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-162	Meixian	Hakka	all	tɕʰien¹¹ pʰu⁵³	tɕʰjen¹¹+pʰu⁵³	tɕʰ j e n ¹¹ + pʰ u ⁵³	54 55	complete/全 part/部	i m n c t + i n t		全 部	
-163	Guilin	Pinghua	all	tɕyã²² pu²¹	tɕɥã²²+pu²¹	tɕ ɥ ã ²² + p u ²¹	54 55	complete/全 part/部	i m n t + i n t		全 部	
-164	Guangzhou	Yue	all	tsʰyn²¹ pou²²	tsʰyn²¹+pou²²	tsʰ y n ²¹ + p ou ²²	54 55	complete/全 part/部	i n c t + i n t		全 部	
-165	Fuzhou	Min	all	ko²¹²⁻²¹ louŋ⁵³⁻²¹ ŋa²⁴²	ko²¹²+louŋ⁵³+ŋa²⁴²	k o ²¹² + l ou ŋ ⁵³ + ŋ a ²⁴²	56 467 58	-piece:CLS/個 all/郎 _descend/下	i n t + i n c t + i n t		個 郎 下	
-166	Xiamen	Min	all	tsuan²⁴⁻²² pɔ²²	tswan²⁴+pɔ²²	ts w a n ²⁴ + p ɔ ²²	54 55	complete/全 part/部	i m n c t + i n t		全 部	
+161	Nanchang	Gan	all	tɕʰyon²⁴ pu⁰	tɕʰɥon²⁴+pu⁰	tɕʰ ɥ o n ²⁴ + p u ⁰	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+162	Meixian	Hakka	all	tɕʰien¹¹ pʰu⁵³	tɕʰjen¹¹+pʰu⁵³	tɕʰ j e n ¹¹ + pʰ u ⁵³	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
+163	Guilin	Pinghua	all	tɕyã²² pu²¹	tɕɥã²²+pu²¹	tɕ ɥ ã ²² + p u ²¹	54 55	complete/全 part/部	i m n t + i n t	copula-compound	全 部	
+164	Guangzhou	Yue	all	tsʰyn²¹ pou²²	tsʰyn²¹+pou²²	tsʰ y n ²¹ + p ou ²²	54 55	complete/全 part/部	i n c t + i n t	copula-compound	全 部	
+165	Fuzhou	Min	all	ko²¹²⁻²¹ louŋ⁵³⁻²¹ ŋa²⁴²	ko²¹²+louŋ⁵³+ŋa²⁴²	k o ²¹² + l ou ŋ ⁵³ + ŋ a ²⁴²	56 467 58	-piece:CLS/個 all/郎 _descend/下	i n t + i n c t + i n t	囫囵下. copula-compound-modified	個 郎 下	
+166	Xiamen	Min	all	tsuan²⁴⁻²² pɔ²²	tswan²⁴+pɔ²²	ts w a n ²⁴ + p ɔ ²²	54 55	complete/全 part/部	i m n c t + i n t	copula-compound	全 部	
 167	Beijing		hot	ʐɤ⁵¹	ʐɤ⁵¹	ʐ ɤ ⁵¹	59	hot/熱	i n t		熱	
 168	Ha_erbin		hot	ʐy⁵³	ʐy⁵³	ʐ y ⁵³	59	hot/熱	i n t		熱	
 169	Jinan		hot	ʐy³¹	ʐy³¹	ʐ y ³¹	59	hot/熱	i n t		熱	
@@ -225,10 +225,10 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 224	Guilin		throw	tiou⁴²	tjou⁴²	t j ou ⁴²	69	drow/丟	i m n t		丟	
 225	Guangzhou		throw	tiu⁵⁵	tju⁵⁵	t j u ⁵⁵	69	drow/丟	i m n t		丟	
 226	Fuzhou		throw	lieu⁵⁵	ljeu⁵⁵	l j eu ⁵⁵	69	drow/丟	i m n t		丟	
-227	Fuzhou		throw	kœʔ⁵	kœʔ⁵	k œ ʔ ⁵	764	throw/?	i n c t		囗	
+227	Fuzhou		throw	kœʔ⁵	kœʔ⁵	k œ ʔ ⁵	764	throw/?	i n c t	抾	囗	
 228	Fuzhou		throw	kʰœ³²	kʰœ³²	kʰ œ ³²	70	throw/抾	i n t		抾	
 229	Xiamen		throw	liŋ⁵⁵	liŋ⁵⁵	l i ŋ ⁵⁵	60	throw/仍	i n c t		仍	
-230	Beijing		white	pɛ³⁵	pɛ³⁵	p ɛ ³⁵	71	white/白	i n t		白	
+230	Beijing		white	pɛ³⁵	pɛ³⁵	p ɛ ³⁵	71	white/白	i n t	This word can also be a noun. But it is a adj. in this lexical data	白	
 231	Ha_erbin		white	pai²⁴	pai²⁴	p ai ²⁴	71	white/白	i n t		白	
 232	Jinan		white	pei⁵³	pei⁵³	p ei ⁵³	71	white/白	i n t		白	
 233	Rongcheng		white	pɛ³³⁴	pɛ³³⁴	p ɛ ³³⁴	71	white/白	i n t		白	
@@ -253,21 +253,21 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 252	Jinan		back	pei³¹	pei³¹	p ei ³¹	72	back:N/背	i n t		背	
 253	Rongcheng		back	pei⁵²	pei⁵²	p ei ⁵²	72	back:N/背	i n t		背	
 254	Taiyuan		back	pei⁴⁵	pei⁴⁵	p ei ⁴⁵	72	back:N/背	i n t		背	
-255	Xi_an		back	tɕi²¹ pei²⁴	tɕi²¹+pei²⁴	tɕ i ²¹ + p ei ²⁴	73 72	_back:N/脊 back:N/背	i n t + i n t		脊 背	
+255	Xi_an		back	tɕi²¹ pei²⁴	tɕi²¹+pei²⁴	tɕ i ²¹ + p ei ²⁴	73 72	_spine:N/脊 back:N/背	i n t + i n t		脊 背	
 256	Xi_an		back	pei²⁴	pei²⁴	p ei ²⁴	72	back:N/背	i n t		背	
 257	Chengdu		back	pei²¹³	pei²¹³	p ei ²¹³	72	back:N/背	i n t		背	
 258	Nanjing		back	pei⁴⁴	pei⁴⁴	p ei ⁴⁴	72	back:N/背	i n t		背	
 259	Jixi		back	pa³⁵	pa³⁵	p a ³⁵	72	back:N/背	i n t		背	
 260	Suzhou		back	pᴇ⁴¹²	pe̞⁴¹²	p e̞ ⁴¹²	72	back:N/背	i n t		背	
-261	Wenzhou		back	pai⁴²⁻³ dʑi²⁴⁻⁴⁴ saŋ⁴⁴⁻²¹	pai⁴²+dʑi²⁴+saŋ⁴⁴	p ai ⁴² + dʑ i ²⁴ + s a ŋ ⁴⁴	72 74 75	back:N/背 _back _body/身	i n t + i n t + i n c t		背 骶 身	
+261	Wenzhou		back	pai⁴²⁻³ dʑi²⁴⁻⁴⁴ saŋ⁴⁴⁻²¹	pai⁴²+dʑi²⁴+saŋ⁴⁴	p ai ⁴² + dʑ i ²⁴ + s a ŋ ⁴⁴	72 74 75	back:N/背 _sacrum/骶 _body/身	i n t + i n t + i n c t	骶 is the last bone of the spine	背 骶 身	
 262	Changsha		back	pei⁵⁵	pei⁵⁵	p ei ⁵⁵	72	back:N/背	i n t		背	
 263	Loudi		back	pe³⁵	pe³⁵	p e ³⁵	72	back:N/背	i n t		背	
-264	Nanchang		back	pei⁴⁵ tɕiaʔ⁰	pei⁴⁵+tɕjaʔ⁰	p ei ⁴⁵ + tɕ j a ʔ ⁰	72 73	back:N/背 _back:N/脊	i n t + i m n c t		背 脊	
+264	Nanchang		back	pei⁴⁵ tɕiaʔ⁰	pei⁴⁵+tɕjaʔ⁰	p ei ⁴⁵ + tɕ j a ʔ ⁰	72 73	back:N/背 _spine:N/脊	i n t + i m n c t		背 脊	
 265	Meixian		back	poi⁵³	poi⁵³	p oi ⁵³	72	back:N/背	i n t		背	
 266	Guilin		back	pei²⁵	pei²⁵	p ei ²⁵	72	back:N/背	i n t		背	
 267	Guangzhou		back	pui³³	pwi³³	p w i ³³	72	back:N/背	i m n t		背	
-268	Fuzhou		back	pʰiaŋ⁵⁵	pʰjaŋ⁵⁵	pʰ j a ŋ ⁵⁵	72	back:N/背	i m n c t	irregular nasalization	背	
-269	Xiamen		back	ka⁵⁵⁻²² tsiaʔ³²*	ka⁵⁵+tsjaʔ³²	k a ⁵⁵ + ts j a ʔ ³²	76 73	_shoulder.blade/胛 BACK	i n t + i m n c t		胛 脊	
+268	Fuzhou		back	pʰiaŋ⁵⁵	pʰjaŋ⁵⁵	pʰ j a ŋ ⁵⁵	72	back:N/背	i m n c t	irregular nasalization. Charaters is 𩩍. Rib	背	
+269	Xiamen		back	ka⁵⁵⁻²² tsiaʔ³²*	ka⁵⁵+tsjaʔ³²	k a ⁵⁵ + ts j a ʔ ³²	76 73	shoulder.blade/胛 spine:N/脊	i n t + i m n c t	changed.	胛 脊	
 270	Beijing		nose	pi³⁵ tsɿ⁰	pi³⁵+tsɿ⁰	p i ³⁵ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 271	Ha_erbin		nose	pi²⁴ tsɿ⁰	pi²⁴+tsɿ⁰	p i ²⁴ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 272	Jinan		nose	pi⁵³⁻⁴⁵ tsɿ⁰	pi⁵³+tsɿ⁰	p i ⁵³ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
@@ -277,7 +277,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 276	Xi_an		nose	pi²⁴ tsɿ⁰	pi²⁴+tsɿ⁰	p i ²⁴ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 277	Chengdu		nose	pi²¹⁻⁵⁵ tsɿ⁵³	pi²¹+tsɿ⁵³	p i ²¹ + ts ɿ ⁵³	77 19	nose/鼻 -child:SUF/子	i n t + i n t		鼻 子	
 278	Nanjing		nose	piʔ⁵ tsɿ⁰	piʔ⁵+tsɿ⁰	p i ʔ ⁵ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n c t + i n t		鼻 子	
-279	Jixi		nose	pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³	pʰɿ³⁵+kʰɑ̃²¹³	pʰ ɿ ³⁵ + kʰ u/w ɑ̃ ²¹³	77 78	nose/鼻 hole/孔	i n t + i n t		鼻 孔	
+279	Jixi		nose	pʰɿ³⁵⁻⁵³ kʰɑ̃²¹³	pʰɿ³⁵+kʰɑ̃²¹³	pʰ ɿ ³⁵ + kʰ u/w ɑ̃ ²¹³	77 78	nose/鼻 hole/孔	i n t + i m n t		鼻 孔	
 280	Suzhou		nose	bəʔ²³* dʏ¹³⁻³¹	bəʔ²³+dʏ¹³	b ə ʔ ²³ + d ʏ ¹³	77 319	nose/鼻 head:SUF/頭	i n c t + i n t		鼻 頭	
 281	Wenzhou		nose	bei²¹⁻³¹ dɤu³⁴¹⁻²¹	bei²¹+dɤu³⁴¹	b ei ²¹ + d ɤu ³⁴¹	77 319	nose/鼻 head:SUF/頭	i n t + i n t		鼻 頭	
 282	Changsha		nose	pi²⁴	pi²⁴	p i ²⁴	77	nose/鼻	i n t	!variation	鼻	
@@ -286,9 +286,9 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 285	Nanchang		nose	pʰit²¹* tsɿ⁰	pʰit²¹+tsɿ⁰	pʰ i t ²¹ + ts ɿ ⁰	77 19	nose/鼻 -child:SUF/子	i n c t + i n t		鼻 子	
 286	Meixian		nose	pʰi⁵³ kuŋ³³	pʰi⁵³+kuŋ³³	pʰ i ⁵³ + k u ŋ ³³	77 80	nose/鼻 noble.man:SUF/公	i n t + i n c t		鼻 公	
 287	Guilin		nose	pi²² kʰɤn²³⁻³³	pi²²+kʰɤn²³	p i ²² + kʰ ɤ n ²³	77 78	nose/鼻 hole/孔	i n t + i n c t		鼻 孔	
-288	Guangzhou		nose	pei²² kɔ⁵⁵	pei²²+kɔ⁵⁵	p ei ²² + k ɔ ⁵⁵	77 81	nose/鼻 :SUF/歌	i n t + i n t		鼻 歌	
+288	Guangzhou		nose	pei²² kɔ⁵⁵	pei²²+kɔ⁵⁵	p ei ²² + k ɔ ⁵⁵	77 81	nose/鼻 :SUF/哥	i n t + i n t	哥, please change the annotation to brother	鼻 哥	
 289	Fuzhou		nose	pʰɛi²¹²	pʰɛi²¹²	pʰ ɛi ²¹²	77	nose/鼻	i n t		鼻	
-290	Xiamen		nose	pʰiæ²²⁻²¹ iã⁵³	pʰjæ²²+jã⁵³	pʰ j æ ²² + j/Ø ã/a ⁵³	77 797	nose/鼻 _:SUF/仔	i m n t + i n t	!variation	鼻 仔	
+290	Xiamen		nose	pʰiæ²²⁻²¹ iã⁵³	pʰjæ²²+jã⁵³	pʰ j æ ²² + j/Ø ã/a ⁵³	77 797	nose/鼻 _:SUF/仔	i m n t + i n t	!variation.	鼻 仔	
 291	Xiamen		nose	pʰiæ²²	pʰjæ²²	pʰ j æ ²²	77	nose/鼻	i m n t		鼻	
 292	Beijing		ice	piŋ⁵⁵	piŋ⁵⁵	p i ŋ ⁵⁵	83	ice/冰	i n c t		冰	
 293	Ha_erbin		ice	piŋ⁴⁴	piŋ⁴⁴	p i ŋ ⁴⁴	83	ice/冰	i n c t		冰	
@@ -303,7 +303,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 302	Wenzhou		ice	pəŋ⁴⁴	pəŋ⁴⁴	p ə ŋ ⁴⁴	83	ice/冰	i n c t		冰	
 303	Changsha		ice	pin³³	pin³³	p i n ³³	83	ice/冰	i n c t		冰	
 304	Changsha		ice	lin¹³ pin³³	lin¹³+pin³³	l i n ¹³ + p i n ³³	84 83	_ice/凌 ice/冰	i n c t + i n c t		凌 冰	
-305	Loudi		ice	kɤ³⁵ niɔ̃¹³⁻³³ tsɿ⁰	kɤ³⁵+njɔ̃¹³+tsɿ⁰	k ɤ ³⁵ + n j ɔ̃ ¹³ + ts ɿ ⁰	85 86 19	ICE _ice _-child:SUF/子	i n t + i m n t + i n t		構 棱 子	
+305	Loudi		ice	kɤ³⁵ niɔ̃¹³⁻³³ tsɿ⁰	kɤ³⁵+njɔ̃¹³+tsɿ⁰	k ɤ ³⁵ + n j ɔ̃ ¹³ + ts ɿ ⁰	85 86 19	ICE _ice _-child:SUF/子	i n t + i m n t + i n t	! select 棱	構 棱 子	
 306	Nanchang		ice	pin⁴²	pin⁴²	p i n ⁴²	83	ice/冰	i n c t		冰	
 307	Meixian		ice	pen³³	pen³³	p e n ³³	83	ice/冰	i n c t		冰	
 308	Guilin		ice	piŋ⁴²	piŋ⁴²	p i ŋ ⁴²	83	ice/冰	i n c t		冰	
@@ -317,7 +317,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 316	Rongcheng		neck	pɔ³⁵⁻³ kəŋ²¹⁴ tsɿ⁰	pɔ³⁵+kəŋ²¹⁴+tsɿ⁰	p ɔ ³⁵ + k ə ŋ ²¹⁴ + ts ɿ ⁰	88 89 19	neck/脖 _neck _-child:SUF/子	i n t + i n c t + i n t		脖 颈 子	
 317	Taiyuan		neck	paʔ⁵⁴* tsəʔ⁰	paʔ⁵⁴+tsəʔ⁰	p a ʔ ⁵⁴ + ts ə ʔ ⁰	88 19	neck/脖 _-child:SUF/子	i n c t + i n c t		脖 子	
 318	Xi_an		neck	po²⁴ tsɿ⁰	po²⁴+tsɿ⁰	p o ²⁴ + ts ɿ ⁰	88 19	neck/脖 _-child:SUF/子	i n t + i n t		脖 子	
-319	Chengdu		neck	tɕin⁵³⁻⁵⁵ xaŋ⁵³	tɕin⁵³+xaŋ⁵³	tɕ i n ⁵³ + x a ŋ ⁵³	90 91	neck/頸 neck	i n c t + i n c t		頸 項	
+319	Chengdu		neck	tɕin⁵³⁻⁵⁵ xaŋ⁵³	tɕin⁵³+xaŋ⁵³	tɕ i n ⁵³ + x a ŋ ⁵³	90 91	neck/頸 nepe/項	i n c t + i n c t	項 is nape: the back of the neck.	頸 項	
 320	Chengdu		neck	tɕin⁵³⁻⁴⁵ tsɿ⁵³	tɕin⁵³+tsɿ⁵³	tɕ i n ⁵³ + ts ɿ ⁵³	90 19	neck/頸 -child:SUF/子	i n c t + i n t		頸 子	
 321	Nanjing		neck	poʔ⁵ tsɿ⁰	poʔ⁵+tsɿ⁰	p o ʔ ⁵ + ts ɿ ⁰	88 19	neck/脖 _-child:SUF/子	i n c t + i n t		脖 子	
 322	Jixi		neck	kʰi³⁵⁻⁵³ tɕiɑ̃²¹³	kʰi³⁵+tɕjɑ̃²¹³	kʰ i ³⁵ + tɕ j ɑ̃ ²¹³	92 90	neck/扣 neck/頸	i n t + i m n t		扣 頸	
@@ -455,7 +455,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 454	Guangzhou		flesh	ik²	ik²	i k ²	18	flesh/肉	n c t		肉	
 455	Fuzhou		flesh	nyʔ⁵	nyʔ⁵	n y ʔ ⁵	18	flesh/肉	i n c t		肉	
 456	Xiamen		flesh	baʔ³²*	baʔ³²	b a ʔ ³²	802	flesh/肉	i n c t		肉	
-457	Beijing		if	ʐu³⁵ kuo²¹⁴	ʐu³⁵+kwo²¹⁴	ʐ u ³⁵ + k w o ²¹⁴	113 114	how/如 fruit.result/果	i n t + i m n t		如 果	
+457	Beijing		if	ʐu³⁵ kuo²¹⁴	ʐu³⁵+kwo²¹⁴	ʐ u ³⁵ + k w o ²¹⁴	113 114	how/如 fruit.result/果	i n t + i m n t	如有as or like意思	如 果	
 458	Ha_erbin		if	ʐu²⁴ kuo²¹³	ʐu²⁴+kwo²¹³	ʐ u ²⁴ + k w o ²¹³	113 114	how/如 fruit.result/果	i n t + i m n t		如 果	
 459	Jinan		if	lu⁵³ kuɤ⁴⁵	lu⁵³+kwɤ⁴⁵	l u ⁵³ + k w ɤ ⁴⁵	113 114	how/如 fruit.result/果	i n t + i m n t		如 果	
 460	Rongcheng		if	y³⁵ kuɔ²¹⁴	y³⁵+kwɔ²¹⁴	y ³⁵ + k w ɔ ²¹⁴	113 114	how/如 fruit.result/果	n t + i m n t		如 果	
@@ -464,10 +464,10 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 463	Chengdu		if	ta⁵³⁻⁵⁵ pi⁵³ so²¹	ta⁵³+pi⁵³+so²¹	t a ⁵³ + p i ⁵³ + s o ²¹	115 116 117	_beat:V/打 compare/比 _talk/说	i n t + i n t + i n t		打 比 说	
 464	Nanjing		if	ʐu¹³ ko¹¹	ʐu¹³+ko¹¹	ʐ u ¹³ + k o ¹¹	113 114	how/如 fruit.result/果	i n t + i n t		如 果	
 465	Jixi		if	y⁴⁴⁻³⁵ kɵ²¹³	y⁴⁴+kɵ²¹³	y ⁴⁴ + k ɵ ²¹³	113 114	how/如 fruit.result/果	n t + i n t		如 果	
-466	Suzhou		if	tɕiɑ⁵² sɿ⁵²⁻²³	tɕjɑ⁵²+sɿ⁵²	tɕ j ɑ ⁵² + s ɿ ⁵²	118 119	fake/假 send/使	i m n t + i n t		假 使	
+466	Suzhou		if	tɕiɑ⁵² sɿ⁵²⁻²³	tɕjɑ⁵²+sɿ⁵²	tɕ j ɑ ⁵² + s ɿ ⁵²	118 119	fake/假 send/使	i m n t + i n t	使 is "if" 	假 使	
 467	Wenzhou		if	dʑia²¹⁻³³ zɿ²⁴⁻²²	dʑja²¹+zɿ²⁴	dʑ j a ²¹ + z ɿ ²⁴	339 121	if/若 be/是	i m n t + i n t		若 是	
 468	Changsha		if	y¹³ ko⁰	y¹³+ko⁰	y ¹³ + k o ⁰	113 114	how/如 fruit.result/果	n t + i n t		如 果	
-469	Changsha		if	iau⁵⁵ sɿ⁰	jau⁵⁵+sɿ⁰	j au ⁵⁵ + s ɿ ⁰	122 121	want/要 be/是	i n t + i n t		要 是	
+469	Changsha		if	iau⁵⁵ sɿ⁰	jau⁵⁵+sɿ⁰	j au ⁵⁵ + s ɿ ⁰	122 121	want/要 be/是	i n t + i n t	是有"此"之意	要 是	
 470	Loudi		if	y¹³ ko⁴²⁻¹	y¹³+ko⁴²	y ¹³ + k o ⁴²	113 114	how/如 fruit.result/果	n t + i n t		如 果	
 471	Nanchang		if	lu⁴⁵ kuo²¹³	lu⁴⁵+kwo²¹³	l u ⁴⁵ + k w o ²¹³	113 114	how/如 fruit.result/果	i n t + i m n t		如 果	
 472	Nanchang		if	tʰɔŋ²¹³ ȵuo⁴⁵	tʰɔŋ²¹³+ɲwo⁴⁵	tʰ ɔ ŋ ²¹³ + ɲ w o ⁴⁵	123 120	if/倘 if/若	i n c t + i m n t		倘 若	
@@ -491,7 +491,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 490	Jixi		breasts	lɔ³⁵ tsɿ⁰	lɔ³⁵+tsɿ⁰	l ɔ ³⁵ + ts ɿ ⁰	128 19	breast/奶 -child:SUF/子	i n t + i n t		奶 子	
 491	Suzhou		breasts	nɑ¹³⁻²² nɑ¹³⁻³¹	nɑ¹³+nɑ¹³	n ɑ ¹³ + n ɑ ¹³	128 128	breast/奶 breast/奶	i n t + i n t		奶 奶	
 492	Wenzhou		breasts	na²⁴	na²⁴	n a ²⁴	128	breast/奶	i n t		奶	
-493	Changsha		breasts	y⁴¹ fan¹³	y⁴¹+fan¹³	y ⁴¹ + f a n ¹³	126 127	breast/乳 house.room/房	n t + i n c t		乳 房	
+493	Changsha		breasts	y⁴¹ fan¹³	y⁴¹+fan¹³	y ⁴¹ + f a n ¹³	126 127	breast/乳 house.room/房	n t + i n c t	!b	乳 房	
 494	Changsha		breasts	lai⁴¹ tsɿ⁰	lai⁴¹+tsɿ⁰	l ai ⁴¹ + ts ɿ ⁰	128 19	breast/奶 -child:SUF/子	i n t + i n t		奶 子	
 495	Loudi		breasts	la³⁵ bu¹³⁻³³	la³⁵+bu¹³	l a ³⁵ + b u ¹³	128 28	breast/奶 woman/婆	i n t + i n t		奶 婆	
 496	Nanchang		breasts	lai²¹³	lai²¹³	l ai ²¹³	128	breast/奶	i n t		奶	
@@ -579,7 +579,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 578	Changsha		sand	sa³³ po¹³ tsɿ⁰	sa³³+po¹³+tsɿ⁰	s a ³³ + p o ¹³ + ts ɿ ⁰	138 28 19	sand/沙 woman/婆 _-child:SUF/子	i n t + i n t + i n t		沙 婆 子	
 579	Loudi		sand	sɔ⁴⁴ tsɿ⁰	sɔ⁴⁴+tsɿ⁰	s ɔ ⁴⁴ + ts ɿ ⁰	138 19	sand/沙 _-child:SUF/子	i n t + i n t		沙 子	
 580	Nanchang		sand	sa⁴² tsɿ⁰	sa⁴²+tsɿ⁰	s a ⁴² + ts ɿ ⁰	138 19	sand/沙 _-child:SUF/子	i n t + i n t		沙 子	
-581	Meixian		sand	sa³³⁻³⁵ ve⁰	sa³³+ve⁰	s a ³³ + v e ⁰	138 827	sand/沙 _sand	i n t + i n t		沙	
+581	Meixian		sand	sa³³⁻³⁵ ve⁰	sa³³+ve⁰	s a ³³ + v e ⁰	138 827	sand/沙 _SUF/儿	i n t + i n t	! I added an 儿	沙 儿	
 582	Guilin		sand	sɑ⁴² tse²³⁻³³	sɑ⁴²+tse²³	s ɑ ⁴² + ts e ²³	138 19	sand/沙 _-child:SUF/子	i n t + i n t		沙 子	
 583	Guangzhou		sand	sa⁵³	sa⁵³	s a ⁵³	138	sand/沙	i n t		沙	
 584	Fuzhou		sand	sai⁵⁵	sai⁵⁵	s ai ⁵⁵	138	sand/沙	i n t		沙	
@@ -671,7 +671,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 670	Taiyuan		snake	sɤ²¹	sɤ²¹	s ɤ ²¹	148	snake/蛇	i n t		蛇	
 671	Xi_an		snake	tʂʰɑŋ²⁴ pfʰəŋ⁰	ʈʂʰɑŋ²⁴+pfʰəŋ⁰	ʈʂʰ ɑ ŋ ²⁴ + pfʰ ə ŋ ⁰	149 150	long/长 insect/虫	i n c t + i n c t		长 虫	
 672	Chengdu		snake	se²¹	se²¹	s e ²¹	148	snake/蛇	i n t		蛇	
-673	Chengdu		snake	so⁴⁵ lau⁵³⁻⁵⁵ ər²¹³⁻²¹	so⁴⁵+lau⁵³+ə²¹³	s o ⁴⁵ + l au ⁵³ + ə ²¹³	151 27 258	crawl/梭 old/老 _:SUF/?	i n t + i n t + n t		梭 老 ?	
+673	Chengdu		snake	so⁴⁵ lau⁵³⁻⁵⁵ ər²¹³⁻²¹	so⁴⁵+lau⁵³+ə²¹³	s o ⁴⁵ + l au ⁵³ + ə ²¹³	151 27 258	crawl/梭 old/老 _two/二	i n t + i n t + n t		梭 老 二	
 674	Nanjing		snake	ʂə¹³	ʂə¹³	ʂ ə ¹³	148	snake/蛇	i n t		蛇	
 675	Jixi		snake	so⁴⁴	so⁴⁴	s o ⁴⁴	148	snake/蛇	i n t		蛇	
 676	Suzhou		snake	zo¹³	zo¹³	z o ¹³	148	snake/蛇	i n t		蛇	
@@ -679,7 +679,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 678	Changsha		snake	sə¹³	sə¹³	s ə ¹³	148	snake/蛇	i n t		蛇	
 679	Loudi		snake	tɕʰiɔ¹³	tɕʰjɔ¹³	tɕʰ j ɔ ¹³	148	snake/蛇	i m n t		蛇	
 680	Nanchang		snake	sa⁴⁵	sa⁴⁵	s a ⁴⁵	148	snake/蛇	i n t		蛇	
-681	Meixian		snake	sa¹¹ ko³³	sa¹¹+ko³³	s a ¹¹ + k o ³³	148 152	snake/蛇 _snake	i n t + i n t		蛇 哥	
+681	Meixian		snake	sa¹¹ ko³³	sa¹¹+ko³³	s a ¹¹ + k o ³³	148 152	snake/蛇 _brother/哥	i n t + i n t	change the second morpheme to brother	蛇 哥	
 682	Guilin		snake	sᴀ²²	sa̠²²	s a̠ ²²	148	snake/蛇	i n t		蛇	
 683	Guangzhou		snake	sɛ²¹	sɛ²¹	s ɛ ²¹	148	snake/蛇	i n t		蛇	
 684	Fuzhou		snake	lau³²⁻²¹ lie⁵³	lau³²+lje⁵³	l au ³² + l j e ⁵³	27 148	_old/老 snake/蛇	i n t + i m n t		老 蛇	
@@ -766,8 +766,8 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 765	Nanchang		what	ɕit⁵ li²¹	ɕit⁵+li²¹	ɕ i t ⁵ + l i ²¹	166 174	what:QU/什 _what	i n c t + i n t		什 哩	
 766	Meixian		what	mak¹ ke⁵³	mak¹+ke⁵³	m a k ¹ + k e ⁵³	175 56	WHAT -piece:CLS/個	i n c t + i n t		脉 個	
 767	Guilin		what	sɤn²² mᴀ²²	sɤn²²+ma̠²²	s ɤ n ²² + m a̠ ²²	166 167	what:QU/什 what:QU/麼	i n c t + i n t		什 麼	
-768	Guangzhou		what	mɐt⁵ iɛ²³	mɐt⁵+jɛ²³	m ɐ t ⁵ + j ɛ ²³	176 177	that/乜 _what	i n c t + m n t		乜 嘢	
-769	Fuzhou		what	sieʔ²⁴*⁻⁵³* noʔ²⁴*	sjeʔ²⁴+noʔ²⁴	s j e ʔ ²⁴ + n o ʔ ²⁴	166 178	what:QU/什 _what	i m n c t + i n c t		什 乇	
+768	Guangzhou		what	mɐt⁵ iɛ²³	mɐt⁵+jɛ²³	m ɐ t ⁵ + j ɛ ²³	176 177	that/乜 _what	i n c t + m n t	嘢 is object or thing	乜 嘢	
+769	Fuzhou		what	sieʔ²⁴*⁻⁵³* noʔ²⁴*	sjeʔ²⁴+noʔ²⁴	s j e ʔ ²⁴ + n o ʔ ²⁴	166 178	what:QU/什 _what	i m n c t + i n c t	乇 is object	什 乇	
 770	Xiamen		what	sim⁵³⁻⁵⁵ miæʔ⁵	sim⁵³+mjæʔ⁵	s i m ⁵³ + m j æ ʔ ⁵	166 179	what:QU/什 thing/物	i n c t + i m n c t		什 物	
 771	Beijing		stone	ʂʅ³⁵ tʰou⁰	ʂʅ³⁵+tʰou⁰	ʂ ʅ ³⁵ + tʰ ou ⁰	180 319	stone/石 head:SUF/頭	i n t + i n t		石 頭	
 772	Ha_erbin		stone	ʂʅ²⁴ tʰou⁰	ʂʅ²⁴+tʰou⁰	ʂ ʅ ²⁴ + tʰ ou ⁰	180 319	stone/石 head:SUF/頭	i n t + i n t		石 頭	
@@ -779,7 +779,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 778	Nanjing		stone	ʂʅʔ⁵ tʰəɯ¹³	ʂʅʔ⁵+tʰəɯ¹³	ʂ ʅ ʔ ⁵ + tʰ əɯ ¹³	180 319	stone/石 head:SUF/頭	i n c t + i n t		石 頭	
 779	Jixi		stone	ɕieʔ³²* tʰi⁴⁴	ɕjeʔ³²+tʰi⁴⁴	ɕ j e ʔ ³² + tʰ i ⁴⁴	180 319	stone/石 head:SUF/頭	i m n c t + i n t		石 頭	
 780	Suzhou		stone	zɑʔ²³* dʏ¹³⁻³¹	zɑʔ²³+dʏ¹³	z ɑ ʔ ²³ + d ʏ ¹³	180 319	stone/石 head:SUF/頭	i n c t + i n t		石 頭	
-781	Wenzhou		stone	zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰	zei²¹+dɤu³⁴¹+tsɿ²⁴²+ŋ̍⁰	z ei ²¹ + d ɤu ³⁴¹ + ts ɿ ²⁴² + Ø/ə ŋ̍/ŋ ⁰	180 319 19 828	stone/石 head:SUF/頭 _-child:SUF/子 _stone	i n t + i n t + i n t + n c t		石 頭 子 ?	
+781	Wenzhou		stone	zei²¹⁻² dɤu³⁴¹⁻²⁴ tsɿ²⁴²⁻⁵³ ŋ̍⁰	zei²¹+dɤu³⁴¹+tsɿ²⁴²+ŋ̍⁰	z ei ²¹ + d ɤu ³⁴¹ + ts ɿ ²⁴² + Ø/ə ŋ̍/ŋ ⁰	180 319 19 828	stone/石 head:SUF/頭 _-child:SUF/子 _SUF/儿	i n t + i n t + i n t + n c t	! I add 儿, p90	石 頭 子 儿	
 782	Changsha		stone	sɿ²⁴ təu⁰	sɿ²⁴+təu⁰	s ɿ ²⁴ + t əu ⁰	180 319	stone/石 head:SUF/頭	i n t + i n t		石 頭	
 783	Loudi		stone	ɕiɔ³⁵ diɤ¹³ kua⁰	ɕjɔ³⁵+djɤ¹³+kwa⁰	ɕ j ɔ ³⁵ + d j ɤ ¹³ + k w a ⁰	180 319 687	stone/石 head:SUF/頭 _piece/塊	i m n t + i m n t + i m n t		石 頭 塊	
 784	Nanchang		stone	saʔ² tʰɛu⁰	saʔ²+tʰɛu⁰	s a ʔ ² + tʰ ɛu ⁰	180 319	stone/石 head:SUF/頭	i n c t + i n t		石 頭	
@@ -822,12 +822,12 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 821	Changsha		tree	ɕy¹¹	ɕy¹¹	ɕ y ¹¹	134	tree/树	i n t		树	
 822	Loudi		tree	ʑy¹¹	ʑy¹¹	ʑ y ¹¹	134	tree/树	i n t		树	
 823	Nanchang		tree	su²¹	su²¹	s u ²¹	134	tree/树	i n t		树	
-824	Meixian		tree	su⁵⁵ ve⁰	su⁵⁵+ve⁰	s u ⁵⁵ + v e ⁰	134 67	tree/树 _:SUF/?	i n t + i n t		树	
+824	Meixian		tree	su⁵⁵ ve⁰	su⁵⁵+ve⁰	s u ⁵⁵ + v e ⁰	134 67	tree/树 _:SUF/儿	i n t + i n t	I add 儿	树 儿	
 825	Guilin		tree	ɕy²¹	ɕy²¹	ɕ y ²¹	134	tree/树	i n t		树	
 826	Guangzhou		tree	sy²²	sy²²	s y ²²	134	tree/树	i n t		树	
 827	Fuzhou		tree	tsʰieu²¹²	tsʰjeu²¹²	tsʰ j eu ²¹²	134	tree/树	i m n t		树	
 828	Xiamen		tree	tsʰiu²²	tsʰju²²	tsʰ j u ²²	134	tree/树	i m n t		树	
-829	Beijing	Mandarin	bark	ʂu⁵¹⁻⁵³ pʰiər³⁵	ʂu⁵¹+pʰjə³⁵	ʂ u ⁵¹ + pʰ j ə ³⁵	134 16	_tree/树 skin/皮	i n t + i m n t		树 皮	
+829	Beijing	Mandarin	bark	ʂu⁵¹⁻⁵³ pʰiər³⁵	ʂu⁵¹+pʰjə³⁵	ʂ u ⁵¹ + pʰ i ³⁵	134 16	_tree/树 skin/皮	i n t + i n t	METO META 	树 皮	
 830	Ha_erbin		bark	ʂu⁵³ pʰi²⁴	ʂu⁵³+pʰi²⁴	ʂ u ⁵³ + pʰ i ²⁴	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
 831	Jinan		bark	ʂu³¹ pʰi⁵³	ʂu³¹+pʰi⁵³	ʂ u ³¹ + pʰ i ⁵³	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
 832	Rongcheng		bark	ʃy³³⁴⁻³ pʰi³⁵	ʃy³³⁴+pʰi³⁵	ʃ y ³³⁴ + pʰ i ³⁵	134 16	_tree/树 skin/皮	i n t + i n t		树 皮	
@@ -903,7 +903,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 902	Guilin		who	lᴀ²³ kuo³³	la̠²³+kwo³³	l a̠ ²³ + k w o ³³	188 56	what/哪 _-piece:CLS/個	i n t + i m n t		哪 個	
 903	Guangzhou		who	søy²¹	søy²¹	s øy ²¹	187	who/誰	i n t		誰	
 904	Fuzhou		who	tie³²⁻⁵³ ʒieʔ²⁴*	tje³²+ʒjeʔ²⁴	t j e ³² + ʒ j e ʔ ²⁴	191 192	what/底 _who/隹又	i m n t + i m n c t		底 隹又	
-905	Fuzhou		who	tie³² nøyŋ⁵³	tje³²+nøyŋ⁵³	t j e ³² + n øy ŋ ⁵³	191 193	what/底 _:SUF/儂	i m n t + i n c t		底 儂	
+905	Fuzhou		who	tie³² nøyŋ⁵³	tje³²+nøyŋ⁵³	t j e ³² + n øy ŋ ⁵³	191 193	what/底 _:N/儂	i m n t + i n c t	!儂 means a person (but not specific)	底 儂	
 906	Xiamen		who	siã⁵³⁻⁵⁵ laŋ²⁴	sjã⁵³+laŋ²⁴	s j ã ⁵³ + l a ŋ ²⁴	168 38	which:QU/啥 _person/人	i m n t + i n c t		啥 人	
 907	Beijing		water	ʂuei²¹³	ʂwei²¹³	ʂ w ei ²¹³	194	water/水	i m n t		水	
 908	Ha_erbin		water	ʂuei²¹³	ʂwei²¹³	ʂ w ei ²¹³	194	water/水	i m n t		水	
@@ -935,7 +935,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 934	Jixi		fruit	ɕy²¹³⁻³¹ kɵ²¹³	ɕy²¹³+kɵ²¹³	ɕ y ²¹³ + k ɵ ²¹³	194 114	water/水 fruit.result/果	i n t + i n t		水 果	
 935	Suzhou		fruit	sʯ⁵²⁻⁴¹ kəu⁵²⁻²³	sʯ⁵²+kəu⁵²	s ʯ ⁵² + k əu ⁵²	194 114	water/水 fruit.result/果	i n t + i n t		水 果	
 936	Wenzhou		fruit	sɿ²⁴⁻⁵³ ku²⁴²⁻²³	sɿ²⁴+ku²⁴²	s ɿ ²⁴ + k u ²⁴²	194 114	water/水 fruit.result/果	i n t + i n t		水 果	
-937	Changsha		fruit	ɕyei⁴¹ ko⁴¹	ɕɥei⁴¹+ko⁴¹	ɕ ɥ ei ⁴¹ + k o ⁴¹	194 114	water/水 fruit.result/果	i m n t + i n t		水 果	
+937	Changsha		fruit	ɕyei⁴¹ ko⁴¹	ɕɥei⁴¹+ko⁴¹	ɕ ɥ ei ⁴¹ + k o ⁴¹	194 114	water/水 fruit.result/果	i m n t + i n t	!b	水 果	
 938	Loudi		fruit	ko⁴² tsɿ⁰	ko⁴²+tsɿ⁰	k o ⁴² + ts ɿ ⁰	114 19	fruit.result/果 -child:SUF/子	i n t + i n t		果 子	
 939	Nanchang		fruit	sui²¹³⁻⁴⁴ kuo²¹³	swi²¹³+kwo²¹³	s w i ²¹³ + k w o ²¹³	194 114	water/水 fruit.result/果	i m n t + i m n t		水 果	
 940	Meixian		fruit	sui³¹⁻³³ kuo³¹	swi³¹+kwo³¹	s w i ³¹ + k w o ³¹	194 114	water/水 fruit.result/果	i m n t + i m n t		水 果	
@@ -1035,7 +1035,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1034	Guilin		split	tsʰᴀ²³⁻²² pʰuo²⁵	tsʰa̠²³+pʰwo²⁵	tsʰ a̠ ²³ + pʰ w o ²⁵	216 219	split/扯 _split	i n t + i m n t		扯 破	
 1035	Guangzhou		split	si⁵³ lit²	si⁵³+lit²	s i ⁵³ + l i t ²	212 213	split/撕 _apart/裂	i n t + i n c t		撕 裂	
 1036	Fuzhou		split	tʰie³² lieʔ⁵	tʰje³²+ljeʔ⁵	tʰ j e ³² + l j e ʔ ⁵	216 213	split/扯 _apart/裂	i m n t + i m n c t		扯 裂	
-1037	Xiamen		split	tʰiaʔ⁵³* li²²	tʰjaʔ⁵³+li²²	tʰ j a ʔ ⁵³ + l i ²²	220 221	split/拆 _split/扌麗	i m n c t + i n t		拆 扌麗	
+1037	Xiamen		split	tʰiaʔ⁵³* li²²	tʰjaʔ⁵³+li²²	tʰ j a ʔ ⁵³ + l i ²²	220 221	split/拆 _split/扌丽	i m n c t + i n t	攦	拆 扌丽	
 1038	Beijing		die	sɿ²¹³	sɿ²¹³	s ɿ ²¹³	222	die/死	i n t		死	
 1039	Ha_erbin		die	sɿ²¹³	sɿ²¹³	s ɿ ²¹³	222	die/死	i n t		死	
 1040	Jinan		die	sɿ⁴⁵	sɿ⁴⁵	s ɿ ⁴⁵	222	die/死	i n t		死	
@@ -1048,8 +1048,8 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1047	Suzhou		die	si⁵²	si⁵²	s i ⁵²	222	die/死	i n t		死	
 1048	Wenzhou		die	sɿ²⁴²	sɿ²⁴²	s ɿ ²⁴²	222	die/死	i n t		死	
 1049	Changsha		die	sɿ⁴¹	sɿ⁴¹	s ɿ ⁴¹	222	die/死	i n t		死	
-1050	Changsha		die	kua³³	kwa³³	k w a ³³	442	die/瓜	i m n t		瓜	
-1051	Changsha		die	tan¹³ sɿ⁵⁵ lan¹³	tan¹³+sɿ⁵⁵+lan¹³	t a n ¹³ + s ɿ ⁵⁵ + l a n ¹³	224 184 207	die/彈 die/四 die/郎	i n c t + i n t + i n c t		彈 四 郎	
+1050	Changsha		die	kua³³	kwa³³	k w a ³³	834	die/瓜	i m n t	!i	瓜	
+1051	Changsha		die	tan¹³ sɿ⁵⁵ lan¹³	tan¹³+sɿ⁵⁵+lan¹³	t a n ¹³ + s ɿ ⁵⁵ + l a n ¹³	224 378 207	die/彈 die/四 die/郎	i n c t + i n t + i n c t	!i	彈 四 郎	
 1052	Loudi		die	sɿ⁴²	sɿ⁴²	s ɿ ⁴²	222	die/死	i n t		死	
 1053	Nanchang		die	sɿ²¹³	sɿ²¹³	s ɿ ²¹³	222	die/死	i n t		死	
 1054	Meixian		die	sɿ³¹	sɿ³¹	s ɿ ³¹	222	die/死	i n t		死	
@@ -1094,7 +1094,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1093	Guilin		he	tʰᴀ⁴²	tʰa̠⁴²	tʰ a̠ ⁴²	226	other/他	i n t		他	
 1094	Guangzhou		he	kʰøy²³	kʰøy²³	kʰ øy ²³	229	he/佢	i n t		佢	
 1095	Fuzhou		he	i⁵⁵	i⁵⁵	i ⁵⁵	230	he/伊	n t		伊	
-1096	Fuzhou		he	i⁵⁵ nøyŋ⁵³	i⁵⁵+nøyŋ⁵³	i ⁵⁵ + n øy ŋ ⁵³	230 193	he/伊 _:SUF/儂	n t + i n c t		伊 儂	
+1096	Fuzhou		he	i⁵⁵ nøyŋ⁵³	i⁵⁵+nøyŋ⁵³	i ⁵⁵ + n øy ŋ ⁵³	230 193	he/伊 _:SUF/儂	n t + i n c t	儂 is a person	伊 儂	
 1097	Xiamen		he	i⁵⁵	i⁵⁵	i ⁵⁵	230	he/伊	n t		伊	
 1098	Beijing		they	tʰᴀ⁵⁵ mən³⁵	tʰa̠⁵⁵+mən³⁵	tʰ a̠ ⁵⁵ + m ə n ³⁵	226 195	other/他 :PL/們	i n t + i n c t		他 們	
 1099	Ha_erbin		they	tʰa⁴⁴ mən⁰	tʰa⁴⁴+mən⁰	tʰ a ⁴⁴ + m ə n ⁰	226 195	other/他 :PL/們	i n t + i n c t		他 們	
@@ -1114,26 +1114,26 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1113	Guilin		they	tʰᴀ⁴² ti⁰ kɤ²¹	tʰa̠⁴²+ti⁰+kɤ²¹	tʰ a̠ ⁴² + t i ⁰ + k ɤ ²¹	226 40 56	other/他 :GEN/的 -piece:CLS/個	i n t + i n t + i n t		他 的 個	
 1114	Guangzhou		they	kʰøy²³ tei²²	kʰøy²³+tei²²	kʰ øy ²³ + t ei ²²	229 236	he/佢 :PL/哋	i n t + i n t		佢 哋	
 1115	Fuzhou		they	i⁵⁵ nøyŋ⁵³	i⁵⁵+nøyŋ⁵³	i ⁵⁵ + n øy ŋ ⁵³	230 193	he/伊 :SUF/儂	n t + i n c t		伊 儂	
-1116	Fuzhou		they	i⁵⁵ koʔ²⁴*⁻²¹* nøyŋ⁵³	i⁵⁵+koʔ²⁴+nøyŋ⁵³	i ⁵⁵ + k o ʔ ²⁴ + n øy ŋ ⁵³	230 237 193	he/伊 :PL/各 :SUF/儂	n t + i n c t + i n c t		伊 各 儂	
+1116	Fuzhou		they	i⁵⁵ koʔ²⁴*⁻²¹* nøyŋ⁵³	i⁵⁵+koʔ²⁴+nøyŋ⁵³	i ⁵⁵ + k o ʔ ²⁴ + n øy ŋ ⁵³	230 237 193	he/伊 :PL/各 :SUF/儂	n t + i n c t + i n c t	各 is and  	伊 各 儂	
 1117	Xiamen		they	in⁵⁵	in⁵⁵	i n ⁵⁵	238	they/𪜶	n c t		𪜶	
-1118	Beijing		sun	tʰai⁵¹⁻⁵³ iɑŋ³⁵	tʰai⁵¹+jɑŋ³⁵	tʰ ai ⁵¹ + j ɑ ŋ ³⁵	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
+1118	Beijing		sun	tʰai⁵¹⁻⁵³ iɑŋ³⁵	tʰai⁵¹+jɑŋ³⁵	tʰ ai ⁵¹ + j ɑ ŋ ³⁵	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
 1119	Ha_erbin		sun	ʐʅ⁵³ tʰou⁰	ʐʅ⁵³+tʰou⁰	ʐ ʅ ⁵³ + tʰ ou ⁰	241 319	sun/日 head:SUF/頭	i n t + i n t		日 頭	
-1120	Ha_erbin		sun	tʰai⁵³ iaŋ⁰	tʰai⁵³+jaŋ⁰	tʰ ai ⁵³ + j a ŋ ⁰	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
-1121	Jinan		sun	tʰə³¹ iɑŋ⁵³	tʰə³¹+jɑŋ⁵³	tʰ ə ³¹ + j ɑ ŋ ⁵³	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
+1120	Ha_erbin		sun	tʰai⁵³ iaŋ⁰	tʰai⁵³+jaŋ⁰	tʰ ai ⁵³ + j a ŋ ⁰	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
+1121	Jinan		sun	tʰə³¹ iɑŋ⁵³	tʰə³¹+jɑŋ⁵³	tʰ ə ³¹ + j ɑ ŋ ⁵³	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
 1122	Rongcheng		sun	i²¹³⁻³⁵ tʰou⁰	i²¹³+tʰou⁰	i ²¹³ + tʰ ou ⁰	241 319	sun/日 head:SUF/頭	n t + i n t		日 頭	
-1123	Taiyuan		sun	tʰai⁴⁵ ɪɒ̃⁰	tʰai⁴⁵+jɒ̃⁰	tʰ ai ⁴⁵ + j ɒ̃ ⁰	239 240	huge/太 sun/陽	i n t + i n t		太 陽	
-1124	Xi_an		sun	tʰɛ⁴⁴ iɑŋ⁰	tʰɛ⁴⁴+jɑŋ⁰	tʰ ɛ ⁴⁴ + j ɑ ŋ ⁰	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
+1123	Taiyuan		sun	tʰai⁴⁵ ɪɒ̃⁰	tʰai⁴⁵+jɒ̃⁰	tʰ ai ⁴⁵ + j ɒ̃ ⁰	239 240	huge/太 sun/陽	i n t + i n t	monosyllabic word	太 陽	
+1124	Xi_an		sun	tʰɛ⁴⁴ iɑŋ⁰	tʰɛ⁴⁴+jɑŋ⁰	tʰ ɛ ⁴⁴ + j ɑ ŋ ⁰	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
 1125	Xi_an		sun	ər²¹ tʰou⁰	ə²¹+tʰou⁰	ə ²¹ + tʰ ou ⁰	241 319	sun/日 head:SUF/頭	n t + i n t		日 頭	
 1126	Xi_an		sun	ər²¹ tʰou⁰ iɛ⁴⁴	ə²¹+tʰou⁰+jɛ⁴⁴	ə ²¹ + tʰ ou ⁰ + j ɛ ⁴⁴	241 319 242	sun/日 head:SUF/頭 _father/爺	n t + i n t + i n t		日 頭 爺	
-1127	Chengdu		sun	tʰai²¹³ iaŋ²¹	tʰai²¹³+jaŋ²¹	tʰ ai ²¹³ + j a ŋ ²¹	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
-1128	Nanjing		sun	tʰɛ⁴⁴⁻⁴² iɑ̃⁰	tʰɛ⁴⁴+jɑ̃⁰	tʰ ɛ ⁴⁴ + j ɑ̃ ⁰	239 240	huge/太 sun/陽	i n t + i n t		太 陽	
-1129	Jixi		sun	tʰɔ³⁵⁻⁵³ iɔ⁴⁴	tʰɔ³⁵+jɔ⁴⁴	tʰ ɔ ³⁵ + j ɔ ⁴⁴	239 240	huge/太 sun/陽	i n t + i n t		太 陽	
-1130	Suzhou		sun	tʰɑ⁴¹²⁻⁴⁴ ɦiã¹³⁻²¹	tʰɑ⁴¹²+ɦjã¹³	tʰ ɑ ⁴¹² + ɦ j ã ¹³	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
-1131	Wenzhou		sun	tʰa⁵¹⁻⁴² ji³⁴¹⁻²¹	tʰa⁵¹+ji³⁴¹	tʰ a ⁵¹ + j i ³⁴¹	239 240	huge/太 sun/陽	i n t + i n t		太 陽	
-1132	Changsha		sun	tʰai⁵⁵ ian¹³	tʰai⁵⁵+jan¹³	tʰ ai ⁵⁵ + j a n ¹³	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
-1133	Loudi		sun	tʰa³⁵ iɔŋ¹³⁻³³	tʰa³⁵+jɔŋ¹³	tʰ a ³⁵ + j ɔ ŋ ¹³	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
+1127	Chengdu		sun	tʰai²¹³ iaŋ²¹	tʰai²¹³+jaŋ²¹	tʰ ai ²¹³ + j a ŋ ²¹	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
+1128	Nanjing		sun	tʰɛ⁴⁴⁻⁴² iɑ̃⁰	tʰɛ⁴⁴+jɑ̃⁰	tʰ ɛ ⁴⁴ + j ɑ̃ ⁰	239 240	huge/太 sun/陽	i n t + i n t	monosyllabic word	太 陽	
+1129	Jixi		sun	tʰɔ³⁵⁻⁵³ iɔ⁴⁴	tʰɔ³⁵+jɔ⁴⁴	tʰ ɔ ³⁵ + j ɔ ⁴⁴	239 240	huge/太 sun/陽	i n t + i n t	monosyllabic word	太 陽	
+1130	Suzhou		sun	tʰɑ⁴¹²⁻⁴⁴ ɦiã¹³⁻²¹	tʰɑ⁴¹²+ɦjã¹³	tʰ ɑ ⁴¹² + ɦ j ã ¹³	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
+1131	Wenzhou		sun	tʰa⁵¹⁻⁴² ji³⁴¹⁻²¹	tʰa⁵¹+ji³⁴¹	tʰ a ⁵¹ + j i ³⁴¹	239 240	huge/太 sun/陽	i n t + i n t	monosyllabic word	太 陽	
+1132	Changsha		sun	tʰai⁵⁵ ian¹³	tʰai⁵⁵+jan¹³	tʰ ai ⁵⁵ + j a n ¹³	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
+1133	Loudi		sun	tʰa³⁵ iɔŋ¹³⁻³³	tʰa³⁵+jɔŋ¹³	tʰ a ³⁵ + j ɔ ŋ ¹³	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
 1134	Loudi		sun	ni³⁵ diɤ¹³⁻³³ kʰu⁴⁴⁻³³	ni³⁵+djɤ¹³+kʰu⁴⁴	n i ³⁵ + d j ɤ ¹³ + kʰ u ⁴⁴	241 319 243	sun/日 head:SUF/頭 _sun/窠	i n t + i m n t + i n t		日 頭 窠	
-1135	Nanchang		sun	tʰai²¹³ iɔŋ⁴⁵	tʰai²¹³+jɔŋ⁴⁵	tʰ ai ²¹³ + j ɔ ŋ ⁴⁵	239 240	huge/太 sun/陽	i n t + i n c t		太 陽	
+1135	Nanchang		sun	tʰai²¹³ iɔŋ⁴⁵	tʰai²¹³+jɔŋ⁴⁵	tʰ ai ²¹³ + j ɔ ŋ ⁴⁵	239 240	huge/太 sun/陽	i n t + i n c t	monosyllabic word	太 陽	
 1136	Meixian		sun	ŋit¹ tʰeu¹¹	ŋit¹+tʰeu¹¹	ŋ i t ¹ + tʰ eu ¹¹	241 319	sun/日 head:SUF/頭	i n c t + i n t		日 頭	
 1137	Guilin		sun	lie⁵⁵ tai²²	lje⁵⁵+tai²²	l j e ⁵⁵ + t ai ²²	241 319	sun/日 head:SUF/頭	i m n t + i n t		日 頭	
 1138	Guangzhou		sun	tʰai³³ iœŋ²¹	tʰai³³+jœŋ²¹	tʰ ai ³³ + j œ ŋ ²¹	239 240	huge/太 sun/陽	i n t + i n c t	!loan	太 陽	
@@ -1284,7 +1284,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1283	Wenzhou		earth	tʰøy²⁴²⁻⁵³ dei²²⁻²¹	tʰøy²⁴²+dei²²	tʰ øy ²⁴² + d ei ²²	264 265	soil/土 ground/地	i n t + i n t		土 地	
 1284	Changsha		earth	tʰəu⁴¹ ti¹¹	tʰəu⁴¹+ti¹¹	tʰ əu ⁴¹ + t i ¹¹	264 265	soil/土 ground/地	i n t + i n t		土 地	
 1285	Loudi		earth	tʰɤu⁴² di¹¹⁻¹	tʰɤu⁴²+di¹¹	tʰ ɤu ⁴² + d i ¹¹	264 265	soil/土 ground/地	i n t + i n t		土 地	
-1286	Loudi		earth	di¹¹	di¹¹	d i ¹¹	265	ground/地	i n t		地	
+1286	Loudi		earth	di¹¹	di¹¹	d i ¹¹	265	ground/地	i n t	!i	地	
 1287	Nanchang		earth	tʰu²¹³ tʰi⁴²	tʰu²¹³+tʰi⁴²	tʰ u ²¹³ + tʰ i ⁴²	264 265	soil/土 ground/地	i n t + i n t		土 地	
 1288	Meixian		earth	tʰu³¹ tʰi⁵³	tʰu³¹+tʰi⁵³	tʰ u ³¹ + tʰ i ⁵³	264 265	soil/土 ground/地	i n t + i n t		土 地	
 1289	Guilin		earth	tʰu²³ ti²¹	tʰu²³+ti²¹	tʰ u ²³ + t i ²¹	264 265	soil/土 ground/地	i n t + i n t		土 地	
@@ -1492,13 +1492,13 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1491	Changsha		we	ŋo⁴¹ mən⁰	ŋo⁴¹+mən⁰	ŋ o ⁴¹ + m ə n ⁰	313 195	I:1ST/我 :PL/們	i n t + i n c t		我 們	
 1492	Loudi		we	ŋ̍⁴² ŋa⁴⁴⁻³³	ŋ̍⁴²+ŋa⁴⁴	ŋ̍/ŋ Ø/ə Ø/ŋ ⁴² + ŋ a ⁴⁴	313 316	I:1ST/我 :1ST/俺	i n c t + i n t		我 俺	
 1493	Nanchang		we	ŋo²¹³ mɨn⁰	ŋo²¹³+mɨn⁰	ŋ o ²¹³ + m ɨ n ⁰	313 195	I:1ST/我 :PL/們	i n t + i n c t		我 們	
-1494	Nanchang		we	ŋo²¹³ ko⁰ li⁰	ŋo²¹³+ko⁰+li⁰	ŋ o ²¹³ + k o ⁰ + l i ⁰	313 160 232	I:ST/我 :SUF/竹固 :SUF/哩	i n t + i n t + i n t		我 竹固 哩	
+1494	Nanchang		we	ŋo²¹³ ko⁰ li⁰	ŋo²¹³+ko⁰+li⁰	ŋ o ²¹³ + k o ⁰ + l i ⁰	313 160 232	I:ST/我 :SUF/竹固 :SUF/哩	i n t + i n t + i n t	! I am not sure the last morpheme is you or just a suffix	我 竹固 哩	
 1495	Meixian		we	ŋai¹¹ ten³³⁻³⁵ ŋin¹¹	ŋai¹¹+ten³³+ŋin¹¹	ŋ ai ¹¹ + t e n ³³ + ŋ i n ¹¹	315 235 38	I:1ST/𠊎 :PL/丁 person/人	i n t + i n c t + i n c t		𠊎 丁 人	
 1496	Guilin		we	uo²³ te²³ lei⁴² kɤ²¹	wo²³+te²³+lei⁴²+kɤ²¹	w o ²³ + t e ²³ + l ei ⁴² + k ɤ ²¹	313 511 8 56	I:1ST/我 :suffix/te :suffix/lei -piece:CLS/個	i n t + i n t + i n t + i n t		我 囗 囗 囗	
 1497	Guangzhou		we	ŋɔ²³ tei²²	ŋɔ²³+tei²²	ŋ ɔ ²³ + t ei ²²	313 236	I:1ST/我 :PL/哋	i n t + i n t		我 哋	
 1498	Fuzhou		we	naŋ⁵³⁻²¹ ŋa⁵⁵	naŋ⁵³+ŋa⁵⁵	n a ŋ ⁵³ + ŋ a ⁵⁵	321 42	we/侬 family/家	i n c t + i n t		侬 家	
-1499	Fuzhou		we	naŋ⁵³⁻²¹ ŋa⁵⁵⁻⁵³ koʔ²⁴*⁻²¹* nøyŋ⁵³	naŋ⁵³+ŋa⁵⁵+koʔ²⁴+nøyŋ⁵³	n a ŋ ⁵³ + ŋ a ⁵⁵ + k o ʔ ²⁴ + n øy ŋ ⁵³	321 42 237 193	we/侬 family/家 :PL/各 _:SUF/儂	i n c t + i n t + i n c t + i n c t		侬 家 各 侬	
-1500	Fuzhou		we	nu⁵³ koʔ²⁴*⁻²¹* nøyŋ⁵³	nu⁵³+koʔ²⁴+nøyŋ⁵³	n u ⁵³ + k o ʔ ²⁴ + n øy ŋ ⁵³	322 237 193	we/奴 :PL/各 _:SUF/儂	i n t + i n c t + i n c t		奴 各 侬	
+1499	Fuzhou		we	naŋ⁵³⁻²¹ ŋa⁵⁵⁻⁵³ koʔ²⁴*⁻²¹* nøyŋ⁵³	naŋ⁵³+ŋa⁵⁵+koʔ²⁴+nøyŋ⁵³	n a ŋ ⁵³ + ŋ a ⁵⁵ + k o ʔ ²⁴ + n øy ŋ ⁵³	321 42 237 193	we/侬 family/家 :PL/各 _:SUF/儂	i n c t + i n t + i n c t + i n c t	detail we and you	侬 家 各 侬	
+1500	Fuzhou		we	nu⁵³ koʔ²⁴*⁻²¹* nøyŋ⁵³	nu⁵³+koʔ²⁴+nøyŋ⁵³	n u ⁵³ + k o ʔ ²⁴ + n øy ŋ ⁵³	322 237 193	we/奴 :PL/各 _:SUF/儂	i n t + i n c t + i n c t	detail you and us	奴 各 侬	
 1501	Xiamen		we	lan⁵³	lan⁵³	l a n ⁵³	323	we/㑑	i n c t		㑑	
 1502	Beijing		five	u²¹³	u²¹³	u ²¹³	324	five/五	n t		五	
 1503	Ha_erbin		five	u²¹³	u²¹³	u ²¹³	324	five/五	n t		五	
@@ -1530,7 +1530,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1529	Jixi		fog	vu³¹	vu³¹	v u ³¹	325	fog/霧	i n t		霧	
 1530	Suzhou		fog	mi¹³⁻²² ləu²³¹	mi¹³+ləu²³¹	m i ¹³ + l əu ²³¹	326 327	fog/迷 hide/露	i n t + i n t	!!!	迷 露	
 1531	Wenzhou		fog	mø²²	mø²²	m ø ²²	328	fog/幔	i n t	!!!	幔	
-1532	Changsha		fog	tsau⁵⁵ tsɿ⁰	tsau⁵⁵+tsɿ⁰	ts au ⁵⁵ + ts ɿ ⁰	329 19	fog/罩 _-child:SUF/子	i n t + i n t	!!!	罩 子	
+1532	Changsha		fog	tsau⁵⁵ tsɿ⁰	tsau⁵⁵+tsɿ⁰	ts au ⁵⁵ + ts ɿ ⁰	329 19	fog/罩 _-child:SUF/子	i n t + i n t		罩 子	
 1533	Loudi		fog	u¹¹	u¹¹	u ¹¹	325	fog/霧	n t		霧	
 1534	Nanchang		fog	u²¹	u²¹	u ²¹	325	fog/霧	n t		霧	
 1535	Meixian		fog	muŋ¹¹ sa³³	muŋ¹¹+sa³³	m u ŋ ¹¹ + s a ³³	330 331	fog/蒙 fog/纱	i n c t + i n t	!!!	蒙 纱	
@@ -1549,7 +1549,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1548	Xi_an		knee	kʰɯ²¹ tɕʰi²¹ kɛ⁴⁴	kʰɯ²¹+tɕʰi²¹+kɛ⁴⁴	kʰ ɯ ²¹ + tɕʰ i ²¹ + k ɛ ⁴⁴	338 333 334	knee/克 knee/膝 _cover/蓋	i n t + i n t + i n t		克 膝 蓋	
 1549	Chengdu		knee	kʰe²¹ ɕi²¹⁻⁵⁵ tʰər²¹	kʰe²¹+ɕi²¹+tʰə²¹	kʰ e ²¹ + ɕ i ²¹ + tʰ ə ²¹	338 333 319	knee/克 knee/膝 _head:SUF/頭	i n t + i n t + i n t		克 膝 头	
 1550	Nanjing		knee	ɕiʔ⁵ kɛ⁴⁴⁻⁴² kuʔ⁵	ɕiʔ⁵+kɛ⁴⁴+kuʔ⁵	ɕ i ʔ ⁵ + k ɛ ⁴⁴ + k u ʔ ⁵	333 334 94	knee/膝 cover/蓋 _bone/骨	i n c t + i n t + i n c t		膝 蓋 骨	
-1551	Nanjing		knee	po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²	po³¹+lo¹³+kə⁴⁴	p o ³¹ + l o ¹³ + k ə ⁴⁴	337 340 334	knee/波 knee/leng cover/蓋	i n t + i n t + i n t		波 羅 蓋	
+1551	Nanjing		knee	po³¹⁻²² lo¹³⁻²² kər⁴⁴⁻²²	po³¹+lo¹³+kə⁴⁴	p o ³¹ + l o ¹³ + k ə ⁴⁴	337 340 334	knee/波 knee/羅 cover/蓋	i n t + i n t + i n t		波 羅 蓋	
 1552	Nanjing		knee	kʰu⁴⁴⁻⁴² tɕʰi⁰ tʰəɯr¹³	kʰu⁴⁴+tɕʰi⁰+tʰɯ¹³	kʰ u ⁴⁴ + tɕʰ i ⁰ + tʰ ɯ ¹³	338 333 319	knee/克 knee/膝 _head:SUF/頭	i n t + i n t + i n t		褲 膝 頭	
 1553	Jixi		knee	tɕyoʔ³²* ɕieʔ⁵⁵ tʰi⁴⁴	tɕɥoʔ³²+ɕjeʔ⁵⁵+tʰi⁴⁴	tɕ ɥ o ʔ ³² + ɕ j e ʔ ⁵⁵ + tʰ i ⁴⁴	277 333 319	foot/腳 knee/膝 _head:SUF/頭	i m n c t + i m n c t + i n t		腳 膝 頭	
 1554	Suzhou		knee	tɕiɑʔ⁴ mø¹³⁻²³ dʏ¹³⁻²¹	tɕjɑʔ⁴+mø¹³+dʏ¹³	tɕ j ɑ ʔ ⁴ + m ø ¹³ + d ʏ ¹³	277 341 319	foot/腳 knee/饅 _head:SUF/頭	i m n c t + i n t + i n t		腳 饅 頭	
@@ -1564,7 +1564,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1563	Guilin		knee	ɕy⁵⁵ tai²²	ɕy⁵⁵+tai²²	ɕ y ⁵⁵ + t ai ²²	333 319	knee/膝 head:SUF/頭	i n t + i n t		膝 頭	
 1564	Guangzhou		knee	sɐt⁵ tʰɐu²¹	sɐt⁵+tʰɐu²¹	s ɐ t ⁵ + tʰ ɐu ²¹	333 319	knee/膝 head:SUF/頭	i n c t + i n t		膝 頭	
 1565	Fuzhou		knee	kʰa⁵⁵⁻²¹ βuʔ²⁴*⁻²¹* tʰau⁵³	kʰa⁵⁵+βuʔ²⁴+tʰau⁵³	kʰ a ⁵⁵ + β/p u ʔ ²⁴ + tʰ au ⁵³	279 344 319	leg/骹 belly/腹 _head:SUF/頭	i n t + i n c t + i n t		骹 腹 頭	
-1566	Xiamen		knee	kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵	kʰa²²+tʰau²⁴+hu⁵⁵	kʰ a ²² + tʰ au ²⁴ + h u ⁵⁵	277 319 345	foot/腳 head:SUF/頭 knee/足夫	i n t + i n t + i n t		腳 頭 足夫	
+1566	Xiamen		knee	kʰa²²⁻²¹ tʰau²⁴⁻²² hu⁵⁵	kʰa²²+tʰau²⁴+hu⁵⁵	kʰ a ²² + tʰ au ²⁴ + h u ⁵⁵	277 319 345	foot/腳 head:SUF/頭 knee/足夫	i n t + i n t + i n t	趺 is the back of the foot	腳 頭 足夫	
 1567	Beijing		wash	ɕi²¹³	ɕi²¹³	ɕ i ²¹³	346	wash/洗	i n t		洗	
 1568	Ha_erbin		wash	ɕi²¹³	ɕi²¹³	ɕ i ²¹³	346	wash/洗	i n t		洗	
 1569	Jinan		wash	ɕi⁴⁵	ɕi⁴⁵	ɕ i ⁴⁵	346	wash/洗	i n t		洗	
@@ -1675,7 +1675,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1674	Suzhou		heart [compound]	sin⁴⁴ zɑ̃⁴⁴	sin⁴⁴+zɑ̃⁴⁴	s i n ⁴⁴ + z ɑ̃ ⁴⁴	352 353	heart/心 _heart/臟	i n c t + i n t		心 臟	
 1675	Wenzhou		heart [compound]	saŋ⁴⁴ zuɔ²²⁻²⁴	saŋ⁴⁴+zwɔ²²	s a ŋ ⁴⁴ + z w ɔ ²²	352 353	heart/心 _heart/臟	i n c t + i m n t		心 臟	
 1676	Changsha		heart [compound]	ɕin³³ tsan¹¹	ɕin³³+tsan¹¹	ɕ i n ³³ + ts a n ¹¹	352 353	heart/心 _heart/臟	i n c t + i n c t		心 臟	
-1677	Loudi		heart [compound]	ɣuẽ¹³ ɕin⁴⁴⁻³³	ɣwẽ¹³+ɕin⁴⁴	ɣ w ẽ ¹³ + ɕ i n ⁴⁴	354 352	_heart/完 heart/心	i m n t + i n c t		完 心	
+1677	Loudi		heart [compound]	ɣuẽ¹³ ɕin⁴⁴⁻³³	ɣwẽ¹³+ɕin⁴⁴	ɣ w ẽ ¹³ + ɕ i n ⁴⁴	354 352	_heart/完 heart/心	i m n t + i n c t	完=函, 具包容之意: http://www.ling.sinica.edu.tw/eip/FILES/publish/2020.01.06.032289.909784.pdf	完 心	
 1678	Nanchang		heart [compound]	ɕin⁴² tsɔŋ⁴²	ɕin⁴²+tsɔŋ⁴²	ɕ i n ⁴² + ts ɔ ŋ ⁴²	352 353	heart/心 _heart/臟	i n c t + i n c t		心 臟	
 1679	Meixian		heart [compound]	sim³³ tsʰoŋ⁵³	sim³³+tsʰoŋ⁵³	s i m ³³ + tsʰ o ŋ ⁵³	352 353	heart/心 _heart/臟	i n c t + i n c t		心 臟	
 1680	Guilin		heart [compound]	ɕiŋ⁴² tsɑŋ²¹⁻³³	ɕiŋ⁴²+tsɑŋ²¹	ɕ i ŋ ⁴² + ts ɑ ŋ ²¹	352 353	heart/心 _heart/臟	i n c t + i n c t		心 臟	
@@ -1875,7 +1875,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1874	Suzhou		bite	ŋæ²³¹	ŋæ²³¹	ŋ æ ²³¹	377	bite/咬	i n t		咬	
 1875	Wenzhou		bite	ŋuɔ²⁴²	ŋwɔ²⁴²	ŋ w ɔ ²⁴²	377	bite/咬	i m n t		咬	
 1876	Changsha		bite	ŋa⁴¹	ŋa⁴¹	ŋ a ⁴¹	377	bite/咬	i n t		咬	
-1877	Loudi		bite	ŋa³⁵	ŋa³⁵	ŋ a ³⁵	378	bite/𪘬	i n t		𪘬	
+1877	Loudi		bite	ŋa³⁵	ŋa³⁵	ŋ a ³⁵	377	bite/咬	i n t		𪘬	
 1878	Nanchang		bite	ŋau²¹³	ŋau²¹³	ŋ au ²¹³	377	bite/咬	i n t		咬	
 1879	Meixian		bite	ŋat¹	ŋat¹	ŋ a t ¹	379	bite/嚙	i n c t		嚙	
 1880	Guilin		bite	ŋɑu²³	ŋɑu²³	ŋ ɑu ²³	377	bite/咬	i n t		咬	
@@ -1944,26 +1944,26 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 1943	Fuzhou		because	iŋ⁵⁵⁻⁵³ ŋuoi²⁴²	iŋ⁵⁵+ŋwoi²⁴²	i ŋ ⁵⁵ + ŋ w oi ²⁴²	383 384	reason/因 in.order.to/为	n c t + i m n t		因 为	
 1944	Xiamen		because	iŋ⁵⁵⁻²² ui²²	iŋ⁵⁵+wi²²	i ŋ ⁵⁵ + w i ²²	383 384	reason/因 in.order.to/为	n c t + i n t		因 为	
 1945	Beijing		swim	iou³⁵ ʂuei²¹³	jou³⁵+ʂwei²¹³	j ou ³⁵ + ʂ w ei ²¹³	387 194	wander/游 _water/水	i n t + i m n t		游 水	
-1946	Ha_erbin		swim	iou²⁴ yŋ²¹³	jou²⁴+yŋ²¹³	j ou ²⁴ + y ŋ ²¹³	387 388	wander/游 _swim	i n t + n c t		游 泳	
-1947	Jinan		swim	iou⁵³ yŋ⁴⁵	jou⁵³+yŋ⁴⁵	j ou ⁵³ + y ŋ ⁴⁵	387 388	wander/游 _swim	i n t + n c t		游 泳	
+1946	Ha_erbin		swim	iou²⁴ yŋ²¹³	jou²⁴+yŋ²¹³	j ou ²⁴ + y ŋ ²¹³	387 388	wander/游 _swim/泳	i n t + n c t		游 泳	
+1947	Jinan		swim	iou⁵³ yŋ⁴⁵	jou⁵³+yŋ⁴⁵	j ou ⁵³ + y ŋ ⁴⁵	387 388	wander/游 _swim/泳	i n t + n c t		游 泳	
 1948	Rongcheng		swim	si²¹⁴⁻³⁵ tsau²¹⁴	si²¹⁴+tsau²¹⁴	s i ²¹⁴ + ts au ²¹⁴	346 389	wash/洗 _wash/澡	i n t + i n t		洗 澡	
-1949	Taiyuan		swim	iəu²¹ yŋ⁵³	jəu²¹+yŋ⁵³	j əu ²¹ + y ŋ ⁵³	387 388	wander/游 _swim	i n t + n c t		游 泳	
+1949	Taiyuan		swim	iəu²¹ yŋ⁵³	jəu²¹+yŋ⁵³	j əu ²¹ + y ŋ ⁵³	387 388	wander/游 _swim/泳	i n t + n c t		游 泳	
 1950	Xi_an		swim	iou²⁴ fei⁵³	jou²⁴+fei⁵³	j ou ²⁴ + f ei ⁵³	387 194	wander/游 _water/水	i n t + i n t		游 水	
 1951	Xi_an		swim	fu²⁴ fei⁵³	fu²⁴+fei⁵³	f u ²⁴ + f ei ⁵³	21 194	float/浮 _water/水	i n t + i n t		浮 水	
 1952	Xi_an		swim	iou²⁴	jou²⁴	j ou ²⁴	387	wander/游	i n t		游	
-1953	Chengdu		swim	iəu²¹⁻⁵⁵ yn²¹³	jəu²¹+yn²¹³	j əu ²¹ + y n ²¹³	387 388	wander/游 _swim	i n t + n c t		游 泳	
+1953	Chengdu		swim	iəu²¹⁻⁵⁵ yn²¹³	jəu²¹+yn²¹³	j əu ²¹ + y n ²¹³	387 388	wander/游 _swim/泳	i n t + n c t		游 泳	
 1954	Chengdu		swim	ɕi⁵³⁻⁵⁵ tsau⁵³	ɕi⁵³+tsau⁵³	ɕ i ⁵³ + ts au ⁵³	346 389	wash/洗 _wash/澡	i n t + i n t		洗 澡	
-1955	Nanjing		swim	iəɯ¹³ ioŋ¹¹	jəɯ¹³+joŋ¹¹	j əɯ ¹³ + j o ŋ ¹¹	387 388	wander/游 _swim	i n t + i n c t		游 泳	
+1955	Nanjing		swim	iəɯ¹³ ioŋ¹¹	jəɯ¹³+joŋ¹¹	j əɯ ¹³ + j o ŋ ¹¹	387 388	wander/游 _swim/泳	i n t + i n c t		游 泳	
 1956	Jixi		swim	vo⁵⁵⁻⁴⁵ ɕy²¹³	vo⁵⁵+ɕy²¹³	v o ⁵⁵ + ɕ y ²¹³	761 194	swim/? _water/水	i n t + i n t		囗 水	
 1957	Suzhou		swim	hoʔ⁴ lã²³⁻²² ɦioʔ²³*⁻⁴	hoʔ⁴+lã²³+ɦjoʔ²³	h o ʔ ⁴ + l ã ²³ + ɦ j o ʔ ²³	390 391 392	swim/淴 _cold/冷 _bath/浴	i n c t + i n t + i m n c t		淴 冷 浴	
-1958	Wenzhou		swim	jieu³⁴¹⁻²⁴ vu³⁴¹⁻⁴² ŋ̍⁰	jjeu³⁴¹+vu³⁴¹+ŋ̍⁰	j j eu ³⁴¹ + v u ³⁴¹ + ŋ̍ ⁰	393 394 805	swim/泅 _river/河 _swim	i m n t + i n t + n t		泅 河	
+1958	Wenzhou		swim	jieu³⁴¹⁻²⁴ vu³⁴¹⁻⁴² ŋ̍⁰	jjeu³⁴¹+vu³⁴¹+ŋ̍⁰	j j eu ³⁴¹ + v u ³⁴¹ + ŋ̍ ⁰	393 394 805	swim/泅 _river/河 _SUF/儿	i m n t + i n t + n t		泅 河 儿	
 1959	Changsha		swim	iəu¹³ ɕyei⁴¹	jəu¹³+ɕɥei⁴¹	j əu ¹³ + ɕ ɥ ei ⁴¹	387 194	wander/游 _water/水	i n t + i m n t		游 水	
 1960	Changsha		swim	uan¹³ ɕyei⁴¹	wan¹³+ɕɥei⁴¹	w a n ¹³ + ɕ ɥ ei ⁴¹	285 194	play/玩 _water/水	i n c t + i m n t		玩 水	
 1961	Loudi		swim	io¹³⁻³³ ɕy⁴²	io¹³+ɕy⁴²	j o ¹³ + ɕ y ⁴²	387 194	wander/游 _water/水	i n t + i n t		游 水	
-1962	Loudi		swim	io¹³⁻³³ un¹¹	io¹³+un¹¹	j o ¹³ + u n ¹¹	387 388	wander/游 _swim	i n t + n c t		游 泳	
+1962	Loudi		swim	io¹³⁻³³ un¹¹	io¹³+un¹¹	j o ¹³ + u n ¹¹	387 388	wander/游 _swim/泳	i n t + n c t		游 泳	
 1963	Nanchang		swim	iu⁴⁵ sui²¹³	ju⁴⁵+swi²¹³	j u ⁴⁵ + s w i ²¹³	387 194	wander/游 _water/水	i n t + i m n t		游 水	
-1964	Nanchang		swim	iu⁴⁵ iuŋ²¹³	ju⁴⁵+juŋ²¹³	j u ⁴⁵ + j u ŋ ²¹³	387 388	wander/游 _swim	i n t + i n c t		游 泳	
-1965	Meixian		swim	se³¹ sən³³⁻³⁵ ne⁰	se³¹+sən³³+ne⁰	s e ³¹ + s ə n ³³ + n e ⁰	346 75 804	wash/洗 _body/身 _:SUF/?	i n t + i n c t + i n t		洗 身 ?	
+1964	Nanchang		swim	iu⁴⁵ iuŋ²¹³	ju⁴⁵+juŋ²¹³	j u ⁴⁵ + j u ŋ ²¹³	387 388	wander/游 _swim/泳	i n t + i n c t		游 泳	
+1965	Meixian		swim	se³¹ sən³³⁻³⁵ ne⁰	se³¹+sən³³+ne⁰	s e ³¹ + s ə n ³³ + n e ⁰	346 75 804	wash/洗 _body/身 _:SUF/儿	i n t + i n c t + i n t	! I add 儿	洗 身 儿	
 1966	Guilin		swim	iou²² suei²³	jou²²+swei²³	j ou ²² + s w ei ²³	387 194	wander/游 _water/水	i n t + i m n t		游 水	
 1967	Guangzhou		swim	iɐu²¹ søy³⁵	jɐu²¹+søy³⁵	j ɐu ²¹ + s øy ³⁵	387 194	wander/游 _water/水	i n t + i n t		游 水	
 1968	Fuzhou		swim	sieu⁵³⁻³³ tsuoi³²	sjeu⁵³+tswoi³²	s j eu ⁵³ + ts w oi ³²	393 194	swim/泅 _water/水	i m n t + i m n t		泅 水	
@@ -2164,7 +2164,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2163	Jixi		dirty	voʔ³²*⁻²³ lo³¹	voʔ³²+lo³¹	v o ʔ ³² + l o ³¹	424 774	_live/活 dirty/lo	i n c t + i n t		活 囗	
 2164	Suzhou		dirty	oʔ⁴ tsʰoʔ⁴	oʔ⁴+tsʰoʔ⁴	o ʔ ⁴ + tsʰ o ʔ ⁴	425 426	dirty/龌 dirty/龊	n c t + i n c t		龌 龊	
 2165	Wenzhou		dirty	ə⁴⁴ tsə⁴⁴	ə⁴⁴+tsə⁴⁴	ə ⁴⁴ + ts ə ⁴⁴	427 428	dirty/鏖 dirty/糟	n t + i n t		鏖 糟	
-2166	Changsha		dirty	tsan³³	tsan³³	ts a n ³³	417	dirty/脏	i n c t		脏	
+2166	Changsha		dirty	tsan³³	tsan³³	ts a n ³³	417	dirty/脏	i n c t	!b	脏	
 2167	Changsha		dirty	la²⁴ tʰa²⁴	la²⁴+tʰa²⁴	l a ²⁴ + tʰ a ²⁴	420 421	dirty/邋 dirty/遢	i n t + i n t		邋 遢	
 2168	Loudi		dirty	pʰa³⁵ la¹¹⁻¹	pʰa³⁵+la¹¹	pʰ a ³⁵ + l a ¹¹	752 429	dirty/pha dirty/赖	i n t + i n t		囗 赖	
 2169	Nanchang		dirty	tsɔŋ⁴²	tsɔŋ⁴²	ts ɔ ŋ ⁴²	417	dirty/脏	i n c t		脏	
@@ -2186,8 +2186,8 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2185	Chengdu		how	laŋ⁴⁵ ko²¹³⁻²¹	laŋ⁴⁵+ko²¹³	l a ŋ ⁴⁵ + k o ²¹³	440 56	how/啷 -piece:CLS/個	i n c t + i n t		啷 個	
 2186	Chengdu		how	tsa²¹⁻⁵⁵ ko²¹³⁻²¹	tsa²¹+ko²¹³	ts a ²¹ + k o ²¹³	441 56	how/咋 -piece:CLS/個	i n t + i n t		咋 个	
 2187	Nanjing		how	tsən¹¹⁻²¹ iɑ̃⁴⁴	tsən¹¹+jɑ̃⁴⁴	ts ə n ¹¹ + j ɑ̃ ⁴⁴	437 439	how kind/样	i n c t + i n t		怎 样	
-2188	Jixi		how	tsʰa²¹³⁻²¹ tɕʰie³⁵	tsʰa²¹³+tɕʰje³⁵	tsʰ a ²¹³ + tɕʰ j e ³⁵	443 444	how/采 how/翘	i n t + i m n t		采 翘	
-2189	Suzhou		how	nəʔ²³* hã⁴⁴⁻³¹	nəʔ²³+hã⁴⁴	n ə ʔ ²³ + h ã ⁴⁴	445 446	how/纳 how/亨	i n c t + i n t		纳 亨	
+2188	Jixi		how	tsʰa²¹³⁻²¹ tɕʰie³⁵	tsʰa²¹³+tɕʰje³⁵	tsʰ a ²¹³ + tɕʰ j e ³⁵	443 444	how/采 how/翘	i n t + i m n t	!! multisyllabic word. these two cannot be seen as morphemes.	采 翘	
+2189	Suzhou		how	nəʔ²³* hã⁴⁴⁻³¹	nəʔ²³+hã⁴⁴	n ə ʔ ²³ + h ã ⁴⁴	445 446	how/纳 how/亨	i n c t + i n t	!! multisyllabic word. these two cannot be seen as morphemes.	纳 亨	
 2190	Wenzhou		how	tsɿ²⁴²⁻⁴⁴ na²⁴⁻⁴¹	tsɿ²⁴²+na²⁴	ts ɿ ²⁴² + n a ²⁴	447 261	how/些 that/那	i n t + i n t		些 那	
 2191	Changsha		how	tsən⁴¹ mo²⁴	tsən⁴¹+mo²⁴	ts ə n ⁴¹ + m o ²⁴	437 438	how -:question/me	i n c t + i n t		怎 么	
 2192	Changsha		how	o¹³ sɿ⁰	o¹³+sɿ⁰	o ¹³ + s ɿ ⁰	792 121	how/和 be/是	n t + i n t		和 是	
@@ -2207,7 +2207,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2206	Xi_an		narrow	tsei²¹	tsei²¹	ts ei ²¹	455	narrow/窄	i n t		窄	
 2207	Chengdu		narrow	tse²¹	tse²¹	ts e ²¹	455	narrow/窄	i n t		窄	
 2208	Nanjing		narrow	tseʔ⁵	tseʔ⁵	ts e ʔ ⁵	455	narrow/窄	i n c t		窄	
-2209	Jixi		narrow	xaʔ³²*⁻⁴⁴ tsaʔ³²*	xaʔ³²+tsaʔ³²	x a ʔ ³² + ts a ʔ ³²	455 456	narrow/窄 narrow/狭	i n c t + i n c t		窄 狭	
+2209	Jixi		narrow	xaʔ³²*⁻⁴⁴ tsaʔ³²*	xaʔ³²+tsaʔ³²	x a ʔ ³² + ts a ʔ ³²	455 456	narrow/窄 narrow/狭	i n c t + i n c t	Suggest to remove the highlighting of the second morpheme	窄 狭	
 2210	Suzhou		narrow	ɦaʔ²³*	ɦaʔ²³	ɦ a ʔ ²³	456	narrow/狭	i n c t		狭	
 2211	Wenzhou		narrow	ɦa²¹	ɦa²¹	ɦ a ²¹	456	narrow/狭	i n t		狭	
 2212	Changsha		narrow	tsə²⁴	tsə²⁴	ts ə ²⁴	455	narrow/窄	i n t		窄	
@@ -2242,16 +2242,16 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2241	Beijing		husband	lɑu²¹³⁻²¹ kuŋ⁵⁵	lɑu²¹³+kuŋ⁵⁵	l ɑu ²¹³ + k u ŋ ⁵⁵	27 80	old/老 noble.man/公	i n t + i n c t		老 公	
 2242	Ha_erbin		husband	tʂaŋ⁵³ fu⁰	ʈʂaŋ⁵³+fu⁰	ʈʂ a ŋ ⁵³ + f u ⁰	463 464	husband/丈 man/夫	i n c t + i n t		丈 夫	
 2243	Ha_erbin		husband	tʂaŋ²¹³⁻²¹ kuei⁵³ tɤ⁰	ʈʂaŋ²¹³+kwei⁵³+tɤ⁰	ʈʂ a ŋ ²¹³ + k w ei ⁵³ + t ɤ ⁰	465 466 40	掌 櫃 _:GEN/的	i n c t + i m n t + i n t		掌 櫃 的	
-2244	Ha_erbin		husband	lau²¹³⁻²¹ iɛ²⁴ mər⁰	lau²¹³+jɛ²⁴+mə⁰	l au ²¹³ + j ɛ ²⁴ + m ə ⁰	27 242 32	old/老 _father/爺 _husband	i n t + i n t + i n t		老 爷 们	
+2244	Ha_erbin		husband	lau²¹³⁻²¹ iɛ²⁴ mər⁰	lau²¹³+jɛ²⁴+mə⁰	l au ²¹³ + j ɛ ²⁴ + m ə ⁰	27 242 32	old/老 father/爺 _:PL/们	i n t + i n t + i n t	!!!	老 爷 们	
 2245	Jinan		husband	tʂɑŋ³¹⁻⁴⁴ fu⁰	ʈʂɑŋ³¹+fu⁰	ʈʂ ɑ ŋ ³¹ + f u ⁰	463 464	husband/丈 man/夫	i n c t + i n t		丈 夫	
-2246	Rongcheng		husband	xɐn³³⁴ tsi⁰	xɐn³³⁴+tsi⁰	x ɐ n ³³⁴ + ts i ⁰	468 790	han/汉 _?/字	i n c t + i n t	!!!	汉 字	
+2246	Rongcheng		husband	xɐn³³⁴ tsi⁰	xɐn³³⁴+tsi⁰	x ɐ n ³³⁴ + ts i ⁰	468 790	han/汉 _?/字	i n c t + i n t	!!! 子	汉 字	
 2247	Taiyuan		husband	tsɒ̃⁴⁵ fu⁰	tsɒ̃⁴⁵+fu⁰	ts ɒ̃ ⁴⁵ + f u ⁰	463 464	husband/丈 man/夫	i n t + i n t		丈 夫	
 2248	Taiyuan		husband	xæ̃⁴⁵ tsəʔ⁰	xæ̃⁴⁵+tsəʔ⁰	x æ̃ ⁴⁵ + ts ə ʔ ⁰	468 790	han/汉 _?/字	i n t + i n c t	!!!	汉 字	
-2249	Taiyuan		husband	lau⁵³ xæ̃⁴⁵	lau⁵³+xæ̃⁴⁵	l au ⁵³ + x æ̃ ⁴⁵	27 468	old/老 _husband	i n t + i n t		老 汉	
+2249	Taiyuan		husband	lau⁵³ xæ̃⁴⁵	lau⁵³+xæ̃⁴⁵	l au ⁵³ + x æ̃ ⁴⁵	27 468	old/老 husband/汉	i n t + i n t	!!! I changed. 	老 汉	
 2250	Xi_an		husband	uɑ⁴⁴ tʰɑ²¹ pɑ⁴⁴	wɑ⁴⁴+tʰɑ²¹+pɑ⁴⁴	w ɑ ⁴⁴ + tʰ ɑ ²¹ + p ɑ ⁴⁴	33 226 470	child/娃 other/他 father/爸	i n t + i n t + i n t		娃 他 爸	
 2251	Xi_an		husband	næ̃²⁴ ʐẽ⁰	næ̃²⁴+ʐẽ⁰	n æ̃ ²⁴ + ʐ ẽ ⁰	471 38	male/男 _person/人	i n t + i n t		男 人	
 2252	Xi_an		husband	ny⁵³ ɕi⁰	ny⁵³+ɕi⁰	n y ⁵³ + ɕ i ⁰	39 472	female/女 son-in-law/婿	i n t + i n t		女 婿	
-2253	Xi_an		husband	uɛ⁴⁴ tʰou⁰ ʐẽ⁰	wɛ⁴⁴+tʰou⁰+ʐẽ⁰	w ɛ ⁴⁴ + tʰ ou ⁰ + ʐ ẽ ⁰	473 79 38	out/外 _head/頭 _person/人	i n t + i n t + i n t		外 头 人	
+2253	Xi_an		husband	uɛ⁴⁴ tʰou⁰ ʐẽ⁰	wɛ⁴⁴+tʰou⁰+ʐẽ⁰	w ɛ ⁴⁴ + tʰ ou ⁰ + ʐ ẽ ⁰	473 79 38	out/外 _SUF:head/頭 _person/人	i n t + i n t + i n t	!!! can we change this salient part?	外 头 人	
 2254	Chengdu		husband	nan²¹⁻⁵⁵ ȵi⁵⁵	nan²¹+ɲi⁵⁵	n a n ²¹ + ɲ i ⁵⁵	471 40	male/男 _:GEN/的	i n c t + i n t		男 的	
 2255	Nanjing		husband	tsɑ̃⁴⁴ fu⁰	tsɑ̃⁴⁴+fu⁰	ts ɑ̃ ⁴⁴ + f u ⁰	463 464	husband/丈 man/夫	i n t + i n t		丈 夫	
 2256	Jixi		husband	nɤ²¹³⁻³¹ kuɔ⁵⁵	nɤ²¹³+kwɔ⁵⁵	n ɤ ²¹³ + k w ɔ ⁵⁵	39 474	female/女 government.official/官	i n t + i m n t		女 官	
@@ -2266,7 +2266,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2265	Meixian		husband	lau³¹ kuŋ³³	lau³¹+kuŋ³³	l au ³¹ + k u ŋ ³³	27 80	old/老 noble.man/公	i n t + i n c t		老 公	
 2266	Guilin		husband	lɑu²³ kɤn⁴²⁻²²	lɑu²³+kɤn⁴²	l ɑu ²³ + k ɤ n ⁴²	27 80	old/老 noble.man/公	i n t + i n c t		老 公	
 2267	Guangzhou		husband	ou²³ koŋ⁵³	ou²³+koŋ⁵³	ou ²³ + k o ŋ ⁵³	27 80	old/老 noble.man/公	n t + i n c t		老 公	
-2268	Guangzhou		husband	sin⁵⁵ saŋ⁵³	sin⁵⁵+saŋ⁵³	s i n ⁵⁵ + s a ŋ ⁵³	476 477	first/先 born/生	i n c t + i n c t		先 生	
+2268	Guangzhou		husband	sin⁵⁵ saŋ⁵³	sin⁵⁵+saŋ⁵³	s i n ⁵⁵ + s a ŋ ⁵³	476 477	first/先 born/生	i n c t + i n c t	!!	先 生	
 2269	Fuzhou		husband	la²⁴²⁻⁵⁵ uŋ⁵⁵	la²⁴²+uŋ⁵⁵	l a ²⁴² + u ŋ ⁵⁵	27 80	old/老 noble.man/公	i n t + n c t		老 公	
 2270	Fuzhou		husband	touŋ⁵³⁻⁵⁵ muo⁵⁵	touŋ⁵³+mwo⁵⁵	t ou ŋ ⁵³ + m w o ⁵⁵	463 464	husband/丈 man/夫	i n c t + i m n t		丈 夫	
 2271	Xiamen		husband	ta²²⁻²¹ pɔ⁵⁵⁻²² laŋ²⁴	ta²²+pɔ⁵⁵+laŋ²⁴	t a ²² + p ɔ ⁵⁵ + l a ŋ ²⁴	463 464 38	husband/丈 man/夫 _person/人	i n t + i n t + i n c t		丈 夫 人	
@@ -2305,9 +2305,9 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2304	Suzhou		here	kᴇ⁴⁴ taʔ⁰	ke̞⁴⁴+taʔ⁰	k e̞ ⁴⁴ + t a ʔ ⁰	481 489	this/该 place/搭	i n t + i n c t		该 搭	
 2305	Wenzhou		here	ki⁴¹⁻² lei⁴⁴	ki⁴¹+lei⁴⁴	k i ⁴¹ + l ei ⁴⁴	481 52	this/该 inside/里	i n t + i n t		该 里	
 2306	Changsha		here	ko²⁴ li⁰	ko²⁴+li⁰	k o ²⁴ + l i ⁰	482 52	this/咯 inside/里	i n t + i n t		咯 裏	
-2307	Loudi		here	tsɿ³⁵ ta³⁵⁻⁵ li⁰ ɣɔ¹	tsɿ³⁵+ta³⁵+li⁰+ɣɔ¹	ts ɿ ³⁵ + t a ³⁵ + l i ⁰ + ɣ ɔ ¹	478 491 52 58	inside/里 down/下 inside/里 descend/下	i n t + i n t + i n t + i n t		这 嗒 里 下	
+2307	Loudi		here	tsɿ³⁵ ta³⁵⁻⁵ li⁰ ɣɔ¹	tsɿ³⁵+ta³⁵+li⁰+ɣɔ¹	ts ɿ ³⁵ + t a ³⁵ + l i ⁰ + ɣ ɔ ¹	478 491 52 58	inside/里 down/下 inside/里 descend/下	i n t + i n t + i n t + i n t	!!	这 嗒 里 下	
 2308	Nanchang		here	ko²¹³ li⁰	ko²¹³+li⁰	k o ²¹³ + l i ⁰	492 52	this/竹固 inside/里	i n t + i n t		竹固 裏	
-2309	Meixian		here	e³¹⁻³³ ie⁰	e³¹+je⁰	e ³¹ + j e ⁰	478 779	this/这 this/je	n t + i n t		这 ?	
+2309	Meixian		here	e³¹⁻³³ ie⁰	e³¹+je⁰	e ³¹ + j e ⁰	478 779	this/这 this/je	n t + i n t	!!	这 ?	
 2310	Guilin		here	i²⁵ kuo⁵⁵ ti²¹ fɑŋ²²	i²⁵+kwo⁵⁵+ti²¹+fɑŋ²²	i ²⁵ + k w o ⁵⁵ + t i ²¹ + f ɑ ŋ ²²	478 56 265 487	this/这 -piece:CLS/個 ground/地 square/方	n t + i m n t + i n t + i n c t		这 个 地 方	
 2311	Guangzhou		here	li⁵³ tou³³	li⁵³+tou³³	l i ⁵³ + t ou ³³	172 254	this/呢 _arrive/到	i n t + i n t		呢 到	
 2312	Fuzhou		here	tsi³²⁻³⁵ lie³²	tsi³²+lje³²	ts i ³² + l j e ³²	483 52	this/只 inside/里	i n t + i m n t		只 里	
@@ -2472,7 +2472,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2472	Jixi		claw	tsɤ²¹³ tsɿ⁰	tsɤ²¹³+tsɿ⁰	ts ɤ ²¹³ + ts ɿ ⁰	526 19	claw/爪 _-child:SUF/子	i n t + i n t		爪 子	
 2473	Suzhou		claw	tɕiɑʔ⁴ tsæ⁵²	tɕjɑʔ⁴+tsæ⁵²	tɕ j ɑ ʔ ⁴ + ts æ ⁵²	527 526	_foot/脚 claw/爪	i m n c t + i n t		脚 爪	
 2474	Wenzhou		claw	tɕia⁴¹⁻² tsuɔ²⁴²⁻²⁴	tɕja⁴¹+tswɔ²⁴²	tɕ j a ⁴¹ + ts w ɔ ²⁴²	527 526	_foot/脚 claw/爪	i m n t + i m n t		脚 爪	
-2475	Changsha		claw	tsau⁴¹	tsau⁴¹	ts au ⁴¹	526	claw/爪	i n t		爪	
+2475	Changsha		claw	tsau⁴¹	tsau⁴¹	ts au ⁴¹	526	claw/爪	i n t	!i	爪	
 2476	Changsha		claw	tsau⁴¹ tsɿ⁰	tsau⁴¹+tsɿ⁰	ts au ⁴¹ + ts ɿ ⁰	526 19	claw/爪 _-child:SUF/子	i n t + i n t		爪 子	
 2477	Loudi		claw	tsɤ⁴² tsɿ⁰	tsɤ⁴²+tsɿ⁰	ts ɤ ⁴² + ts ɿ ⁰	526 19	claw/爪 _-child:SUF/子	i n t + i n t		爪 子	
 2478	Nanchang		claw	tsua²¹³ tsɿ⁰	tswa²¹³+tsɿ⁰	ts w a ²¹³ + ts ɿ ⁰	526 19	claw/爪 _-child:SUF/子	i m n t + i n t		爪 子	
@@ -2568,7 +2568,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2568	Changsha		leftside	tso⁴¹⁻⁴⁴ piẽ³³	tso⁴¹+pjẽ³³	ts o ⁴¹ + p j ẽ ³³	534 396	left/左 _side/边	i n t + i m n t		左 边	
 2569	Loudi		leftside	tso³⁵ ɕio⁴²⁻¹ piæ⁴⁴⁻³³	tso³⁵+ɕio⁴²+pjæ⁴⁴	ts o ³⁵ + ɕ io ⁴² + p j æ ⁴⁴	534 182 396	left/左 _hand/手 _side/边	i n t + i n t + i m n t		左 手 边	
 2570	Nanchang		leftside	tso²¹³ piɛn⁴²	tso²¹³+pjɛn⁴²	ts o ²¹³ + p j ɛ n ⁴²	534 396	left/左 _side/边	i n t + i m n c t		左 边	
-2571	Meixian		leftside	tso³¹ pien³³⁻³⁵ ne⁰	tso³¹+pjen³³+ne⁰	ts o ³¹ + p j e n ³³ + n e ⁰	534 396 781	left/左 _side/边 _-:suffix/na	i n t + i m n c t + i n t		左 边 ne	
+2571	Meixian		leftside	tso³¹ pien³³⁻³⁵ ne⁰	tso³¹+pjen³³+ne⁰	ts o ³¹ + p j e n ³³ + n e ⁰	534 396 781	left/左 _side/边 _-:SUF/儿	i n t + i m n c t + i n t		左 边 儿	
 2572	Guilin		leftside	tsu²³ piã⁴²⁻²²	tsu²³+pjã⁴²	ts u ²³ + p j ã ⁴²	534 396	left/左 _side/边	i n t + i m n t		左 边	
 2573	Guangzhou		leftside	tsɔ³⁵ pin⁵³	tsɔ³⁵+pin⁵³	ts ɔ ³⁵ + p i n ⁵³	534 396	left/左 _side/边	i n t + i n c t		左 边	
 2574	Fuzhou		leftside	sieu³²⁻²¹ βɛiŋ⁵⁵	sjeu³²+βɛiŋ⁵⁵	s j eu ³² + β ɛi ŋ ⁵⁵	49 396	small/小 _side/边	i m n t + i n c t		小 边	
@@ -2602,12 +2602,12 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2602	Chengdu		guts	tsʰaŋ²¹⁻⁵⁵ tsɿ⁵³	tsʰaŋ²¹+tsɿ⁵³	tsʰ a ŋ ²¹ + ts ɿ ⁵³	538 19	guts/腸 _-child:SUF/子	i n c t + i n t		腸 子	
 2603	Nanjing		guts	tsʰɑ̃¹³⁻¹¹ tsɿ⁰	tsʰɑ̃¹³+tsɿ⁰	tsʰ ɑ̃ ¹³ + ts ɿ ⁰	538 19	guts/腸 _-child:SUF/子	i n t + i n t		腸 子	
 2604	Jixi		guts	tɕʰiõ⁵⁵	tɕʰjõ⁵⁵	tɕʰ j õ ⁵⁵	538	guts/腸	i m n t		腸	
-2605	Suzhou		guts	dəu²³¹⁻²² ã¹³⁻³¹	dəu²³¹+ã¹³	d əu ²³¹ + ã ¹³	278 831	belly/肚 _guts/?	i n t + n t		肚 腸	
-2606	Wenzhou		guts	døy²⁴⁻⁴² dʑi³⁴¹⁻²¹	døy²⁴+dʑi³⁴¹	d øy ²⁴ + dʑ i ³⁴¹	278 830	belly/肚 _guts/?	i n t + i n t		肚 腸	
+2605	Suzhou		guts	dəu²³¹⁻²² ã¹³⁻³¹	dəu²³¹+ã¹³	d əu ²³¹ + ã ¹³	278 831	belly/肚 _guts/腸	i n t + n t	dəu ²³¹zã¹³	肚 腸	
+2606	Wenzhou		guts	døy²⁴⁻⁴² dʑi³⁴¹⁻²¹	døy²⁴+dʑi³⁴¹	d øy ²⁴ + dʑ i ³⁴¹	278 830	belly/肚 _guts/腸	i n t + i n t	guts/腸	肚 腸	
 2607	Changsha		guts	tsan¹³ tsɿ⁰	tsan¹³+tsɿ⁰	ts a n ¹³ + ts ɿ ⁰	538 19	guts/腸 _-child:SUF/子	i n c t + i n t		腸 子	
 2608	Loudi		guts	tʰɔŋ¹³	tʰɔŋ¹³	tʰ ɔ ŋ ¹³	538	guts/腸	i n c t		腸	
 2609	Nanchang		guts	tsʰɔŋ²⁴ tsɿ⁰	tsʰɔŋ²⁴+tsɿ⁰	tsʰ ɔ ŋ ²⁴ + ts ɿ ⁰	538 19	guts/腸 _-child:SUF/子	i n c t + i n t		腸 子	
-2610	Meixian		guts	tsʰoŋ¹¹ ŋe⁰	tsʰoŋ¹¹+ŋe⁰	tsʰ o ŋ ¹¹ + ŋ e ⁰	538 782	guts/腸 _-:suffix/ŋe	i n c t + i n t		腸 ?	
+2610	Meixian		guts	tsʰoŋ¹¹ ŋe⁰	tsʰoŋ¹¹+ŋe⁰	tsʰ o ŋ ¹¹ + ŋ e ⁰	538 782	guts/腸 _-:suffix/ŋe	i n c t + i n t	儿	腸 ?	
 2611	Guilin		guts	tsɑŋ²² tse²³⁻³³	tsɑŋ²²+tse²³	ts ɑ ŋ ²² + ts e ²³	538 19	guts/腸 _-child:SUF/子	i n c t + i n t		腸 子	
 2612	Guangzhou		guts	tsʰœŋ²¹	tsʰœŋ²¹	tsʰ œ ŋ ²¹	538	guts/腸	i n c t		腸	
 2613	Fuzhou		guts	tuoŋ⁵³	twoŋ⁵³	t w o ŋ ⁵³	538	guts/腸	i m n c t		腸	
@@ -2676,7 +2676,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2676	Guangzhou		eat	sek²	sek²	s e k ²	550	eat/食	i n c t		食	
 2677	Fuzhou		eat	sieʔ⁵	sjeʔ⁵	s j e ʔ ⁵	550	eat/食	i m n c t		食	
 2678	Xiamen		eat	tsiaʔ⁵	tsjaʔ⁵	ts j a ʔ ⁵	550	eat/食	i m n c t		食	
-2679	Beijing		wing	tʂʰʅ⁵¹⁻⁵³ pɑr²¹⁴	ʈʂʰʅ⁵¹+pɑ²¹⁴	ʈʂʰ ʅ ⁵¹ + p ɑ ²¹⁴	551 276	wing/翅 wing/膀	i n t + i n t		翅 膀	
+2679	Beijing		wing	tʂʰʅ⁵¹⁻⁵³ pɑr²¹⁴	ʈʂʰʅ⁵¹+pɑ²¹⁴	ʈʂʰ ʅ ⁵¹ + p ɑ ²¹⁴	551 276	wing/翅 wing/膀	i n t + i n t	翅膀儿 ʈʂʰʅ⁵¹+pɑ̃r²¹⁴ but the r does not count as a morpheme.	翅 膀	
 2680	Ha_erbin		wing	sɿ⁵³ paŋ²¹³	sɿ⁵³+paŋ²¹³	s ɿ ⁵³ + p a ŋ ²¹³	551 276	wing/翅 wing/膀	i n t + i n c t		翅 膀	
 2681	Jinan		wing	tʂʰʅ²¹⁻⁴⁴ tsɿ⁰	ʈʂʰʅ²¹+tsɿ⁰	ʈʂʰ ʅ ²¹ + ts ɿ ⁰	551 19	wing/翅 _-child:SUF/子	i n t + i n t		翅 子	
 2682	Rongcheng		wing	tʂʰɿ³³⁴ pə⁰	ʈʂʰɿ³³⁴+pə⁰	ʈʂʰ ɿ ³³⁴ + p ə ⁰	551 276	wing/翅 wing/膀	i n t + i n t		翅 膀	
@@ -2797,7 +2797,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2797	Changsha		fight	ta⁴¹⁻⁴⁴ tɕia⁵⁵	ta⁴¹+tɕja⁵⁵	t a ⁴¹ + tɕ j a ⁵⁵	115 563	_beat:V/打 fight:N/架	i n t + i m n t		打 架	
 2798	Loudi		fight	ta⁴² tɕiɔ³⁵	ta⁴²+tɕjɔ³⁵	t a ⁴² + tɕ j ɔ ³⁵	115 563	_beat:V/打 fight:N/架	i n t + i m n t		打 架	
 2799	Nanchang		fight	ta²¹³ ka⁴⁵	ta²¹³+ka⁴⁵	t a ²¹³ + k a ⁴⁵	115 563	_beat:V/打 fight:N/架	i n t + i n t		打 架	
-2800	Meixian		fight	ta³¹ kau³³⁻⁵³ e⁰	ta³¹+kau³³+e⁰	t a ³¹ + k au ³³ + e ⁰	115 571 770	_beat:V/打 fight/交 _:SUF/?	i n t + i n t + n t		打 交 ?	
+2800	Meixian		fight	ta³¹ kau³³⁻⁵³ e⁰	ta³¹+kau³³+e⁰	t a ³¹ + k au ³³ + e ⁰	115 571 770	_beat:V/打 fight/交 _:SUF/儿	i n t + i n t + n t	儿	打 交 儿	
 2801	Guilin		fight	tɑ²³ kɑ²⁵	tɑ²³+kɑ²⁵	t ɑ ²³ + k ɑ ²⁵	115 563	_beat:V/打 fight:N/架	i n t + i n t		打 架	
 2802	Guangzhou		fight	ta³⁵ kau⁵⁵	ta³⁵+kau⁵⁵	t a ³⁵ + k au ⁵⁵	115 563	_beat:V/打 fight:N/架	i n t + i n t		打 架	
 2803	Fuzhou		fight	souŋ⁵⁵⁻⁵³ pʰaʔ²¹*	souŋ⁵⁵+pʰaʔ²¹	s ou ŋ ⁵⁵ + pʰ a ʔ ²¹	288 562	fight:N/相 _hit/拍	i n c t + i n c t		相 拍	
@@ -2856,7 +2856,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 2856	Wenzhou		dull	ŋe³⁴¹	ŋe³⁴¹	ŋ e ³⁴¹	574	dull/呆	i n t		呆	
 2857	Wenzhou		dull	baŋ²²	baŋ²²	b a ŋ ²²	575	stupid/笨	i n c t		笨	
 2858	Changsha		dull	ŋai¹³	ŋai¹³	ŋ ai ¹³	574	dull/呆	i n t		呆	
-2859	Changsha		dull	pən¹¹	pən¹¹	p ə n ¹¹	575	stupid/笨	i n c t		笨	
+2859	Changsha		dull	pən¹¹	pən¹¹	p ə n ¹¹	575	stupid/笨	i n c t	!b	笨	
 2860	Loudi		dull	ŋe¹³	ŋe¹³	ŋ e ¹³	574	dull/呆	i n t		呆	
 2861	Nanchang		dull	tai⁴²	tai⁴²	t ai ⁴²	574	dull/呆	i n t		呆	
 2862	Nanchang		dull	muʔ⁵	muʔ⁵	m u ʔ ⁵	577	wood/木	i n c t		木	
@@ -3000,7 +3000,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3000	Jixi		ear	ẽ²¹³⁻²² tɵ²¹³	ẽ²¹³+tɵ²¹³	ẽ ²¹³ + t ɵ ²¹³	596 597	ear/耳 flower/朵	n t + i n t		耳 朵	
 3001	Suzhou		ear	ȵ²³¹⁻²² təu⁵²⁻⁴⁴	ɲ²³¹+təu⁵²	ɲ/ŋ Ø/ə ²³¹ + t əu ⁵²	596 597	ear/耳 flower/朵	i n t + i n t		耳 朵	
 3002	Wenzhou		ear	ŋ̍²⁴⁻⁴² to²⁴²	ŋ̍²⁴+to²⁴²	ŋ̍/ŋ Ø/ə ²⁴ + t o ²⁴²	596 597	ear/耳 flower/朵	i n t + i n t		耳 朵	
-3003	Changsha		ear	ə⁴¹	ə⁴¹	ə ⁴¹	596	ear/耳	n t		耳	
+3003	Changsha		ear	ə⁴¹	ə⁴¹	ə ⁴¹	596	ear/耳	n t	!i	耳	
 3004	Changsha		ear	ə⁴¹ to⁰	ə⁴¹+to⁰	ə ⁴¹ + t o ⁰	596 597	ear/耳 flower/朵	n t + i n t		耳 朵	
 3005	Loudi		ear	ɤ⁴² tɤ⁰	ɤ⁴²+tɤ⁰	ɤ ⁴² + t ɤ ⁰	596 597	ear/耳 flower/朵	n t + i n t		耳 朵	
 3006	Nanchang		ear	ɵ²¹³ tɔ⁰	ɵ²¹³+tɔ⁰	ɵ ²¹³ + t ɔ ⁰	596 597	ear/耳 flower/朵	n t + i n t		耳 朵	
@@ -3302,11 +3302,11 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3302	Jixi		stick	kuɑ̃³⁵ tsɿ⁵³	kwɑ̃³⁵+tsɿ⁵³	k w ɑ̃ ³⁵ + ts ɿ ⁵³	634 19	stick/棍 _-child:SUF/子	i m n t + i n t		棍 子	
 3303	Suzhou		stick	bɑ̃²³¹	bɑ̃²³¹	b ɑ̃ ²³¹	635	stick/棒	i n t		棒	
 3304	Suzhou		stick	kuən⁴¹²⁻⁵² tsɿ⁵²⁻²³	kwən⁴¹²+tsɿ⁵²	k w ə n ⁴¹² + ts ɿ ⁵²	634 19	stick/棍 _-child:SUF/子	i m n c t + i n t		棍 子	
-3305	Wenzhou		stick	buɔ²⁴⁻⁴² ŋ̍⁰	bwɔ²⁴+ŋ̍⁰	b w ɔ ²⁴ + Ø/ə ŋ̍/ŋ ⁰	635 0	stick/棒 _:SUF/?	i m n t + n c t		棒 儿	
+3305	Wenzhou		stick	buɔ²⁴⁻⁴² ŋ̍⁰	bwɔ²⁴+ŋ̍⁰	b w ɔ ²⁴ + Ø/ə ŋ̍/ŋ ⁰	635 0	stick/棒 _:SUF/儿	i m n t + n c t	!!!	棒 儿	
 3306	Changsha		stick	kuən⁵⁵ tsɿ⁰	kwən⁵⁵+tsɿ⁰	k w ə n ⁵⁵ + ts ɿ ⁰	634 19	stick/棍 _-child:SUF/子	i m n c t + i n t		棍 子	
 3307	Loudi		stick	kun³⁵	kun³⁵	k u n ³⁵	634	stick/棍	i n c t		棍	
 3308	Nanchang		stick	kun⁴⁵	kun⁴⁵	k u n ⁴⁵	634	stick/棍	i n c t		棍	
-3309	Meixian		stick	kun⁵³⁻⁵⁵ ne⁰	kun⁵³+ne⁰	k u n ⁵³ + n e ⁰	634 0	stick/棍 _stick	i n c t + i n t		棍	
+3309	Meixian		stick	kun⁵³⁻⁵⁵ ne⁰	kun⁵³+ne⁰	k u n ⁵³ + n e ⁰	634 0	stick/棍 _SUF/儿	i n c t + i n t	!!!	棍 儿	
 3310	Guilin		stick	kuɤŋ⁴²⁻²⁴ tse²³⁻³³	kwɤŋ⁴²+tse²³	k w ɤ ŋ ⁴² + ts e ²³	634 19	stick/棍 _-child:SUF/子	i m n c t + i n t		棍 子	
 3311	Guangzhou		stick	kuɐn³³	kwɐn³³	k w ɐ n ³³	634	stick/棍	i m n c t		棍	
 3312	Fuzhou		stick	kuŋ²¹²⁻²¹ kouŋ²¹²	kuŋ²¹²+kouŋ²¹²	k u ŋ ²¹² + k ou ŋ ²¹²	634 634	_stick/棍 stick/棍	i n c t + i n c t		棍 棍	
@@ -3324,21 +3324,21 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3324	Xi_an		child	uɑ⁴⁴	wɑ⁴⁴	w ɑ ⁴⁴	33	child/娃	i n t		娃	
 3325	Chengdu		child	ua²¹⁻⁵⁵ ua²¹⁻⁵⁵	wa²¹+wa²¹	w a ²¹ + w a ²¹	33 797	child/娃 娃	i n t + i n t		娃 娃	
 3326	Chengdu		child	tsai⁵³⁻⁵⁵ tsai⁵³⁻²¹	tsai⁵³+tsai⁵³	ts ai ⁵³ + ts ai ⁵³	638 798	child/崽 _child:RED/崽	i n t + i n t		崽 崽	
-3327	Nanjing		child	uɑ¹³ ər⁰	wɑ¹³+ə⁰	w ɑ ¹³ + ə ⁰	33 796	child/娃 _:SUF/?	i n t + n t		娃 ?	
+3327	Nanjing		child	uɑ¹³ ər⁰	wɑ¹³+ə⁰	w ɑ ¹³ + ə ⁰	33 796	child/娃 _:SUF/儿	i n t + n t		娃 儿	
 3328	Nanjing		child	xɛ¹³⁻²¹ tsɿ⁰	xɛ¹³+tsɿ⁰	x ɛ ¹³ + ts ɿ ⁰	636 19	child/孩 _-child:SUF/子	i n t + i n t		孩 子	
 3329	Jixi		child	sɿ³⁵⁻³³ iɑ̃⁴⁴ ko⁵³	sɿ³⁵+jɑ̃⁴⁴+ko⁵³	s ɿ ³⁵ + j ɑ̃ ⁴⁴ + k o ⁵³	348 38 42	small/細 _person/人 _family/家	i n t + i n t + i n t		細 人 家	
 3330	Suzhou		child	siæ⁵²⁻⁴¹ ȵin¹³⁻²¹	sjæ⁵²+ɲin¹³	s j æ ⁵² + ɲ i n ¹³	49 38	small/小 _person/人	i m n t + i n c t		小 人	
 3331	Wenzhou		child	mai⁴⁴⁻³ mai⁴⁴	mai⁴⁴+mai⁴⁴	m ai ⁴⁴ + m ai ⁴⁴	639 795	child/娒 _child:RED/娒	i n t + i n t		娒 娒	
-3332	Wenzhou		child	sei⁵¹⁻⁴² ŋ̍⁰	sei⁵¹+ŋ̍⁰	s ei ⁵¹ + ŋ̍/ŋ Ø/ə ⁰	348 833	small/細 _child	i n t + i n t	細儿	細	
-3333	Changsha		child	xai¹³ tsɿ⁰	xai¹³+tsɿ⁰	x ai ¹³ + ts ɿ ⁰	636 19	child/孩 _-child:SUF/子	i n t + i n t		孩 子	
+3332	Wenzhou		child	sei⁵¹⁻⁴² ŋ̍⁰	sei⁵¹+ŋ̍⁰	s ei ⁵¹ + ŋ̍/ŋ Ø/ə ⁰	348 833	small/細 _SUF/儿	i n t + i n t	細儿	細 儿	
+3333	Changsha		child	xai¹³ tsɿ⁰	xai¹³+tsɿ⁰	x ai ¹³ + ts ɿ ⁰	636 19	child/孩 _-child:SUF/子	i n t + i n t	!b	孩 子	
 3334	Changsha		child	ŋa¹³ sɿ⁵⁵ tsɿ⁰	ŋa¹³+sɿ⁵⁵+tsɿ⁰	ŋ a ¹³ + s ɿ ⁵⁵ + ts ɿ ⁰	640 348 19	_child small/細 _-child:SUF/子	i n t + i n t + i n t		伢 細 子	
 3335	Loudi		child	ɕi³⁵ ko⁰ dze⁰	ɕi³⁵+ko⁰+dze⁰	ɕ i ³⁵ + k o ⁰ + dz e ⁰	348 56 638	small/細 -piece:CLS/個 _child	i n t + i n t + i n t		細 個 崽	
 3336	Nanchang		child	hai²⁴	hai²⁴	h ai ²⁴	636	child/孩	i n t		孩	
 3337	Nanchang		child	ɕi⁴⁵ ŋa⁰ tsɿ⁰	ɕi⁴⁵+ŋa⁰+tsɿ⁰	ɕ i ⁴⁵ + ŋ a ⁰ + ts ɿ ⁰	348 640 19	small/細 _:SUF/? _-child:SUF/子	i n t + i n t + i n t		細 伢 子	
-3338	Meixian		child	se⁵³⁻⁵⁵ ŋin¹¹ ne⁰	se⁵³+ŋin¹¹+ne⁰	s e ⁵³ + ŋ i n ¹¹ + n e ⁰	348 38 809	small/細 _person/人 _:SUF/?	i n t + i n c t + i n t		細 人	
+3338	Meixian		child	se⁵³⁻⁵⁵ ŋin¹¹ ne⁰	se⁵³+ŋin¹¹+ne⁰	s e ⁵³ + ŋ i n ¹¹ + n e ⁰	348 38 809	small/細 _person/人 _:SUF/儿	i n t + i n c t + i n t		細 人 儿	
 3339	Guilin		child	ɕi²⁵ kuo⁰ tse²³⁻³³	ɕi²⁵+kwo⁰+tse²³	ɕ i ²⁵ + k w o ⁰ + ts e ²³	348 56 19	small/細 -piece:CLS/個 _-child:SUF/子	i n t + i m n t + i n t		細 個 子	
 3340	Guangzhou		child	hai²¹	hai²¹	h ai ²¹	636	child/孩	i n t		孩	
-3341	Fuzhou		child	ha⁵³⁻³³ i⁵³	ha⁵³+i⁵³	h a ⁵³ + i ⁵³	636 807	child/孩 _child/?	i n t + n t		孩 ?	
+3341	Fuzhou		child	ha⁵³⁻³³ i⁵³	ha⁵³+i⁵³	h a ⁵³ + i ⁵³	636 807	child/孩 _child/?	i n t + n t		孩 儿	
 3342	Fuzhou		child	nie⁵³⁻²¹ iaŋ³²⁻³⁵ ŋo⁵⁵	nje⁵³+jaŋ³²+ŋo⁵⁵	n j e ⁵³ + j a ŋ ³² + ŋ o ⁵⁵	317 632 152	child/伲 child/囝 older.brother/哥	i m n t + i n c t + i n t		伲 囝 哥	
 3343	Xiamen		child	in⁵³⁻⁵⁵ na⁵³	in⁵³+na⁵³	i n ⁵³ + n/Ø a ⁵³	632 797	child _:SUF/仔	n c t + i n t		囝 仔	
 3344	Beijing		sea	xɛ²¹⁴	xɛ²¹⁴	x ɛ ²¹⁴	641	sea/海	i n t		海	
@@ -3394,7 +3394,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3394	Suzhou		drink	haʔ⁴	haʔ⁴	h a ʔ ⁴	647	drink/呷	i n c t		呷	
 3395	Wenzhou		drink	ha⁴¹	ha⁴¹	h a ⁴¹	646	drink/喝	i n t		喝	
 3396	Changsha		drink	tɕʰia²⁴	tɕʰja²⁴	tɕʰ j a ²⁴	549	consume/喫	i m n t		喫	
-3397	Changsha		drink	xo²⁴	xo²⁴	x o ²⁴	646	drink/喝	i n t		喝	
+3397	Changsha		drink	xo²⁴	xo²⁴	x o ²⁴	646	drink/喝	i n t	!b	喝	
 3398	Loudi		drink	tɕʰiɔ¹³	tɕʰjɔ¹³	tɕʰ j ɔ ¹³	549	consume/喫	i m n t		喫	
 3399	Nanchang		drink	hot²	hot²	h o t ²	646	drink/喝	i n c t		喝	
 3400	Meixian		drink	sət⁵	sət⁵	s ə t ⁵	550	eat/食	i n c t		食	
@@ -3531,7 +3531,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3531	Suzhou		breathe	tʰʏ⁵²⁻⁴¹ tɕʰi⁴¹²	tʰʏ⁵²+tɕʰi⁴¹²	tʰ ʏ ⁵² + tɕʰ i ⁴¹²	660 332	breathe/𢻕 breath/氣	i n t + i n t		𢻕 氣	
 3532	Wenzhou		breathe	tʰau²⁴²⁻² tsʰɿ⁵¹	tʰau²⁴²+tsʰɿ⁵¹	tʰ au ²⁴² + tsʰ ɿ ⁵¹	660 332	breathe/𢻕 breath/氣	i n t + i n t		𢻕 氣	
 3533	Wenzhou		breathe	fu⁴⁴ ɕiai⁴¹	fu⁴⁴+ɕjai⁴¹	f u ⁴⁴ + ɕ j ai ⁴¹	203 198	inhale/呼 suck/吸	i n t + i m n t		呼 吸	
-3534	Changsha		breathe	fu³³ tɕi²⁴	fu³³+tɕi²⁴	f u ³³ + tɕ i ²⁴	203 198	inhale/呼 suck/吸	i n t + i n t		呼 吸	
+3534	Changsha		breathe	fu³³ tɕi²⁴	fu³³+tɕi²⁴	f u ³³ + tɕ i ²⁴	203 198	inhale/呼 suck/吸	i n t + i n t	!b	呼 吸	
 3535	Changsha		breathe	tɕʰy²⁴⁻⁴⁴ tɕʰi⁵⁵	tɕʰy²⁴+tɕʰi⁵⁵	tɕʰ y ²⁴ + tɕʰ i ⁵⁵	659 332	go.out/出 breath/氣	i n t + i n t		出 氣	
 3536	Loudi		breathe	tɕʰy¹³ tɕʰi³⁵	tɕʰy¹³+tɕʰi³⁵	tɕʰ y ¹³ + tɕʰ i ³⁵	659 332	go.out/出 breath/氣	i n t + i n t		出 氣	
 3537	Nanchang		breathe	fu⁴² ɕit⁵	fu⁴²+ɕit⁵	f u ⁴² + ɕ i t ⁵	203 198	inhale/呼 suck/吸	i n t + i n c t		呼 吸	
@@ -3593,7 +3593,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3593	Suzhou		bad	uɑ⁴¹²	wɑ⁴¹²	w ɑ ⁴¹²	663	bad/壞	i n t		壞	
 3594	Wenzhou		bad	mə³⁴¹	mə³⁴¹	m ə ³⁴¹	777	bad/毛	i n t		毛	
 3595	Changsha		bad	fai¹¹	fai¹¹	f ai ¹¹	663	bad/壞	i n t		壞	
-3596	Changsha		bad	kuai⁴¹	kwai⁴¹	k w ai ⁴¹	665	bad/拐	i m n t		拐	
+3596	Changsha		bad	kuai⁴¹	kwai⁴¹	k w ai ⁴¹	665	bad/拐	i m n t	!ignore!	拐	
 3597	Loudi		bad	ɣua¹¹	ɣwa¹¹	ɣ w a ¹¹	663	bad/壞	i m n t		壞	
 3598	Nanchang		bad	fai²¹	fai²¹	f ai ²¹	663	bad/壞	i n t		壞	
 3599	Meixian		bad	fai⁵³	fai⁵³	f ai ⁵³	663	bad/壞	i n t		壞	
@@ -3658,7 +3658,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3658	Nanchang		live(alive)	uot²¹* ko⁴²	wot²¹+ko⁴²	w o t ²¹ + k o ⁴²	424 56	live/活 _-piece:CLS/個	m n c t + i n t		活 個	
 3659	Meixian		live(alive)	saŋ³³⁻³⁵ ŋe⁵³	saŋ³³+ŋe⁵³	s a ŋ ³³ + ŋ e ⁵³	477 56	born/生 _-piece:CLS/個	i n c t + i n t		生 個	
 3660	Guilin		live(alive)	xuo²² kɤ⁰ te³³	xwo²²+kɤ⁰+te³³	x w o ²² + k ɤ ⁰ + t e ³³	424 184 775	live/活 -?/個 _live	i m n t + i n t + i n t		活 個 囗	
-3661	Guangzhou		live(alive)	saŋ⁵³ kɛ³³	saŋ⁵³+kɛ³³	s a ŋ ⁵³ + k ɛ ³³	477 671	born/生 _live	i n c t + i n t		生 嘅	
+3661	Guangzhou		live(alive)	saŋ⁵³ kɛ³³	saŋ⁵³+kɛ³³	s a ŋ ⁵³ + k ɛ ³³	477 671	born/生 _live	i n c t + i n t	uncooked.	生 嘅	
 3662	Fuzhou		live(alive)	uaʔ⁵ ki⁵³	waʔ⁵+ki⁵³	w a ʔ ⁵ + k i ⁵³	424 454	live/活 _live	i n c t + i n t		活 其	
 3663	Xiamen		live(alive)	uaʔ⁵⁻³²* e⁰	waʔ⁵+e⁰	w a ʔ ⁵ + e ⁰	424 40	live/活 _:GEN/的	i n c t + n t		活 的	
 3664	Beijing		fire	xuo²¹⁴	xwo²¹⁴	x w o ²¹⁴	672	fire/火	i m n t		火	
@@ -3769,8 +3769,8 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 3769	Jixi		freeze	tɕiaʔ³²* piɑ̃⁵⁵	tɕjaʔ³²+pjɑ̃⁵⁵	tɕ j a ʔ ³² + p j ɑ̃ ⁵⁵	678 83	freeze/結 _ice/冰	i m n c t + i m n t		結 冰	
 3770	Suzhou		freeze	tɕiəʔ⁴ pin⁴⁴	tɕjəʔ⁴+pin⁴⁴	tɕ j ə ʔ ⁴ + p i n ⁴⁴	678 83	freeze/結 _ice/冰	i m n c t + i n c t		結 冰	
 3771	Wenzhou		freeze	tɕi⁴¹⁻² peŋ⁴⁴	tɕi⁴¹+peŋ⁴⁴	tɕ i ⁴¹ + p e ŋ ⁴⁴	678 83	freeze/結 _ice/冰	i n t + i n c t		結 冰	
-3772	Changsha		freeze	tɕie²⁴ pin³³	tɕje²⁴+pin³³	tɕ j e ²⁴ + p i n ³³	678 83	freeze/結 _ice/冰	i m n t + i n c t		結 冰	
-3773	Changsha		freeze	ɕia¹¹ lin¹³	ɕja¹¹+lin¹³	ɕ j a ¹¹ + l i n ¹³	58 680	descend/下 _freeze	i m n t + i n c t		下 凜	
+3772	Changsha		freeze	tɕie²⁴ pin³³	tɕje²⁴+pin³³	tɕ j e ²⁴ + p i n ³³	678 83	freeze/結 _ice/冰	i m n t + i n c t	!b	結 冰	
+3773	Changsha		freeze	ɕia¹¹ lin¹³	ɕja¹¹+lin¹³	ɕ j a ¹¹ + l i n ¹³	58 680	descend/下 _freeze	i m n t + i n c t	!i	下 凜	
 3774	Changsha		freeze	kəu⁵⁵⁻⁴¹ lin¹³	kəu⁵⁵+lin¹³	k əu ⁵⁵ + l i n ¹³	681 84	freeze/构 _ice/凌	i n t + i n c t		构 凌	
 3775	Loudi		freeze	tɕʰiɔ⁴² kɤ³⁵	tɕʰjɔ⁴²+kɤ³⁵	tɕʰ j ɔ ⁴² + k ɤ ³⁵	216 681	split/扯 freeze/构	i m n t + i n t		扯 构	
 3776	Nanchang		freeze	tɕiɛt⁵ pin⁴²	tɕjɛt⁵+pin⁴²	tɕ j ɛ t ⁵ + p i n ⁴²	678 83	freeze/結 _ice/冰	i m n c t + i n c t		結 冰	
@@ -4051,7 +4051,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 4051	Meixian		full	man³³	man³³	m a n ³³	710	full/滿	i n c t		滿	
 4052	Guilin		full	mã²³	mã²³	m ã ²³	710	full/滿	i n t		滿	
 4053	Guangzhou		full	mun²³	mun²³	m u n ²³	710	full/滿	i n c t		滿	
-4054	Fuzhou		full	ko²¹²⁻⁵⁵ louŋ⁵³	ko²¹²+louŋ⁵³	k o ²¹² + l ou ŋ ⁵³	56 687	-piece:CLS/個 full/郎	i n t + i n c t		個 郎	
+4054	Fuzhou		full	ko²¹²⁻⁵⁵ louŋ⁵³	ko²¹²+louŋ⁵³	k o ²¹² + l ou ŋ ⁵³	56 687	-piece:CLS/個 full/郎	i n t + i n c t	囫囵	個 郎	
 4055	Fuzhou		full	muaŋ³²	mwaŋ³²	m w a ŋ ³²	710	full/滿	i m n c t		滿	
 4056	Xiamen		full	muã⁵³	mwã⁵³	m w ã ⁵³	710	full/滿	i m n t		滿	
 4057	Beijing		name	miŋ³⁵ tsɿ⁰	miŋ³⁵+tsɿ⁰	m i ŋ ³⁵ + ts ɿ ⁰	712 469	name/名 _character/字	i n c t + i n t		名 字	
@@ -4212,7 +4212,7 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 4212	Guilin		man	lã²² liŋ²²	lã²²+liŋ²²	l ã ²² + l i ŋ ²²	471 38	male/男 _person/人	i n t + i n c t		男 人	
 4213	Guangzhou		man	nam²¹ liɐn²¹⁻³⁵	nam²¹+ljɐn²¹	n a m ²¹ + l j ɐ n ²¹	471 38	male/男 _person/人	i n c t + i m n c t	nam²¹ iɐn²¹⁻³⁵	男 人	
 4214	Fuzhou		man	touŋ²¹²⁻²¹ muo³²⁻³⁵ nøyŋ⁵³	touŋ²¹²+mwo³²+nøyŋ⁵³	t ou ŋ ²¹² + m w o ³² + n øy ŋ ⁵³	463 464 38	husband/丈 man/夫 _person/人	i n c t + i m n t + i n c t		丈 夫 儂	
-4215	Fuzhou		man	naŋ⁵³⁻²¹ ŋai²¹²	naŋ⁵³+ŋai²¹²	n a ŋ ⁵³ + ŋ ai ²¹²	471 738	male/男 _man	i n c t + i n t		男 界	
+4215	Fuzhou		man	naŋ⁵³⁻²¹ ŋai²¹²	naŋ⁵³+ŋai²¹²	n a ŋ ⁵³ + ŋ ai ²¹²	471 738	male/男 _domain/界	i n c t + i n t		男 界	
 4216	Xiamen		man	ta²²⁻³³ pɔ⁵⁵⁻³³ laŋ²⁴	ta²²+pɔ⁵⁵+laŋ²⁴	t a ²² + p ɔ ⁵⁵ + l a ŋ ²⁴	463 464 38	husband/丈 man/夫 _person/人	i n t + i n t + i n c t		丈 夫 人	
 4217	Beijing		you	ni²¹⁴	ni²¹⁴	n i ²¹⁴	739	thou/你	i n t		你	
 4218	Ha_erbin		you	ni²¹³	ni²¹³	n i ²¹³	739	thou/你	i n t		你	
@@ -4263,13 +4263,13 @@ ID	DOCULECT	SUBGROUP	CONCEPT	VALUE	IPA	TOKENS	COGIDS	MORPHEMES	STRUCTURE	NOTE	CH
 4263	Rongcheng		bird	tsʰyɔr³⁵	tsʰɥɔ³⁵	tsʰ ɥ ɔ ³⁵	746	bird/雀	i m n t		雀	
 4264	Taiyuan		bird	niau⁵³	njau⁵³	n j au ⁵³	745	bird/鳥	i m n t		鳥	
 4265	Xi_an		bird	tɕʰiɑur⁵³	tɕʰjɑu⁵³	tɕʰ j ɑu ⁵³	745	bird/鳥	i m n t		鳥	
-4266	Chengdu		bird	tɕʰyo²¹⁻⁵⁵ ər⁵⁵	tɕʰɥo²¹+ə⁵⁵	tɕʰ ɥ o ²¹ + ə ⁵⁵	746 821	bird/雀 _:SUF/?	i m n t + n t		雀	
+4266	Chengdu		bird	tɕʰyo²¹⁻⁵⁵ ər⁵⁵	tɕʰɥo²¹+ə⁵⁵	tɕʰ ɥ o ²¹ + ə ⁵⁵	746 821	bird/雀 _:SUF/儿	i m n t + n t	雀儿	雀 儿	
 4267	Chengdu		bird	tɕʰo²¹⁻⁵⁵ tɕʰo²¹⁻⁵⁵	tɕʰo²¹+tɕʰo²¹	tɕʰ o ²¹ + tɕʰ o ²¹	746 788	bird/雀 _bird:RED/雀	i n t + i n t		雀 雀	
 4268	Nanjing		bird	liɔ¹¹	ljɔ¹¹	l j ɔ ¹¹	745	bird/鳥	i m n t		鳥	
 4269	Nanjing		bird	tɕʰioʔ⁵ tsɿ⁰	tɕʰjoʔ⁵+tsɿ⁰	tɕʰ j o ʔ ⁵ + ts ɿ ⁰	746 19	bird/雀 _-child:SUF/子	i m n c t + i n t		雀 子	
 4270	Jixi		bird	ȵie²¹³	ɲje²¹³	ɲ j e ²¹³	745	bird/鳥	i m n t		鳥	
 4271	Suzhou		bird	tiæ⁵²	tjæ⁵²	t j æ ⁵²	745	bird/鳥	i m n t		鳥	
-4272	Wenzhou		bird	tiɛ²⁴²⁻⁴² ŋ̍⁰	tjɛ²⁴²+ŋ̍⁰	t j ɛ ²⁴² + Ø/ə ŋ̍/ŋ ⁰	745 823	bird/鳥 _:SUF/?	i m n t + i n t		鳥 ?	
+4272	Wenzhou		bird	tiɛ²⁴²⁻⁴² ŋ̍⁰	tjɛ²⁴²+ŋ̍⁰	t j ɛ ²⁴² + Ø/ə ŋ̍/ŋ ⁰	745 823	bird/鳥 _:SUF/儿	i m n t + i n t	鸟儿	鳥 儿	
 4273	Changsha		bird	ȵiau⁴¹	ɲjau⁴¹	ɲ j au ⁴¹	745	bird/鳥	i m n t		鳥	
 4274	Loudi		bird	tiɤ⁴² tɕi³⁵⁻⁵	tjɤ⁴²+tɕi³⁵	t j ɤ ⁴² + tɕ i ³⁵	745 747	bird/鳥 _:SUF/唧	i m n t + i n t		鳥 唧	
 4275	Nanchang		bird	ȵiɛu²¹³	ɲjɛu²¹³	ɲ j ɛu ²¹³	745	bird/鳥	i m n t		鳥	
