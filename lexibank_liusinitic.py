@@ -33,6 +33,7 @@ def check_entry(wordlist, index, errors=defaultdict(list)):
 class CustomLexeme(pylexibank.Lexeme):
     Prosody = attr.ib(default="")
     Morphemes = attr.ib(default=None)
+    Partial_Cognacy = attr.ib(default=None)
 
 
 @attr.s
@@ -109,6 +110,7 @@ class Dataset(pylexibank.Dataset):
                 Form=wl[idx, "value"],
                 Segments=[y for y in [x.split("/")[0] for x in wl[idx, "tokens"]] if y != "Ø"],
                 Prosody=wl[idx, "structure"],
+                Partial_Cognacy=" ".join([str(x) for x in wl[idx, "cogids"]]),
                 Source=["Liu2007"],
             )
             for gloss_index, cogid in enumerate(wl[idx, "cogids"]):
