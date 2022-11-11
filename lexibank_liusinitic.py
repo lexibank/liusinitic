@@ -1,6 +1,7 @@
 from collections import defaultdict
 from pathlib import Path
 
+from clldutils.misc import slug
 import attr
 import lingpy
 import pylexibank
@@ -32,8 +33,9 @@ def check_entry(wordlist, index, errors=defaultdict(list)):
 @attr.s
 class CustomLexeme(pylexibank.Lexeme):
     Prosody = attr.ib(default="")
-    Morphemes = attr.ib(default=None)
+    Morpheme_Glosses = attr.ib(default=None)
     Partial_Cognacy = attr.ib(default=None)
+    Chinese_Characters = attr.ib(default=None)
 
 
 @attr.s
@@ -66,6 +68,7 @@ class Dataset(pylexibank.Dataset):
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
     cognate_class = CustomCognate
+    cross_concept_cognates = True
 
     def cmd_download(self, args):
         print("updating ...")
@@ -79,24 +82,33 @@ class Dataset(pylexibank.Dataset):
         args.writer.add_sources()
         # read in data
         ds = self.raw_dir / "liusinitic.tsv"
-        wl = lingpy.Wordlist(ds.as_posix())
+        wl = lingpy.Wordlist(str(ds))
+
         # add languages
         languages = args.writer.add_languages(lookup_factory="Name")
         # add concepts
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1]+"_"+slug(concept.english)
             args.writer.add_concept(
-                ID=concept.id,
+                ID=idx,
                 Name=concept.english,
                 Chinese_Gloss=concept.attributes["chinese"],
                 Concepticon_ID=concept.concepticon_id,
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept.english] = concept.id
+            concepts[concept.english] = idx
         # add the concepts which appear in the word list but do not appear in the concepticon list.
-        concepts["heart [compound]"] = "Liu-2007-201-158"
-        concepts["river_2"] = "Liu-2007-201-50"
-        concepts["river"] = "Liu-2007-201-49"
+        args.writer.add_concept(
+                ID="202_heartcompound",
+                Name="heart [compound]",
+                Chinese_Gloss="心臟",
+                Concepticon_ID="1223",
+                Concepticon_Gloss="HEART"
+                )
+        concepts["heart [compound]"] = "202_heartcompound"
+        concepts["river_2"] = "50_river"
+        concepts["river"] = "49_river"
 
         # add forms
         errors = defaultdict(list)
@@ -110,8 +122,11 @@ class Dataset(pylexibank.Dataset):
                 Form=wl[idx, "value"],
                 Segments=[y for y in [x.split("/")[0] for x in wl[idx, "tokens"]] if y != "Ø"],
                 Prosody=wl[idx, "structure"],
-                Partial_Cognacy=" ".join([str(x) for x in wl[idx, "cogids"]]),
                 Source=["Liu2007"],
+                Comment=wl[idx, "note"],
+                Morpheme_Glosses=" ".join(wl[idx, "morphemes"]),
+                Partial_Cognacy=" ".join([str(c) for c in wl[idx, "cogids"]]),
+                Chinese_Characters=wl[idx, "characters"]
             )
             for gloss_index, cogid in enumerate(wl[idx, "cogids"]):
                 args.writer.add_cognate(
@@ -124,3 +139,9 @@ class Dataset(pylexibank.Dataset):
                     for error in problems:
                         args.log.warning("{0} {1}".format(idx, error))
                         f.write("* {0} {1}\n".format(error, idx))
+
+        args.writer.cldf["LanguageTable"].tableSchema.columns = [
+            col
+            for col in args.writer.cldf["LanguageTable"].tableSchema.columns
+            if col.name != "ISO639P3code"
+        ]

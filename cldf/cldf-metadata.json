@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/liusinitic",
             "rdf:type": "prov:Entity",
-            "dc:created": "81542b7",
+            "dc:created": "480e129",
             "dc:title": "Repository"
         },
         {
@@ -133,11 +133,15 @@
                     },
                     {
                         "datatype": "string",
-                        "name": "Morphemes"
+                        "name": "Morpheme_Glosses"
                     },
                     {
                         "datatype": "string",
                         "name": "Partial_Cognacy"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chinese_Characters"
                     }
                 ],
                 "foreignKeys": [
@@ -194,11 +198,6 @@
                     {
                         "datatype": "string",
                         "name": "Glottolog_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
                     },
                     {
                         "datatype": "string",
@@ -262,7 +261,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 202,
+            "dc:extent": 203,
             "tableSchema": {
                 "columns": [
                     {
