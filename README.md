@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 19
-- **Concepts:** 203
+- **Varieties:** 19 (linked to 19 different Glottocodes)
+- **Concepts:** 203 (linked to 202 different Concepticon concept sets)
 - **Lexemes:** 4,302
 - **Sources:** 1
 - **Synonymy:** 1.12
@@ -46,7 +46,7 @@ Name | GitHub user | Description | Role
 Liú Lìlǐ | | data collector | DataCollector, Editor, Author
 Wáng Hóngzhōng | | data collector | DataCollector, Editor, Author
 Bǎi Yíng | | data collector | DataCollector, Editor, Author
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
 
 
 
