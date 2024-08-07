@@ -69,6 +69,7 @@ class Dataset(pylexibank.Dataset):
     lexeme_class = CustomLexeme
     cognate_class = CustomCognate
     cross_concept_cognates = True
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_download(self, args):
         print("updating ...")
